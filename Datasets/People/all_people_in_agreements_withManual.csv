@@ -1,0 +1,105 @@
+agreement_id,entity,per_correction,entity_type,person_affiliation,NER
+1321, Aung San,General Aung San,PER,Gov. of Myanmar,spaCy
+1544, Gen. Ya Pyit,Lt. Gen. Ya Pyit,PER,Gov. of Myanmar,spaCy
+1544, U Khin Maung Soe  Union,U Khin Maung Soe,PER,Gov. of Myanmar,spaCy
+1544, Gen. Ye Aung  Chief,Lt. Gen. Ye Aung,PER,Gov. of Myanmar,spaCy
+1544, Tun Tun Naung,Maj. Gen. Tun Tun Naung,PER,Gov. of Myanmar,spaCy
+1544, Aung Kyaw Zaw,Maj. Gen. Aung Kyaw Zaw,PER,Gov. of Myanmar,spaCy
+1544, U Myint Soe  Retired Lt,U Myint Soe,PER,Gov. of Myanmar,spaCy
+1544, Min Zaw,Dr. Min Zaw Oo,PER,Gov. of Myanmar,spaCy
+1544, Gen. Saw Isaac Poe  Quartermaster General,Maj. Gen. Saw Isaac Poe,PER,KNU/KNLA,spaCy
+1544, Gen. Saw Nay Soe Mya  Adjutant General,Maj. Gen. Saw Nay Soe Mya,PER,KNU/KNLA,spaCy
+1544, Shwe Kah,Dr. Shwe Kah,PER,CNF,spaCy
+1544, Saw Kyaw Htay,Col. Saw Kyaw Than Htay,PER,,spaCy
+1544, Khun Aung Mang  PNLO,Lt. Col. Khun Aung Mang,PER,PNLO,spaCy
+1544, Salai Yaw Aung  ABSDF,Salai Yaw Aung,PER,ABSDF,spaCy
+1544, Hsaung Han,Col. Hsaung Han,PER,RCSS,spaCy
+1544, Sai Liang ,Sai Liang,PER,RCSS,spaCy
+1550, U Aung Min,U Aung Min,PER,Gov. of Myanmar,spaCy
+1550, KNPP Khu Oo Reh,Khu Oo Reh,PER,KNPP,spaCy
+1552, Aung Lwin,Col. Aung Lwin,PER,,spaCy
+1552, Kalo Htoo Baw U Saw Mu Shay,U Saw Mu Shay,PER,DKBA-5,spaCy
+1552, Gen Saw Lar Pwe,Maj. Gen Saw Lar Pwe,PER,Gov. of Myanmar,spaCy
+1553, U Aung Min,U Aung Min,PER,Gov. of Myanmar,spaCy
+1555, U Aung Thaung,U Aung Thaung,PER,Gov. of Myanmar,spaCy
+1555, U Thein Zaw,U Thein Zaw,PER,Gov. of Myanmar,spaCy
+1555, U Win Tun,U Win Tun,PER,Gov. of Myanmar,spaCy
+1557, U Aung Min,U Aung Min,PER,Gov. of Myanmar,spaCy
+1557, U Win Tun,U Win Tun,PER,Gov. of Myanmar,spaCy
+1557, U Ohn Myint,U Ohn Myint,PER,Gov. of Myanmar,spaCy
+1557, U Win Tun,U Win Tun,PER,Gov. of Myanmar,spaCy
+1557, U Ohn Myint,U Ohn Myint,PER,Gov. of Myanmar,spaCy
+1557, U Aung Min,U Aung Min,PER,Gov. of Myanmar,spaCy
+1562, U Aung Thaung,U Aung Thaung,PER,Gov. of Myanmar,spaCy
+1562, U Thein Zaw,U Thein Zaw,PER,Gov. of Myanmar,spaCy
+1562, U Ohn Myint,U Ohn Myint,PER,Gov. of Myanmar,spaCy
+1562, U Win Tun,U Win Tun,PER,Gov. of Myanmar,spaCy
+1562, U Sao Aung Myat,U Sao Aung Myat,PER,,spaCy
+1562, U Maung Maung Thein,U Maung Maung Thein,PER,Gov. of Myanmar,spaCy
+1562, North - East Command Maj - Gen Aung Kyaw Zaw,Maj-Gen Aung Kyaw Zaw,PER,Gov. of Myanmar,spaCy
+1562, Central East Command,Maj-Gen Mya Tun Oo,PER,Gov. of Myanmar,spaCy
+1562, Maj - Gen Zaw Win,Maj-Gen Zaw Win,PER,Gov. of Myanmar,spaCy
+1562, U Soe Tint,U Soe Tint,PER,,spaCy
+1562, Aung Thu,Col Aung Thu.,PER,,spaCy
+1562, Sao Khay Tai,General Sao Khay Tai,PER,,spaCy
+1562, Sao Khin Min,Sao Khin Min,PER,,spaCy
+1562, Sao Khun Hsai,Sao Khun Hsai,PER,,spaCy
+1562, Sao Khay Maung,Sao Khay Maung,PER,,spaCy
+1562, Sao Kyaw Hla,Sao Kyaw Hla,PER,,spaCy
+1562, Sao Htin Mein,Sao Htin Mein,PER,,spaCy
+1562, Sao Laung Khay,Sao Laung Khay,PER,,spaCy
+1562, Aung Thu,Col Aung Thu.,PER,,spaCy
+1562, Central East Command,Maj-Gen Mya Tun Oo,PER,Gov. of Myanmar,spaCy
+1562, Sao Khay Maung,Sao Khay Maung,PER,,spaCy
+1562, Sao Htin Mein,Sao Htin Mein,PER,,spaCy
+1562, U Aung Thaung,U Aung Thaung,PER,Gov. of Myanmar,spaCy
+1562, Sao Khay Tai,General Sao Khay Tai,PER,,spaCy
+1562, U Aung Thaung,U Aung Thaung,PER,Gov. of Myanmar,spaCy
+1562, U Thein Zaw,U Thein Zaw,PER,Gov. of Myanmar,spaCy
+1562, Sao Khay Tai,General Sao Khay Tai,PER,,spaCy
+1562, Sao Khun Hsai,Sao Khun Hsai,PER,,spaCy
+1563, U Aung Thaung,U Aung Thaung,PER,Gov. of Myanmar,spaCy
+1564, U Aung Min,U Aung Min,PER,Gov. of Myanmar,spaCy
+1564, Naw Zipporah Sein,General Secretary Naw Zipporah Sein,PER,KNU/KNLA,spaCy
+1578, U Aung Thaung,U Aung Thaung,PER,Gov. of Myanmar,spaCy
+1578, U Saw Lah Pwe,U Saw Lah Pwe,PER,DKBA-5,spaCy
+1580, Khun Okkar,U Khun Okkar,PER,PNLO,spaCy
+1580, U Khun Myint Htun,U Khun Myint Htun,PER,,spaCy
+1580, Khin Mg Soe,U Khin Mg Soe,PER,UPWC,spaCy
+1841, U Twan Zaw,U Twan Zaw,PER,,spaCy
+1841, U Tun Mrat Naing,U Tun Mrat Naing,PER,AA,spaCy
+1841, Pu Zin Cun Commander,Pu Zin Cun,PER,CNF,spaCy
+1841, Saw Mo Shay,Gen. Saw Mo Shay,PER,DKBA,spaCy
+1841, Koon Abel Tweed,Koon Abel Tweed,PER,KNPP,spaCy
+1841, Saw Kyaw Dah,Col. Saw Kyaw Dah,PER,KNU/KNLA,spaCy
+1841, Kya Khunsa,Kya Khunsa,PER,LDU,spaCy
+2369, Tin Myo Win  Representative,Dr. Tin Myo Win,PER,Gov. of Myanmar,spaCy
+2369, Win Myint  Representative,Dr. May Win Myint,PER,Gov. of Myanmar,spaCy
+2369, U Thu Wai  Representative,U Thu Wai,PER,,spaCy
+2369, Kyaw Win  Relevant Representative,U Kyaw Win,PER,Gov. of Myanmar,spaCy
+2369, Ethnic Armed Organization Group  U Zein Khan Ram  Ethnic Representative Political Parties Group,U Zein Khan Ram,PER,,spaCy
+771, U Aung Min,U Aung Min,PER,Gov. of Myanmar,spaCy
+771, Union Myanmar U Thein Sein,U Thein Sein,PER,Gov. of Myanmar,spaCy
+771, Pu Zing Cung,Pu Zing Cung,PER,CNF,spaCy
+771, Sui Khar,Dr. Sui Khar,PER,CNF,spaCy
+771, U Aung Min,U Aung Min,PER,Gov. of Myanmar,spaCy
+771, U Win Htun,U Win Htun,PER,Gov. of Myanmar,spaCy
+771, U Hung Ngai,U Hung Ngai,PER,,spaCy
+776, Htein Lin,Htein Lin,PER,Gov. of Myanmar,spaCy
+1544,Maj. Gen. Min Naung,Maj. Gen. Min Naung,PER,Gov. of Myanmar,manual
+1544,Lt. Col Khine Myo Chit,Lt. Col Khine Myo Chit,PER,ALP,manual
+1544,Padoh Saw Ta Doh Moo,Padoh Saw Ta Doh Moo,PER,KNU,manual
+1500,Khu Oo Re,Khu Oo Re,PER,KNPP,manual
+1562,U Tun Tun Oo,U Tun Tun Oo,PER,Gov,manual
+1562,Lt-Col Zaw Naing Oo,Lt-Col Zaw Naing Oo,PER,Gov,manual
+1562,Sao Hsay Pein Pha,Sao Hsay Pein Pha,PER,SSPP,manual
+1580,U Aung Min,U Aung Min,PER,UPWC,manual
+1841,Khaing Thuka,Khaing Thuka,PER,Arakan Liberation Party,manual
+1841,Saw Mutu Say Po,Saw Mutu Say Po,PER,KNU/KNLA,manual
+1841,Hpon Da Shwin,Hpon Da Shwin,PER,Myanmar National Democratic Alliance Army,manual
+2369,Lt-Gen Tin Maug Win,Lt-Gen Tin Maug Win,PER,Tatmadaw,manual
+2369,Lian Hmung Sakhong,Lian Hmung Sakhong,PER,EAO,manual
+2369,U Htone Phoo Dagon,U Htone Phoo Dagon,PER,Ethnic Representative Government Group,manual
+2369,Kya Sha Mwe,Kya Sha Mwe,PER,EAO,manual
+2369,Daw Khin Ma Ma Myo,Daw Khin Ma Ma Myo,PER,EAO,manual
+2369,Nang Aye Aye Thwe,Nang Aye Aye Thwe,PER,Political Parties Group,manual
