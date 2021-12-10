@@ -1,0 +1,90 @@
+,agreement_id,Person,Mentions per agreement,AgtId,Date,Stage,per_correction,person_affiliation
+0,771,U Aung Min,2,771,06/01/2012,SubPar,U Aung Min,Gov. of Myanmar
+8,1550,U Aung Min,1,1550,20/06/2013,Cea,U Aung Min,Gov. of Myanmar
+16,1553,U Aung Min,1,1553,13/01/2012,Cea,U Aung Min,Gov. of Myanmar
+24,1557,U Aung Min,2,1557,25/02/2012,Cea,U Aung Min,Gov. of Myanmar
+32,1564,U Aung Min,1,1564,07/04/2012,Cea,U Aung Min,Gov. of Myanmar
+40,1580,U Aung Min,1,1580,23/03/2013,Cea,U Aung Min,Gov. of Myanmar
+48,771,Dr. Sui Khar,1,771,06/01/2012,SubPar,Dr. Sui Khar,CNF
+49,771,Pu Zing Cung,1,771,06/01/2012,SubPar,Pu Zing Cung,CNF
+50,771,U Hung Ngai,1,771,06/01/2012,SubPar,U Hung Ngai,
+51,771,U Thein Sein,1,771,06/01/2012,SubPar,U Thein Sein,Gov. of Myanmar
+52,771,U Win Htun,1,771,06/01/2012,SubPar,U Win Htun,Gov. of Myanmar
+53,776,Htein Lin,1,776,05/04/2012,Cea,Htein Lin,Gov. of Myanmar
+54,1321,General Aung San,1,1321,09/12/2012,SubPar,General Aung San,Gov. of Myanmar
+55,1544,Col. Hsaung Han,1,1544,18/11/2015,Cea,Col. Hsaung Han,RCSS
+56,1544,Col. Saw Kyaw Than Htay,1,1544,18/11/2015,Cea,Col. Saw Kyaw Than Htay,
+57,1544,Dr. Min Zaw Oo,1,1544,18/11/2015,Cea,Dr. Min Zaw Oo,Gov. of Myanmar
+58,1544,Dr. Shwe Kah,1,1544,18/11/2015,Cea,Dr. Shwe Kah,CNF
+59,1544,Lt. Col Khine Myo Chit,1,1544,18/11/2015,Cea,Lt. Col Khine Myo Chit,ALP
+60,1544,Lt. Col. Khun Aung Mang,1,1544,18/11/2015,Cea,Lt. Col. Khun Aung Mang,PNLO
+61,1544,Lt. Gen. Ya Pyit,1,1544,18/11/2015,Cea,Lt. Gen. Ya Pyit,Gov. of Myanmar
+62,1544,Lt. Gen. Ye Aung,1,1544,18/11/2015,Cea,Lt. Gen. Ye Aung,Gov. of Myanmar
+63,1544,Maj. Gen. Aung Kyaw Zaw,1,1544,18/11/2015,Cea,Maj. Gen. Aung Kyaw Zaw,Gov. of Myanmar
+64,1544,Maj. Gen. Min Naung,1,1544,18/11/2015,Cea,Maj. Gen. Min Naung,Gov. of Myanmar
+65,1544,Maj. Gen. Saw Isaac Poe,1,1544,18/11/2015,Cea,Maj. Gen. Saw Isaac Poe,KNU/KNLA
+66,1544,Maj. Gen. Saw Nay Soe Mya,1,1544,18/11/2015,Cea,Maj. Gen. Saw Nay Soe Mya,KNU/KNLA
+67,1544,Maj. Gen. Tun Tun Naung,1,1544,18/11/2015,Cea,Maj. Gen. Tun Tun Naung,Gov. of Myanmar
+68,1544,Padoh Saw Ta Doh Moo,1,1544,18/11/2015,Cea,Padoh Saw Ta Doh Moo,KNU
+69,1544,Sai Liang,1,1544,18/11/2015,Cea,Sai Liang,RCSS
+70,1544,Salai Yaw Aung,1,1544,18/11/2015,Cea,Salai Yaw Aung,ABSDF
+71,1544,U Khin Maung Soe,1,1544,18/11/2015,Cea,U Khin Maung Soe,Gov. of Myanmar
+72,1544,U Myint Soe,1,1544,18/11/2015,Cea,U Myint Soe,Gov. of Myanmar
+73,1550,Khu Oo Reh,1,1550,20/06/2013,Cea,Khu Oo Reh,KNPP
+74,1552,Col. Aung Lwin,1,1552,03/11/2011,Cea,Col. Aung Lwin,
+75,1552,Maj. Gen Saw Lar Pwe,1,1552,03/11/2011,Cea,Maj. Gen Saw Lar Pwe,Gov. of Myanmar
+76,1552,U Saw Mu Shay,1,1552,03/11/2011,Cea,U Saw Mu Shay,DKBA-5
+77,1555,U Aung Thaung,1,1555,27/12/2011,Pre,U Aung Thaung,Gov. of Myanmar
+83,1562,U Aung Thaung,3,1562,28/01/2012,Cea,U Aung Thaung,Gov. of Myanmar
+89,1563,U Aung Thaung,1,1563,26/12/2012,Cea,U Aung Thaung,Gov. of Myanmar
+95,1578,U Aung Thaung,1,1578,11/12/2011,Cea,U Aung Thaung,Gov. of Myanmar
+101,1555,U Thein Zaw,1,1555,27/12/2011,Pre,U Thein Zaw,Gov. of Myanmar
+104,1562,U Thein Zaw,2,1562,28/01/2012,Cea,U Thein Zaw,Gov. of Myanmar
+107,1555,U Win Tun,1,1555,27/12/2011,Pre,U Win Tun,Gov. of Myanmar
+111,1557,U Win Tun,2,1557,25/02/2012,Cea,U Win Tun,Gov. of Myanmar
+115,1562,U Win Tun,1,1562,28/01/2012,Cea,U Win Tun,Gov. of Myanmar
+119,1557,U Ohn Myint,2,1557,25/02/2012,Cea,U Ohn Myint,Gov. of Myanmar
+122,1562,U Ohn Myint,1,1562,28/01/2012,Cea,U Ohn Myint,Gov. of Myanmar
+125,1562,General Sao Khay Tai,3,1562,28/01/2012,Cea,General Sao Khay Tai,
+128,1562,Col Aung Thu.,2,1562,28/01/2012,Cea,Col Aung Thu.,
+130,1562,Maj-Gen Mya Tun Oo,2,1562,28/01/2012,Cea,Maj-Gen Mya Tun Oo,Gov. of Myanmar
+132,1562,Sao Htin Mein,2,1562,28/01/2012,Cea,Sao Htin Mein,
+134,1562,Sao Khay Maung,2,1562,28/01/2012,Cea,Sao Khay Maung,
+136,1562,Sao Khun Hsai,2,1562,28/01/2012,Cea,Sao Khun Hsai,
+138,1562,Lt-Col Zaw Naing Oo,1,1562,28/01/2012,Cea,Lt-Col Zaw Naing Oo,Gov
+139,1562,Maj-Gen Aung Kyaw Zaw,1,1562,28/01/2012,Cea,Maj-Gen Aung Kyaw Zaw,Gov. of Myanmar
+140,1562,Maj-Gen Zaw Win,1,1562,28/01/2012,Cea,Maj-Gen Zaw Win,Gov. of Myanmar
+141,1562,Sao Hsay Pein Pha,1,1562,28/01/2012,Cea,Sao Hsay Pein Pha,SSPP
+142,1562,Sao Khin Min,1,1562,28/01/2012,Cea,Sao Khin Min,
+143,1562,Sao Kyaw Hla,1,1562,28/01/2012,Cea,Sao Kyaw Hla,
+144,1562,Sao Laung Khay,1,1562,28/01/2012,Cea,Sao Laung Khay,
+145,1562,U Maung Maung Thein,1,1562,28/01/2012,Cea,U Maung Maung Thein,Gov. of Myanmar
+146,1562,U Sao Aung Myat,1,1562,28/01/2012,Cea,U Sao Aung Myat,
+147,1562,U Soe Tint,1,1562,28/01/2012,Cea,U Soe Tint,
+148,1562,U Tun Tun Oo,1,1562,28/01/2012,Cea,U Tun Tun Oo,Gov
+149,1564,General Secretary Naw Zipporah Sein,1,1564,07/04/2012,Cea,General Secretary Naw Zipporah Sein,KNU/KNLA
+150,1578,U Saw Lah Pwe,1,1578,11/12/2011,Cea,U Saw Lah Pwe,DKBA-5
+151,1580,U Khin Mg Soe,1,1580,23/03/2013,Cea,U Khin Mg Soe,UPWC
+152,1580,U Khun Myint Htun,1,1580,23/03/2013,Cea,U Khun Myint Htun,
+153,1580,U Khun Okkar,1,1580,23/03/2013,Cea,U Khun Okkar,PNLO
+154,1841,Col. Saw Kyaw Dah,1,1841,02/11/2013,Cea,Col. Saw Kyaw Dah,KNU/KNLA
+155,1841,Gen. Saw Mo Shay,1,1841,02/11/2013,Cea,Gen. Saw Mo Shay,DKBA
+156,1841,Hpon Da Shwin,1,1841,02/11/2013,Cea,Hpon Da Shwin,Myanmar National Democratic Alliance Army
+157,1841,Khaing Thuka,1,1841,02/11/2013,Cea,Khaing Thuka,Arakan Liberation Party
+158,1841,Koon Abel Tweed,1,1841,02/11/2013,Cea,Koon Abel Tweed,KNPP
+159,1841,Kya Khunsa,1,1841,02/11/2013,Cea,Kya Khunsa,LDU
+160,1841,Pu Zin Cun,1,1841,02/11/2013,Cea,Pu Zin Cun,CNF
+161,1841,Saw Mutu Say Po,1,1841,02/11/2013,Cea,Saw Mutu Say Po,KNU/KNLA
+162,1841,U Tun Mrat Naing,1,1841,02/11/2013,Cea,U Tun Mrat Naing,AA
+163,1841,U Twan Zaw,1,1841,02/11/2013,Cea,U Twan Zaw,
+164,2369,Daw Khin Ma Ma Myo,1,2369,21/08/2020,SubPar,Daw Khin Ma Ma Myo,EAO
+165,2369,Dr. May Win Myint,1,2369,21/08/2020,SubPar,Dr. May Win Myint,Gov. of Myanmar
+166,2369,Dr. Tin Myo Win,1,2369,21/08/2020,SubPar,Dr. Tin Myo Win,Gov. of Myanmar
+167,2369,Kya Sha Mwe,1,2369,21/08/2020,SubPar,Kya Sha Mwe,EAO
+168,2369,Lian Hmung Sakhong,1,2369,21/08/2020,SubPar,Lian Hmung Sakhong,EAO
+169,2369,Lt-Gen Tin Maug Win,1,2369,21/08/2020,SubPar,Lt-Gen Tin Maug Win,Tatmadaw
+170,2369,Nang Aye Aye Thwe,1,2369,21/08/2020,SubPar,Nang Aye Aye Thwe,Political Parties Group
+171,2369,U Htone Phoo Dagon,1,2369,21/08/2020,SubPar,U Htone Phoo Dagon,Ethnic Representative Government Group
+172,2369,U Kyaw Win,1,2369,21/08/2020,SubPar,U Kyaw Win,Gov. of Myanmar
+173,2369,U Thu Wai,1,2369,21/08/2020,SubPar,U Thu Wai,
+174,2369,U Zein Khan Ram,1,2369,21/08/2020,SubPar,U Zein Khan Ram,

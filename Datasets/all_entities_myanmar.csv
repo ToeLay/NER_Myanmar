@@ -1,0 +1,1378 @@
+,doc_id,agreement_id,sentence_number,entity,entity_type
+0,0,1321,0, CNF - Govt Agreements, ORG 
+1,0,1321,0, Chinland Guardian, ORG 
+2,0,1321,0, Chin National ( CNF, ORG 
+3,0,1321,0, Peace Committee Burma, ORG 
+4,0,1321,0, Rangoon, GPE 
+5,0,1321,1, Chin National Union, ORG 
+6,0,1321,1, Peace Working Committee, ORG 
+7,0,1321,1, Peace Talks , ORG 
+8,0,1321,1, Union Burma, ORG 
+9,0,1321,1, Chin National, ORG 
+10,0,1321,1, Union Peace Working Committee, ORG 
+11,0,1321,1, Union, ORG 
+12,0,1321,1, Panglong, ORG 
+13,0,1321,1, Chin National Peace Negotiating Team, ORG 
+14,0,1321,1, Chin State Government, ORG 
+15,0,1321,1, Hakha, GPE 
+16,0,1321,1, Chin State, GPE 
+17,0,1321,1, Chin National, ORG 
+18,0,1321,1, Chin State Government, ORG 
+19,0,1321,1, Chin State, GPE 
+20,0,1321,1, Tranquility, ORG 
+21,0,1321,2, Chin National, ORG 
+22,0,1321,2, Non - disintegration, ORG 
+23,0,1321,2, Union, ORG 
+24,0,1321,2, National Solidarity Perpetuation Sovereignty, ORG 
+25,0,1321,3, Chin National, ORG 
+26,0,1321,3, Union Peace Working Committee, ORG 
+27,0,1321,3, Tranquility Committee, ORG 
+28,0,1321,3, Peace Facilitating Committee, ORG 
+29,0,1321,4, Union Burma, ORG 
+30,0,1321,4, Panglong Agreement, ORG 
+31,0,1321,4, Kachin Hill Tribes Regulation, ORG 
+32,0,1321,4, Government Burma Act, ORG 
+33,0,1321,5, Burma, GPE 
+34,0,1321,5, Panglong Conference, ORG 
+35,0,1321,5, Aung San, PERSON 
+36,0,1321,6, Government Chin State, ORG 
+37,0,1321,7, Government Chin State, ORG 
+38,0,1321,7, Chin Special Division, ORG 
+39,0,1321,7, Chin State, GPE 
+40,0,1321,8, Environment , ORG 
+41,0,1321,8, Chin National, ORG 
+42,0,1321,8, Unlawful Association Act, ORG 
+43,0,1321,8, Chin National, ORG 
+44,0,1321,8, Union Government, ORG 
+45,0,1321,10, Chin State Government, ORG 
+46,0,1321,10, Chin National, ORG 
+47,0,1321,10, Chin, PERSON 
+48,0,1321,11, National Human Rights Commission, ORG 
+49,0,1321,11, Chin State Government, ORG 
+50,0,1321,11, Chin National, ORG 
+51,0,1321,13, Chin State, GPE 
+52,0,1321,15, Chin State, ORG 
+53,0,1321,17, Union Burma, ORG 
+54,0,1321,17, Burma Army, ORG 
+55,0,1321,17, Burma, GPE 
+56,0,1321,19, Union Peace Working Committee, ORG 
+57,0,1321,19, Chin National Chin National Army, ORG 
+58,0,1321,19, Thantlang Township, GPE 
+59,0,1321,19, Vanzang, GPE 
+60,0,1321,19, Lungding, ORG 
+61,0,1321,19, Belhar, GPE 
+62,0,1321,19, Lulpilung Village Tracts, GPE 
+63,0,1321,19, Tedim Township, GPE 
+64,0,1321,21, Burma Army, ORG 
+65,0,1321,21, Chin National Army, ORG 
+66,0,1321,23, Chin National Army, ORG 
+67,0,1321,23, Burma Army, ORG 
+68,0,1321,23, Battalion, ORG 
+69,0,1321,25, Chin National, ORG 
+70,0,1321,27, Chin, PERSON 
+71,0,1321,27, Chin National, ORG 
+72,0,1321,27, Chin National Army, ORG 
+73,0,1321,27, Non Governmental Organizations, ORG 
+74,0,1321,27, Union Government, ORG 
+75,0,1321,29, Union Government, ORG 
+76,0,1321,29, Chin National, ORG 
+77,0,1321,30, Chin National, ORG 
+78,0,1321,30, International Non- Governmental Organizations, ORG 
+79,0,1321,32, Chin State Government, ORG 
+80,0,1321,32, Chin National, ORG 
+81,0,1321,32, Chin National, ORG 
+82,0,1321,32, Union Government, ORG 
+83,0,1321,32, Chin State Government, ORG 
+84,0,1321,35, Chin National, ORG 
+85,0,1321,35, Union Government, ORG 
+86,0,1321,35, Chin State Government, ORG 
+87,0,1321,35, Community Radio, ORG 
+88,0,1321,35, Chin, PERSON 
+89,0,1321,35, Chins, PERSON 
+90,0,1321,35, Chin, PERSON 
+91,0,1321,37, Chin National, ORG 
+92,0,1321,37, Chin State, GPE 
+93,0,1321,39, Chin National, ORG 
+94,0,1321,39, Chin State, ORG 
+95,0,1321,41, Chin State Union Government, ORG 
+96,0,1321,43, Chin State, GPE 
+97,0,1321,43, Tonzang Township, GPE 
+98,0,1321,43, Paletwa Township, LOC 
+99,0,1321,45, Chin National, ORG 
+100,0,1321,45, Chin, PERSON 
+101,0,1321,49, Social Cultural Matters, ORG 
+102,0,1321,50, Union Government, ORG 
+103,0,1321,50, Chin State, GPE 
+104,0,1321,52, Chin, PERSON 
+105,0,1321,54, Burma, GPE 
+106,0,1321,54, Union Government, ORG 
+107,0,1321,54, Chin State Government, ORG 
+108,0,1321,54, Chin National, ORG 
+109,0,1321,62, Chin National, ORG 
+110,0,1321,62, Chin State, ORG 
+111,0,1321,64, Chin, PERSON 
+112,0,1321,64, Chin State, GPE 
+113,0,1321,64, Union Government, ORG 
+114,0,1321,64, Chin State Government, ORG 
+115,0,1321,64, Chin National, ORG 
+116,0,1321,64, Naypyidaw, GPE 
+117,0,1321,64, Yangon, GPE 
+118,0,1321,64, Mandalay, ORG 
+119,0,1321,64, Kalay, ORG 
+120,0,1321,64, Sittwe, PERSON 
+121,0,1321,64, Seih, PERSON 
+122,1,1436,0, Republic Union Myanmar, GPE 
+123,1,1436,0, Ethnic Armed Organizations, ORG 
+124,1,1436,0, Government Republic Union Myanmar, ORG 
+125,1,1436,0, Ethnic Armed Organizations, ORG 
+126,1,1436,2, Nationwide Ceasefire Agreement, ORG 
+127,1,1436,4, Panglong, ORG 
+128,1,1436,5, Reach, ORG 
+129,1,1436,5, Republic Union Myanmar, GPE 
+130,1,1436,6, c. Discuss, PERSON 
+131,1,1436,6, Pyidaungsu Tatmadaw, PERSON 
+132,1,1436,7, Republic Union Myanmar, GPE 
+133,1,1436,10, Republic Union Myanmar, GPE 
+134,1,1436,15, Republic Union Myanmar, GPE 
+135,1,1436,17, Republic Union Myanmar, GPE 
+136,1,1436,17, Ethnic Armed Organizations, ORG 
+137,1,1436,18, Nationwide Ceasefire Agreement, ORG 
+138,1,1436,22, Republic Union Myanmar, GPE 
+139,1,1436,22, Ethnic Armed Organizations, ORG 
+140,1,1436,23, Ethnic Armed Organizations, ORG 
+141,1,1436,23, Nationwide Ceasefire Agreement, ORG 
+142,1,1436,23, Ethnic Armed Organizations, ORG 
+143,1,1436,25, Tatmadaw, PERSON 
+144,1,1436,27, Nationwide Ceasefire Agreement, ORG 
+145,1,1436,27, Joint Ceasefire Monitoring Committee, ORG 
+146,1,1436,29, Tatmadaw, PERSON 
+147,1,1436,31, c. Avoid, PERSON 
+148,1,1436,35, Government Republic Union Myanmar, ORG 
+149,1,1436,43, Ethnic Armed Organizations, ORG 
+150,1,1436,45, Tatmadaw, PERSON 
+151,1,1436,45, Ethnic Armed Organizations, ORG 
+152,1,1436,48, Ethnic Armed Organizations, ORG 
+153,1,1436,52, Tatmadaw, PERSON 
+154,1,1436,55, Tatmadaw, PERSON 
+155,1,1436,56, Avoid, ORG 
+156,1,1436,57, c. Avoid, PERSON 
+157,1,1436,66, healthcare, ORG 
+158,1,1436,77, Republic Union Myanmar, GPE 
+159,1,1436,77, Ethnic Armed Organizations, ORG 
+160,1,1436,77, Ethnic Armed Organizations, ORG 
+161,1,1436,77, Internally Displaced Persons, PERSON 
+162,1,1436,77, Government Republic Union Myanmar, ORG 
+163,1,1436,82, Joint Ceasefire Monitoring Committee, ORG 
+164,1,1436,83, Nationwide Ceasefire Agreement Joint Implementation Coordination Meeting, ORG 
+165,1,1436,83, Joint Ceasefire Monitoring Committee, ORG 
+166,1,1436,83, Joint Ceasefire Monitoring Committee, ORG 
+167,1,1436,83, Union Peace - Making Work Committee, ORG 
+168,1,1436,83, Ethnic Armed Organizations, ORG 
+169,1,1436,84, Joint Ceasefire Monitoring Committee, ORG 
+170,1,1436,85, Joint Ceasefire Monitoring Committee, ORG 
+171,1,1436,87, Nationwide Ceasefire Agreement Joint Implementation Coordination Meeting, ORG 
+172,1,1436,88, Nationwide Ceasefire Agreement Joint Implementation Coordination Meeting, ORG 
+173,1,1436,89, Internally Displaced Persons, PERSON 
+174,1,1436,91, Nationwide Ceasefire Agreement, ORG 
+175,1,1436,93, Joint Ceasefire Monitoring Committee, ORG 
+176,1,1436,95, Joint Ceasefire Monitoring Committee, ORG 
+177,1,1436,95, Committee, ORG 
+178,1,1436,96, Liaison Offices, ORG 
+179,1,1436,97, Ethnic Armed Organizations, ORG 
+180,1,1436,101, Ethnic Armed Organizations, ORG 
+181,1,1436,103, Nationwide Ceasefire Agreement, ORG 
+182,1,1436,105, Republic Union Myanmar Government, GPE 
+183,1,1436,105, Ethnic Armed Organizations, ORG 
+184,1,1436,105, a. Signing, PERSON 
+185,1,1436,105, Nationwide Ceasefire Agreement, ORG 
+186,1,1436,106, “ Framework Political Dialogue, ORG 
+187,1,1436,106, Government Republic Union Myanmar, ORG 
+188,1,1436,106, Ethnic Armed Organizations, ORG 
+189,1,1436,107, Political Dialogue, ORG 
+190,1,1436,110, Pyidaungsu Hluttaw, GPE 
+191,1,1436,113, Republic Union Myanmar Government, GPE 
+192,1,1436,113, Ethnic Armed  Organizations, ORG 
+193,1,1436,114, Joint Monitoring Committee, ORG 
+194,1,1436,114, Union Peace Dialogue Joint Committee, ORG 
+195,1,1436,116, Nationwide Ceasefire Agreement, ORG 
+196,1,1436,120, Hluttaws, ORG 
+197,1,1436,120, Tatmadaw, PERSON 
+198,1,1436,120, Ethnic Armed Organizations, ORG 
+199,1,1436,121, Framework Political Dialogue, ORG 
+200,1,1436,122, Political Dialogue, ORG 
+201,1,1436,128, Nationwide Ceasefire Agreement, ORG 
+202,1,1436,130, Nationwide Ceasefire Agreement, ORG 
+203,1,1436,130, Ethnic Armed Organizations, ORG 
+204,1,1436,132, Ethnic Armed Organizations, ORG 
+205,1,1436,140, Extractive Industries Transparency Initiative, ORG 
+206,1,1436,140, Ethnic Armed Organizations, ORG 
+207,1,1436,141, Ethnic Armed Organizations, ORG 
+208,1,1436,141, Ethnic Armed Organization, ORG 
+209,1,1436,142, Pyidaungsu Hluttaw, PERSON 
+210,1,1436,143, Pyidaungsu Hluttaw, GPE 
+211,1,1436,147, Myanmar, GPE 
+212,1,1436,148, Myanmar, GPE 
+213,1,1436,151, Nationwide Ceasefire Agreement Joint Implementation Coordination Meetings, ORG 
+214,1,1436,153, Nationwide Ceasefire Agreement, ORG 
+215,1,1436,156, Nationwide Ceasefire Agreement Joint Implementation Coordination Meeting, ORG 
+216,1,1436,161, Nationwide Ceasefire Agreement, ORG 
+217,1,1436,161, Republic Union Myanmar, GPE 
+218,1,1436,161, Ethnic Armed Organizations, ORG 
+219,1,1436,162, Leaders Executive, ORG 
+220,1,1436,162, Hluttaw, ORG 
+221,1,1436,162, Tatmadaw, PERSON 
+222,1,1436,168, JMC, ORG 
+223,1,1436,168, CBO, ORG 
+224,1,1436,169, Nationwide Ceasefire Coordination Team, ORG 
+225,1,1436,169, NCCT, ORG 
+226,1,1436,169, UPWC, ORG 
+227,2,1518,0, Working Committee, ORG 
+228,2,1518,0, FDA, ORG 
+229,2,1518,0, NBF, ORG 
+230,2,1518,0, NLD, ORG 
+231,2,1518,0, NUP, ORG 
+232,2,1518,0, UNA, ORG 
+233,2,1518,0, UEC, ORG 
+234,2,1518,0, Yangon, GPE 
+235,2,1518,3, Republic Union Myanmar, GPE 
+236,2,1518,8, CoC, ORG 
+237,2,1518,8, Republic Union Myanmar, GPE 
+238,2,1518,11, CoC, ORG 
+239,2,1518,17, CoC, ORG 
+240,2,1518,17, Republic Myanmar, GPE 
+241,2,1518,18, Pyithu Hluttaw Law, LOC 
+242,2,1518,18, Amoytha Hluttaw Law, PERSON 
+243,2,1518,18, State, ORG 
+244,2,1518,20, CoC, ORG 
+245,2,1518,21, CoC, ORG 
+246,2,1518,22, CoC, ORG 
+247,2,1518,22, Republic Union Myanmar, GPE 
+248,2,1518,23, CoC, ORG 
+249,2,1518,23, Myanmar, GPE 
+250,2,1518,26, CoC, ORG 
+251,2,1518,39, Union Election Commission, ORG 
+252,2,1518,45, Republic Union Myanmar, GPE 
+253,2,1518,47, UEC, ORG 
+254,2,1518,55, Party, ORG 
+255,2,1518,55, Party, ORG 
+256,2,1518,59, Political Parties Registration Law Chapter II, ORG 
+257,2,1518,78, Myanmar Police Force, ORG 
+258,2,1518,81, Hluttaw Laws, PERSON 
+259,2,1518,81, Chapter XIV, PERSON 
+260,2,1518,84, UEC, ORG 
+261,2,1518,89, Electoral Management Body, ORG 
+262,2,1518,89, Union Election Commission, ORG 
+263,2,1518,97, Party, ORG 
+264,2,1518,116, Hluttaw Election, LOC 
+265,2,1518,116, Chapter XIII, ORG 
+266,2,1518,117, CoC, ORG 
+267,2,1518,119, State, ORG 
+268,2,1518,124, Gender, ORG 
+269,2,1518,132, CoC, ORG 
+270,2,1518,133, Party, ORG 
+271,2,1518,135, CoC, ORG 
+272,2,1518,138, CoC, ORG 
+273,2,1518,138, UEC, ORG 
+274,2,1518,140, Committee, ORG 
+275,2,1518,140, Committee, ORG 
+276,2,1518,142, CoC Monitoring Committee, ORG 
+277,2,1518,143, Committee, ORG 
+278,2,1518,145, CoC, ORG 
+279,2,1518,147, CoC, ORG 
+280,2,1518,147, CoC, ORG 
+281,2,1518,147, CoC, ORG 
+282,3,1519,0, Political Dialogue, ORG 
+283,3,1519,0, Union Peace Dialogue Joint Committee, ORG 
+284,3,1519,0, UPDJC, ORG 
+285,3,1519,0, Parliament, ORG 
+286,3,1519,0, Tatmadaw, ORG 
+287,3,1519,0, Nationwide Ceasefire Agreement, ORG 
+288,3,1519,0, NCA, ORG 
+289,3,1519,0, Republic Union Myanmar, GPE 
+290,3,1519,0, Ethnic Armed Organizations, ORG 
+291,3,1519,0, Pyidaungsu Hluttaw, GPE 
+292,3,1519,1, Political Dialogue, ORG 
+293,3,1519,1, Union, ORG 
+294,3,1519,2, Panglong, ORG 
+295,3,1519,6, Framework Political Dialogue, ORG 
+296,3,1519,10, Establish Union, ORG 
+297,3,1519,11, democratic Union, ORG 
+298,3,1519,13, Political Dialogue, ORG 
+299,3,1519,13, Establish Union, ORG 
+300,3,1519,14, Panglong, ORG 
+301,3,1519,17, Republic Union Myanmar, GPE 
+302,3,1519,18, Pyidaungsu Tatmadaw, ORG 
+303,3,1519,19, Republic Union Myanmar, GPE 
+304,3,1519,21, Republic Union Myanmar, GPE 
+305,3,1519,24, Republic Union Myanmar, GPE 
+306,3,1519,28, Nationwide Ceasefire Agreement, ORG 
+307,3,1519,28, Political Dialogue, ORG 
+308,3,1519,29, Union Peace Conference, ORG 
+309,3,1519,31, Pyidaungsu Hluttaw, GPE 
+310,3,1519,33, Union Peace Dialogue Joint Committee, ORG 
+311,3,1519,33, UPDJC, ORG 
+312,3,1519,34, National Political Dialogue, ORG 
+313,3,1519,35, Working Committees, ORG 
+314,3,1519,35, UPDJC, ORG 
+315,3,1519,37, Tatmadaw, PERSON 
+316,3,1519,42, Working Committees, ORG 
+317,3,1519,42, Union Peace Conference, ORG 
+318,3,1519,44, Nationwide Ceasefire Agreement, ORG 
+319,3,1519,44, Political Dialogue, ORG 
+320,3,1519,44, Union Peace Conference, ORG 
+321,3,1519,45, Tatmadaw, PERSON 
+322,3,1519,51, Union Peace Conference, ORG 
+323,3,1519,53, Working Committees, ORG 
+324,3,1519,54, Working Committee, ORG 
+325,3,1519,56, UPDJC, ORG 
+326,3,1519,56, Working Committee, ORG 
+327,3,1519,58, UPDJC, ORG 
+328,3,1519,58, Union Peace Conference, ORG 
+329,3,1519,58, Union Peace, ORG 
+330,3,1519,62, Union Peace Conference, ORG 
+331,3,1519,64, UPDJC, ORG 
+332,3,1519,66, Nationwide Ceasefire Agreement, ORG 
+333,3,1519,66, Political Dialogue, ORG 
+334,3,1519,75, UPDJC, ORG 
+335,3,1519,92, Chapter, PERSON 
+336,3,1519,92, Political Dialogue, ORG 
+337,3,1519,92, Nationwide Ceasefire Agreement, ORG 
+338,3,1519,94, Working Committee, ORG 
+339,3,1519,96, Union Peace Conference, ORG 
+340,3,1519,96, Working Committees, ORG 
+341,3,1519,96, Union, ORG 
+342,3,1519,98, Union Peace Conference, ORG 
+343,3,1519,99, Chapter 7 Organization Political Dialogue, ORG 
+344,3,1519,99, Peace Dialogue Joint Committee, ORG 
+345,3,1519,99, UPDJC, ORG 
+346,3,1519,99, UPDJC, ORG 
+347,3,1519,99, Nationwide Ceasefire Agreement, ORG 
+348,3,1519,99, NCA, ORG 
+349,3,1519,101, UPDJC, ORG 
+350,3,1519,101, Tatmadaw, PERSON 
+351,3,1519,101, NCA, ORG 
+352,3,1519,103, Responsibilities  7.2.1, ORG 
+353,3,1519,104, UPDJC, ORG 
+354,3,1519,106, UPDJC, ORG 
+355,3,1519,106, NCA, ORG 
+356,3,1519,108, UPDJC, ORG 
+357,3,1519,108, Pyidaungsu Hluttaw, GPE 
+358,3,1519,110, UPDJC, ORG 
+359,3,1519,110, Working Committees, ORG 
+360,3,1519,111, Tatmadaw, PERSON 
+361,3,1519,112, UPDJC, ORG 
+362,3,1519,112, Secretariat, ORG 
+363,3,1519,113, UPDJC, ORG 
+364,3,1519,114, Secretariat, ORG 
+365,3,1519,114, UPDJC, ORG 
+366,3,1519,115, Topics, ORG 
+367,3,1519,115, Working Committees, ORG 
+368,3,1519,118, Working Committees, ORG 
+369,3,1519,120, Working Committees, ORG 
+370,3,1519,120, Union Peace Conference, ORG 
+371,3,1519,122, Working Committees, ORG 
+372,3,1519,122, Secretariat, ORG 
+373,3,1519,124, Working Committees, ORG 
+374,3,1519,126, Working Committee, ORG 
+375,3,1519,126, Working Committees, ORG 
+376,3,1519,126, UPDJC, ORG 
+377,3,1519,127, Technical Teams, PERSON 
+378,3,1519,128, UPDJC, ORG 
+379,3,1519,128, Technical Team, ORG 
+380,3,1519,129, UPDJC, ORG 
+381,3,1519,129, Union Peace Conference, ORG 
+382,3,1519,130, UPDJC, ORG 
+383,3,1519,131, Union Republic Myanmar, ORG 
+384,3,1519,132, Panglong, ORG 
+385,3,1519,141, Pyidaungsu Hluttaw, GPE 
+386,3,1519,143, Pyidaungsu Accord, ORG 
+387,3,1519,143, Parliament, ORG 
+388,3,1519,150, Political Dialogue, ORG 
+389,3,1519,150, UPDJC, ORG 
+390,3,1519,150, Working Committees, ORG 
+391,3,1519,153, Political Dialogue, ORG 
+392,3,1519,153, Framework Political Dialogue, ORG 
+393,3,1519,153, UPDJC, ORG 
+394,3,1519,154, Nationwide Ceasefire Agreement, ORG 
+395,4,1544,0, Conduct, PERSON 
+396,4,1544,0, Accordance, GPE 
+397,4,1544,0, NCA, ORG 
+398,4,1544,1, Government Burma, ORG 
+399,4,1544,1, NCA, ORG 
+400,4,1544,2, Joint Monitoring Committee, ORG 
+401,4,1544,9, NCA, ORG 
+402,4,1544,9, Tamataw, GPE 
+403,4,1544,14, NCA, ORG 
+404,4,1544,16, Tamataw, GPE 
+405,4,1544,28, healthcare, ORG 
+406,4,1544,35, Ceasefire, GPE 
+407,4,1544,40, NCA, ORG 
+408,4,1544,40, Security  Sectors Reforms, ORG 
+409,4,1544,47, NCA, ORG 
+410,4,1544,47, NCA, ORG 
+411,4,1544,50, Tamataw, GPE 
+412,4,1544,54, Tamataw, GPE 
+413,4,1544,56, NCA, ORG 
+414,4,1544,57, Tamataw, GPE 
+415,4,1544,61, JICM, ORG 
+416,4,1544,62, Naypyitaw, GPE 
+417,4,1544,62, NCA, ORG 
+418,4,1544,65, Gen. Ya Pyit, PERSON 
+419,4,1544,67, U Khin Maung Soe  Union, PERSON 
+420,4,1544,69, Gen. Ye Aung  Chief, PERSON 
+421,4,1544,71, Tun Tun Naung, PERSON 
+422,4,1544,74, Aung Kyaw Zaw, PERSON 
+423,4,1544,77, Naung, GPE 
+424,4,1544,79, U Myint Soe  Retired Lt, ORG 
+425,4,1544,82, Aung Soe , PERSON 
+426,4,1544,82, Ministry Interior , ORG 
+427,4,1544,84, Ministry Defense ( Army, ORG 
+428,4,1544,85, Min Zaw, PERSON 
+429,4,1544,85, MPC, ORG 
+430,4,1544,87, Gen. Saw Isaac Poe  Quartermaster General, PERSON 
+431,4,1544,87, KNLA  Permanent Central Committee, ORG 
+432,4,1544,87, KNU, ORG 
+433,4,1544,89, Gen. Saw Nay Soe Mya  Adjutant General, PERSON 
+434,4,1544,89, KNU / KNLA, ORG 
+435,4,1544,90, Shwe Kah, PERSON 
+436,4,1544,90, CNF, ORG 
+437,4,1544,92, Saw Kyaw Htay, PERSON 
+438,4,1544,92, Liaison Officer, PERSON 
+439,4,1544,95, Khun Aung Mang  PNLO, PERSON 
+440,4,1544,96, Salai Yaw Aung  ABSDF, PERSON 
+441,4,1544,100, Hsaung Han, PERSON 
+442,4,1544,102, Sai Liang , PERSON 
+443,5,1545,0, Joint Monitoring Committee Guideline, ORG 
+444,5,1545,1, Nationwide Ceasefire Agreement, ORG 
+445,5,1545,1, NCA, ORG 
+446,5,1545,1, Naypyitaw, GPE 
+447,5,1545,2, Ceasefire Joint Monitoring Committee, ORG 
+448,5,1545,2, NCA, ORG 
+449,5,1545,7, Ceasefire Joint Monitoring Committee, ORG 
+450,5,1545,10, NCA, ORG 
+451,5,1545,11, NCA, ORG 
+452,5,1545,14, Joint Ceasefire Monitoring Committee, ORG 
+453,5,1545,14, JMC - U, ORG 
+454,5,1545,15, NCA, ORG 
+455,5,1545,15, Union Level Joint Ceasefire Monitoring Committee, ORG 
+456,5,1545,15, Union Level Joint Ceasefire Monitoring Committee, ORG 
+457,5,1545,15, JMC - U, ORG 
+458,5,1545,17, JMC - U, ORG 
+459,5,1545,18, Chairperson, PERSON 
+460,5,1545,23, Committee, ORG 
+461,5,1545,23, JICM, ORG 
+462,5,1545,25, JMC - U, ORG 
+463,5,1545,25, NCA, ORG 
+464,5,1545,26, JMC, ORG 
+465,5,1545,27, JMC - U, ORG 
+466,5,1545,29, JICM, PERSON 
+467,5,1545,31, JMC - U, ORG 
+468,5,1545,38, JMC - U, ORG 
+469,5,1545,38, JICM, ORG 
+470,5,1545,40, JMC - U, ORG 
+471,5,1545,40, JICM, ORG 
+472,5,1545,41, JMC, ORG 
+473,5,1545,41, International Community, ORG 
+474,5,1545,43, JMC - U, ORG 
+475,5,1545,43, JICM, ORG 
+476,5,1545,45, JMC, ORG 
+477,5,1545,46, JMC - U, ORG 
+478,5,1545,48, JMC - U, ORG 
+479,5,1545,48, JMC - S, ORG 
+480,5,1545,48, JICM, ORG 
+481,5,1545,50, JMC - U, ORG 
+482,5,1545,50, Local Level Joint Ceasefire Monitoring Committee, ORG 
+483,5,1545,50, JMC - L, ORG 
+484,5,1545,50, JMC - S., ORG 
+485,5,1545,51, JMC - S, ORG 
+486,5,1545,51, JMC, ORG 
+487,5,1545,51, JMC - U, ORG 
+488,5,1545,51, JMC - S. , ORG 
+489,5,1545,52, JMC, ORG 
+490,5,1545,52, JMC - S., ORG 
+491,5,1545,53, JMC - U, ORG 
+492,5,1545,53, Verification Teams, ORG 
+493,5,1545,55, JMC - U, ORG 
+494,5,1545,57, JMC - U, ORG 
+495,5,1545,58, JMC, ORG 
+496,5,1545,60, JMC - U, ORG 
+497,5,1545,62, NCA, ORG 
+498,5,1545,62, JMC, ORG 
+499,5,1545,64, JMC - U, ORG 
+500,5,1545,66, JMC - U, ORG 
+501,5,1545,66, Verification Teams, ORG 
+502,5,1545,68, JMC - U, ORG 
+503,5,1545,68, JMC - S., ORG 
+504,5,1545,69, JMC - U, ORG 
+505,5,1545,72, JMC - S, ORG 
+506,5,1545,72, JMC - U.  Meetings Resolutions, ORG 
+507,5,1545,73, JMC - U, ORG 
+508,5,1545,75, JMC - U, ORG 
+509,5,1545,76, JMC - U, ORG 
+510,5,1545,78, JMC - U, ORG 
+511,5,1545,82, JMC - U, ORG 
+512,5,1545,82, JICM, ORG 
+513,5,1545,84, JMC - U, ORG 
+514,5,1545,86, JMC - U, ORG 
+515,5,1545,87, Joint Ceasefire Monitoring Committee, ORG 
+516,5,1545,87, JMC - S, ORG 
+517,5,1545,88, JMC - S, ORG 
+518,5,1545,88, JMC - U, ORG 
+519,5,1545,90, JMC - S, ORG 
+520,5,1545,93, Civilian, ORG 
+521,5,1545,94, Ministry Security, ORG 
+522,5,1545,94, State / Division , ORG 
+523,5,1545,94, State / Division , ORG 
+524,5,1545,94, EAOs , PERSON 
+525,5,1545,94, ee ) EAOs , ORG 
+526,5,1545,94, EAOs , PERSON 
+527,5,1545,94, Civilians, ORG 
+528,5,1545,96, General Staff, ORG 
+529,5,1545,96, JMC - S, ORG 
+530,5,1545,96, JMC - U. , ORG 
+531,5,1545,97, JMC - S., ORG 
+532,5,1545,97, JMC - S, ORG 
+533,5,1545,98, JMC - S, ORG 
+534,5,1545,98, NCA, ORG 
+535,5,1545,100, JMC - S, ORG 
+536,5,1545,100, NCA, ORG 
+537,5,1545,102, JMC - S, ORG 
+538,5,1545,104, JMC - S, ORG 
+539,5,1545,107, JMC - S, ORG 
+540,5,1545,109, JMC - S, ORG 
+541,5,1545,109, Local Level Joint Ceasefire Monitoring Committee, ORG 
+542,5,1545,109, JMC - L, ORG 
+543,5,1545,109, JMC - L, ORG 
+544,5,1545,111, JMC - S, ORG 
+545,5,1545,111, JMC - U. , ORG 
+546,5,1545,112, JMC - S, ORG 
+547,5,1545,112, JMC - U, ORG 
+548,5,1545,114, JMC - S, ORG 
+549,5,1545,114, Local Level Joint Ceasefire Monitoring Committee, ORG 
+550,5,1545,114, JMC - L, ORG 
+551,5,1545,114, JICM, ORG 
+552,5,1545,114, JMC - U. , ORG 
+553,5,1545,115, NCA, ORG 
+554,5,1545,115, JMC, ORG 
+555,5,1545,115, JMC - S, ORG 
+556,5,1545,116, JMC - S, ORG 
+557,5,1545,116, JMC - S, ORG 
+558,5,1545,116, JMC - U. , ORG 
+559,5,1545,117, JMC - S, ORG 
+560,5,1545,119, JMC - S, ORG 
+561,5,1545,119, JMC - S, ORG 
+562,5,1545,119, Verification Team, ORG 
+563,5,1545,120, Joint Ceasefire Monitoring, ORG 
+564,5,1545,122, JMC - S, ORG 
+565,5,1545,122, JMC - L, ORG 
+566,5,1545,124, JMC - S, ORG 
+567,5,1545,126, JMC - S, ORG 
+568,5,1545,128, JMC - S, ORG 
+569,5,1545,128, Verification Team, ORG 
+570,5,1545,130, JMC - S, ORG 
+571,5,1545,130, JMC - L, ORG 
+572,5,1545,130, JMC - U. , ORG 
+573,5,1545,131, JMC - S, ORG 
+574,5,1545,131, JMC - U, ORG 
+575,5,1545,131, NCA, ORG 
+576,5,1545,132, JMC - S, ORG 
+577,5,1545,133, JMC - S, ORG 
+578,5,1545,135, JMC - S, ORG 
+579,5,1545,136, JMC - S, ORG 
+580,5,1545,136, JMC - S, ORG 
+581,5,1545,138, JMC - S, ORG 
+582,5,1545,142, JMC - S, ORG 
+583,5,1545,142, JMC - U. , ORG 
+584,5,1545,143, JMC - S, ORG 
+585,5,1545,145, JMC - S, ORG 
+586,5,1545,146, JMC - L, ORG 
+587,5,1545,147, JMC - L, ORG 
+588,5,1545,147, JMC - S. , ORG 
+589,5,1545,147, Joint Ceasefire Monitoring Committee, ORG 
+590,5,1545,147, JMC - L, ORG 
+591,5,1545,149, JMC - L, ORG 
+592,5,1545,150, Civilian, ORG 
+593,5,1545,150, Township General Administration, ORG 
+594,5,1545,150, Civilian, ORG 
+595,5,1545,150, Tamataw, GPE 
+596,5,1545,150, JMC - L, ORG 
+597,5,1545,150, JMC - S. , ORG 
+598,5,1545,150, JMC - L, ORG 
+599,5,1545,151, JMC - L.  Responsibilities JMC - L, ORG 
+600,5,1545,152, JMC - S, ORG 
+601,5,1545,152, JMC - L, ORG 
+602,5,1545,154, JMC - L, ORG 
+603,5,1545,154, JMC - S, ORG 
+604,5,1545,156, JMC - L, ORG 
+605,5,1545,156, JMC - S., ORG 
+606,5,1545,157, JMC - L, ORG 
+607,5,1545,157, JMC, ORG 
+608,5,1545,159, JMC - L, ORG 
+609,5,1545,159, JMC - S, ORG 
+610,5,1545,162, JMC - L, ORG 
+611,5,1545,164, JMC - L, ORG 
+612,5,1545,166, JMC - L, ORG 
+613,5,1545,166, Verification Team, ORG 
+614,5,1545,168, JMC - L, ORG 
+615,5,1545,168, JMC - S, ORG 
+616,5,1545,170, JMC - L, ORG 
+617,5,1545,172, JMC - L, ORG 
+618,5,1545,172, Verification Team, ORG 
+619,5,1545,173, JMC - L, ORG 
+620,5,1545,174, JMC - L, ORG 
+621,5,1545,176, JMC - S, ORG 
+622,5,1545,179, JMC - S, ORG 
+623,5,1545,180, Tenure Review, ORG 
+624,5,1545,181, JMC - U, ORG 
+625,5,1545,182, JMC - S, ORG 
+626,5,1545,184, JMC - S, ORG 
+627,5,1545,185, Verification Teams  Formation , ORG 
+628,5,1545,186, JMC, ORG 
+629,5,1545,186, JMC - U, ORG 
+630,5,1545,186, JMC - S, ORG 
+631,5,1545,186, Verification Team, ORG 
+632,5,1545,187, Verification Team, ORG 
+633,5,1545,187, JMC - L, ORG 
+634,5,1545,188, JMC - U, ORG 
+635,5,1545,188, JMC - S, ORG 
+636,5,1545,188, JMC, ORG 
+637,5,1545,188, JMC, ORG 
+638,5,1545,189, Verification Team ’s, ORG 
+639,5,1545,189, JMC - L, ORG 
+640,5,1545,189, JMC, ORG 
+641,5,1545,190, JMC, ORG 
+642,5,1545,190, Verification Team, ORG 
+643,5,1545,194, Verification Team, ORG 
+644,5,1545,194, JMC, ORG 
+645,5,1545,195, JMC, ORG 
+646,5,1545,196, Verification Team, ORG 
+647,5,1545,197, Verification Team, ORG 
+648,5,1545,198, JMC, ORG 
+649,5,1545,199, JMC, ORG 
+650,5,1545,199, Verification Team, ORG 
+651,5,1545,200, JMC, ORG 
+652,5,1545,201, H, ORG 
+653,5,1545,202, Verification Team, ORG 
+654,5,1545,202, Team ’s, ORG 
+655,5,1545,203, JMC - L, ORG 
+656,5,1545,203, CSO, ORG 
+657,5,1545,205, NCA, ORG 
+658,5,1545,205, JMC - L, ORG 
+659,5,1545,206, JMC - S, ORG 
+660,5,1545,207, JMC, ORG 
+661,5,1545,209, JMC, ORG 
+662,5,1545,211, JMC, ORG 
+663,5,1545,212, JMC, ORG 
+664,5,1545,214, JMC, ORG 
+665,5,1545,215, JMC, ORG 
+666,5,1545,216, JMC, ORG 
+667,5,1545,218, JMC, ORG 
+668,5,1545,220, JMC, ORG 
+669,5,1545,220, JMC, ORG 
+670,5,1545,220, JMC, ORG 
+671,5,1545,222, JMC, ORG 
+672,5,1545,224, JMC, ORG 
+673,5,1545,226, JMC, ORG 
+674,5,1545,226, JMC, ORG 
+675,5,1545,226, JICM, PERSON 
+676,6,1546,0, Work Committee, ORG 
+677,6,1546,0, ABSDF Union, ORG 
+678,6,1546,4, ABSDF, ORG 
+679,6,1546,5, ABSDF, ORG 
+680,6,1546,6, ABSDF, ORG 
+681,6,1546,9, Kalay, ORG 
+682,6,1546,9, Payathonsu, GPE 
+683,6,1546,9, ABSDF, ORG 
+684,7,1550,0, Working Committee, ORG 
+685,7,1550,0, Karenni National Progressive Party, ORG 
+686,7,1550,0, KNPP, ORG 
+687,7,1550,1, KNPP, ORG 
+688,7,1550,1, Union, ORG 
+689,7,1550,1, U Aung Min, PERSON 
+690,7,1550,1, KNPP Khu Oo Reh, ORG 
+691,7,1550,3, Kayah State, GPE 
+692,7,1550,3, KNPP, ORG 
+693,7,1550,4, TOR, ORG 
+694,7,1550,5, Kayah State, GPE 
+695,7,1550,5, New Village Project, GPE 
+696,7,1550,10, KNPP, ORG 
+697,8,1551,0, CNF - Government Ceasefire Agreement, ORG 
+698,8,1551,0, Chin National, ORG 
+699,8,1551,0, Myanmar, GPE 
+700,8,1551,1, Chin National, ORG 
+701,8,1551,1, Chin National Union, ORG 
+702,8,1551,1, Hakha, ORG 
+703,8,1551,1, Chin State, GPE 
+704,8,1551,1, CNF, ORG 
+705,8,1551,1, Peace Team, ORG 
+706,8,1551,2, Ceasefire  Union, ORG 
+707,8,1551,2, Peace Team, ORG 
+708,8,1551,2, Chin State Government, ORG 
+709,8,1551,2, Chin National Peace Team, ORG 
+710,8,1551,4, Accordance, GPE 
+711,8,1551,4, Chin National, ORG 
+712,8,1551,4, Chin National Army, ORG 
+713,8,1551,4, Chin National Chin State / Union Government, ORG 
+714,8,1551,4, Tlangpi, GPE 
+715,8,1551,4, Dawn, PERSON 
+716,8,1551,4, Zangtlang Village, PERSON 
+717,8,1551,4, Thantlang Township, GPE 
+718,8,1551,4, Zampi, PERSON 
+719,8,1551,4, Bukphir Village, PERSON 
+720,8,1551,4, Tedim Township, GPE 
+721,8,1551,5, CNF, ORG 
+722,8,1551,5, Kung Pyin, GPE 
+723,8,1551,5, Pathiantlang Village, GPE 
+724,8,1551,5, Western Command, ORG 
+725,8,1551,6, CNF, ORG 
+726,8,1551,6, Thantlang Township ’s Belhar, GPE 
+727,8,1551,6, Vanzang, GPE 
+728,8,1551,6, Lungding Village, GPE 
+729,8,1551,6, Lulpilung, GPE 
+730,8,1551,7, Tedim Township ’s Dampi, GPE 
+731,8,1551,7, Tui Dial Village, PERSON 
+732,8,1551,8, Shweletwa Village, LOC 
+733,8,1551,8, Ra Kan Village, PERSON 
+734,8,1551,9, Myanmar Army, ORG 
+735,8,1551,9, Myanmar Police Force, ORG 
+736,8,1551,9, Chin National Chin National Army, ORG 
+737,8,1551,9, Liaison Offices, ORG 
+738,8,1551,11, Liaison Office, ORG 
+739,8,1551,12, Chin National, ORG 
+740,8,1551,12, Chin National Army, ORG 
+741,8,1551,12, Union Burma, ORG 
+742,8,1551,12, Union Myanmar, ORG 
+743,8,1551,13, Myanmar Army, ORG 
+744,8,1551,14, Liaison Offices, ORG 
+745,8,1551,14, Thanglang, GPE 
+746,8,1551,14, Tedim, GPE 
+747,8,1551,14, Matupi Towns, ORG 
+748,8,1551,16, CNF, ORG 
+749,8,1551,16, Central Committee, ORG 
+750,8,1551,16, CNF, ORG 
+751,8,1551,17, Chin State Government, ORG 
+752,8,1551,18, Chin State Government, ORG 
+753,8,1551,19, State, ORG 
+754,8,1551,19, Union, ORG 
+755,8,1551,20, Union, ORG 
+756,8,1551,20, Panglong, ORG 
+757,8,1551,21, Matters International Agreements, ORG 
+758,8,1551,21, Government Union Mynamar, ORG 
+759,8,1551,22, Chin National, ORG 
+760,8,1551,22, Union Myanmar, ORG 
+761,8,1551,22, ‘ National Causes ’, ORG 
+762,8,1551,23, Matters Humanitarian Organizations , ORG 
+763,8,1551,23, Union Ministries, ORG 
+764,8,1551,23, Chin State, ORG 
+765,8,1551,23, CNF, ORG 
+766,8,1551,24, Chin State, PERSON 
+767,8,1551,24, CNF, ORG 
+768,8,1551,24, Memorandum Understanding (, ORG 
+769,8,1551,24, Chin State Government, ORG 
+770,8,1551,24, Union Government, ORG 
+771,8,1551,25, Chin, PERSON 
+772,8,1551,26, State, ORG 
+773,8,1551,26, District, GPE 
+774,8,1551,26, Village, PERSON 
+775,8,1551,26, Government ’s Order, ORG 
+776,8,1551,28, Visas, GPE 
+777,8,1551,28, Chin, ORG 
+778,8,1551,28, CNF, ORG 
+779,8,1551,28, Union Myanmar, ORG 
+780,8,1551,29, Chin National Day, ORG 
+781,8,1551,31, Chin National Army, ORG 
+782,8,1551,33, Peace Team, ORG 
+783,8,1551,33, CNF, ORG 
+784,8,1551,33, CNA, ORG 
+785,8,1551,34, Chin State, ORG 
+786,8,1551,34, CNF, ORG 
+787,8,1551,35, CNF, ORG 
+788,8,1551,35, National Identity Card, ORG 
+789,8,1551,35, Immigration Department, ORG 
+790,8,1551,36, CNF, ORG 
+791,8,1551,37, Chin National, ORG 
+792,8,1551,37, Chin National Army, ORG 
+793,8,1551,45, Ceasefire Monitoring Body , PERSON 
+794,8,1551,46, Chin Peace Tranquility Committee, ORG 
+795,8,1551,47, Ceasefire Monitoring Body, ORG 
+796,8,1551,47, Union Government, ORG 
+797,8,1551,47, Myanmar Army, ORG 
+798,8,1551,47, Myanmar Police Force, ORG 
+799,8,1551,47, Chin National, ORG 
+800,8,1551,47, Chin National Army, ORG 
+801,8,1551,50, Chin State Border Areas Security Affairs, ORG 
+802,8,1551,50, Liaison, PERSON 
+803,8,1551,50, Chin National, ORG 
+804,8,1551,50, Chin National Army, ORG 
+805,8,1551,50, Chin National Army, ORG 
+806,8,1551,50, Myanmar Army Police Force, ORG 
+807,8,1551,50, Chin Peace Monitoring Body, ORG 
+808,8,1551,51, Liaison Officer, PERSON 
+809,8,1551,51, Chin National / Chin National Army, ORG 
+810,8,1551,51, Myanmar Army, ORG 
+811,8,1551,51, Ceasefire Monitoring Body, ORG 
+812,8,1551,53, CNF, ORG 
+813,8,1551,53, Chin State Government, ORG 
+814,8,1551,53, Northwestern Commands, ORG 
+815,8,1551,53, Myanmar Army, ORG 
+816,8,1551,53, Union Peace Team Crisis Mediating Body, ORG 
+817,8,1551,54, Union Guesthouse, ORG 
+818,8,1551,54, Hakha, GPE 
+819,8,1551,54, Chin State, GPE 
+820,8,1551,55, Union, ORG 
+821,9,1552,0, Kalo Htoo Baw, PERSON 
+822,9,1552,0, Karen State, PERSON 
+823,9,1552,1, Aung Lwin, PERSON 
+824,9,1552,1, Kalo Htoo Baw U Saw Mu Shay, PERSON 
+825,9,1552,1, Unofficial Translation, ORG 
+826,9,1552,1, Kalo Htoo Baw, PERSON 
+827,9,1552,1, Karen State, GPE 
+828,9,1552,2, Kalo Htoo Baw, PERSON 
+829,9,1552,2, Sonsee, GPE 
+830,9,1552,3, Kaloh Htoo Baw, ORG 
+831,9,1552,3, Myawaddy, ORG 
+832,9,1552,5, Kaloh Htoo Baw, PERSON 
+833,9,1552,6, Gen Saw Lar Pwe, PERSON 
+834,10,1553,0, KNU, ORG 
+835,10,1553,0, Burmese Government, ORG 
+836,10,1553,0, KNU, ORG 
+837,10,1553,0, U Aung Min, PERSON 
+838,10,1553,1, KNU, ORG 
+839,10,1553,2, KNU, ORG 
+840,10,1553,3, KNU, ORG 
+841,10,1553,3, KNU, ORG 
+842,10,1553,4, KNU, ORG 
+843,10,1553,5, KNU, ORG 
+844,11,1555,0, U Aung Thaung, PERSON 
+845,11,1555,0, U Thein Zaw, PERSON 
+846,11,1555,0, U Win Tun, ORG 
+847,11,1555,0, Special Region, GPE 
+848,11,1555,0, Sai Lin, PERSON 
+849,11,1555,0, U San Pae, PERSON 
+850,11,1555,0, U Kham Maung, PERSON 
+851,11,1555,0, Special Region, LOC 
+852,11,1555,2, Kengtung, GPE 
+853,11,1555,3, Special Region, GPE 
+854,11,1555,4, Special Region, GPE 
+855,11,1555,5, Special Region, GPE 
+856,11,1555,6, Special Region, GPE 
+857,11,1555,6, Republic Union Myanmar, GPE 
+858,11,1555,6, Special Region, GPE 
+859,11,1555,7, Republic Union Myanmar, GPE 
+860,11,1555,8, State, ORG 
+861,11,1555,8, State, ORG 
+862,11,1555,8, Special Region, GPE 
+863,11,1555,8, State, ORG 
+864,12,1557,0, NMSP Government, ORG 
+865,12,1557,0, Strand Hotel Mawlamyine, ORG 
+866,12,1557,0, Mon State, GPE 
+867,12,1557,0, Peacemaking Group, ORG 
+868,12,1557,0, Union, ORG 
+869,12,1557,0, U Aung Min, PERSON 
+870,12,1557,0, Union, ORG 
+871,12,1557,0, U Soe Thein, PERSON 
+872,12,1557,0, Union, ORG 
+873,12,1557,0, U Zaw Min, PERSON 
+874,12,1557,0, Union, ORG 
+875,12,1557,0, U Win Tun, PERSON 
+876,12,1557,0, State, ORG 
+877,12,1557,0, U Ohn Myint, ORG 
+878,12,1557,0, South - East Command Maj - Gen Tin Maung Win, ORG 
+879,12,1557,0, Mon State Security, ORG 
+880,12,1557,0, Col Htay Myint Aung, PERSON 
+881,12,1557,0, Grade, PERSON 
+882,12,1557,0, Army ) Office, ORG 
+883,12,1557,0, Grade, PERSON 
+884,12,1557,0, Mon State, GPE 
+885,12,1557,0, NMSP, ORG 
+886,12,1557,0, U Nai Rawsa, PERSON 
+887,12,1557,1, State, ORG 
+888,12,1557,1, Col Htay Myint Aung, ORG 
+889,12,1557,1, NMSP, ORG 
+890,12,1557,1, NMSP CEC, ORG 
+891,12,1557,1, U Nai Talanyi, PERSON 
+892,12,1557,1, Union Ministers, ORG 
+893,12,1557,1, U Soe Thein, ORG 
+894,12,1557,1, U Zaw Min, ORG 
+895,12,1557,1, U Win Tun, ORG 
+896,12,1557,1, State, ORG 
+897,12,1557,1, U Ohn Myint, ORG 
+898,12,1557,3, Formation Union, ORG 
+899,12,1557,7, NMSP, ORG 
+900,12,1557,20, Mon State, GPE 
+901,12,1557,21, New Mon State Party, ORG 
+902,12,1557,24, Remark, ORG 
+903,12,1557,25, U Nai Talanyi, ORG 
+904,12,1557,26, U Aung Min, PERSON 
+905,12,1557,26, U Nai Rawsa, PERSON 
+906,13,1558,0, NSCN - K, ORG 
+907,13,1558,0, Kyi Naing, PERSON 
+908,13,1558,0, Naga, PERSON 
+909,13,1558,0, NSCN, ORG 
+910,13,1558,0, Y Wantin Naga, PERSON 
+911,13,1558,0, Station Hall, ORG 
+912,13,1558,0, Khamti, GPE 
+913,13,1558,0, Sagaing Region, GPE 
+914,13,1558,2, Tatmadaw, PERSON 
+915,13,1558,2, NSCN, ORG 
+916,13,1558,3, NSCN, ORG 
+917,13,1558,3, Khamti, GPE 
+918,13,1558,4, NSCN, ORG 
+919,13,1558,5, NSCN, ORG 
+920,14,1559,0, SSA - S Government Ceasefire Agreement, ORG 
+921,14,1559,0, Group, ORG 
+922,14,1559,0, Taunggyi, GPE 
+923,14,1559,0, Shan State, GPE 
+924,14,1559,12, Liaison, PERSON 
+925,14,1559,12, Taunggyi, GPE 
+926,14,1559,12, Kengtung, GPE 
+927,14,1559,12, Kholam, PERSON 
+928,14,1559,12, Tachilek, ORG 
+929,14,1559,12, Mongton, GPE 
+930,14,1559,17, Union Government, ORG 
+931,15,1560,0, SSA - S Government 11, ORG 
+932,15,1560,0, Union - Level, ORG 
+933,15,1560,0, Taunggyi, GPE 
+934,15,1560,0, Shan State, GPE 
+935,15,1560,2, Homain, GPE 
+936,15,1560,2, Mong Hta, ORG 
+937,15,1560,6, SSA, ORG 
+938,15,1560,8, Homain, GPE 
+939,15,1560,8, Mong Hta, ORG 
+940,15,1560,12, SSA - S, ORG 
+941,15,1560,12, Taunggyi, GPE 
+942,15,1560,12, Kholam, GPE 
+943,15,1560,12, Kengtung, GPE 
+944,15,1560,12, Mong Hsat, PERSON 
+945,15,1560,12, Tachileik, PERSON 
+946,15,1560,12, Muse, ORG 
+947,15,1560,12, Nanhkan, ORG 
+948,15,1560,13, SSA, ORG 
+949,16,1561,0, SSA - S Government, ORG 
+950,16,1561,0, Union Peacemaking Work, ORG 
+951,16,1561,1, Restoration Council Shan State / Shan State Army, ORG 
+952,16,1561,1, Kengtung, GPE 
+953,16,1561,1, Shan State, GPE 
+954,16,1561,2, Shan Herald, ORG 
+955,16,1561,4, UPWC, ORG 
+956,16,1561,6, Shan, PERSON 
+957,16,1561,8, Tai Freedom, ORG 
+958,17,1562,0, SSPP / SSA - N Government  Preliminary Peace, ORG 
+959,17,1562,0, Shan State Progressive Party, ORG 
+960,17,1562,0, SSPP)/ Shan State Army, ORG 
+961,17,1562,0, Taunggyi, GPE 
+962,17,1562,0, South, LOC 
+963,17,1562,1, Taungtha Township, PERSON 
+964,17,1562,1, U Aung Thaung, PERSON 
+965,17,1562,1, Myitkyina Township, PERSON 
+966,17,1562,1, U Thein Zaw, PERSON 
+967,17,1562,1, U Ohn Myint, ORG 
+968,17,1562,1, U Win Tun, PERSON 
+969,17,1562,1, Shan State, ORG 
+970,17,1562,1, U Sao Aung Myat, PERSON 
+971,17,1562,1, Kayan Township, PERSON 
+972,17,1562,1, U Maung Maung Thein, PERSON 
+973,17,1562,1, North - East Command Maj - Gen Aung Kyaw Zaw, ORG 
+974,17,1562,1, Central East Command, ORG 
+975,17,1562,1, Maj - Gen Zaw Win, PERSON 
+976,17,1562,1, U Soe Tint, PERSON 
+977,17,1562,1, Aung Thu, PERSON 
+978,17,1562,2, Shan State Progressive Party, ORG 
+979,17,1562,2, State Army, ORG 
+980,17,1562,2, Party Central Committee, ORG 
+981,17,1562,2, Sao Khay Tai, PERSON 
+982,17,1562,2, Sao Khin Min, PERSON 
+983,17,1562,2, Sao Khun Hsai, GPE 
+984,17,1562,2, Sao Khay Maung, GPE 
+985,17,1562,2, Sao Kyaw Hla, GPE 
+986,17,1562,2, Sao Htin Mein, GPE 
+987,17,1562,2, Sao Laung Khay, PERSON 
+988,17,1562,2, Sao Naw Leik, GPE 
+989,17,1562,4, Shan State Minster Security, ORG 
+990,17,1562,4, Aung Thu, PERSON 
+991,17,1562,4, Grade, PERSON 
+992,17,1562,4, North - East Command, ORG 
+993,17,1562,4, General Staff, ORG 
+994,17,1562,4, Grade, PERSON 
+995,17,1562,4, Central East Command, ORG 
+996,17,1562,4, Department Progress Border Areas National Races, ORG 
+997,17,1562,4, State Advocate General, ORG 
+998,17,1562,4, SSPP / Shan State Army Sao Khun Hsai, ORG 
+999,17,1562,4, Sao Khay Maung, GPE 
+1000,17,1562,4, Sao Kyaw, GPE 
+1001,17,1562,4, Sao Htin Mein, PERSON 
+1002,17,1562,6, Tatmadaw, PERSON 
+1003,17,1562,6, SSPP / Shan State Army, ORG 
+1004,17,1562,7, SSPP / Shan State Army, ORG 
+1005,17,1562,7, Wanhai, GPE 
+1006,17,1562,8, Taunggyi, GPE 
+1007,17,1562,8, Lashio, GPE 
+1008,17,1562,8, Kholan, GPE 
+1009,17,1562,12, U Aung Thaung, PERSON 
+1010,17,1562,12, Shan State Progressive, ORG 
+1011,17,1562,12, Party/ Shan State Army, ORG 
+1012,17,1562,12, Sao Khay Tai, PERSON 
+1013,17,1562,14, Shan State, GPE 
+1014,17,1562,14, Shan State Progressive Party, ORG 
+1015,17,1562,14, Taunggyi, GPE 
+1016,17,1562,15, Panglong, ORG 
+1017,17,1562,16, Shan State Progressive Party, ORG 
+1018,17,1562,19, U Aung Thaung, PERSON 
+1019,17,1562,19, U Thein Zaw, PERSON 
+1020,17,1562,19, Sky Net TV, ORG 
+1021,17,1562,19, SSPP / Shan State Army, ORG 
+1022,17,1562,19, Sao Khay Tai, PERSON 
+1023,17,1562,19, Sao Khun Hsai, GPE 
+1024,18,1563,0, UWSA Government, ORG 
+1025,18,1563,0, Group, ORG 
+1026,18,1563,0, U Aung Thaung, PERSON 
+1027,18,1563,0, Peacemaking Group, ORG 
+1028,18,1563,0, U Shauk Min Lyan, ORG 
+1029,18,1563,0, Pansang, GPE 
+1030,18,1563,1, Lashio, GPE 
+1031,18,1563,5, Republic Union Myanmar, GPE 
+1032,18,1563,6, Republic Union Myanmar, GPE 
+1033,18,1563,7, State, ORG 
+1034,18,1563,7, State, ORG 
+1035,19,1564,0, KNU Press Release, ORG 
+1036,19,1564,0, KNU Delegation, ORG 
+1037,19,1564,0, KNU Delegation, ORG 
+1038,19,1564,0, Rangoon, GPE 
+1039,19,1564,1, U Aung Min, PERSON 
+1040,19,1564,1, Republic Union Burma, GPE 
+1041,19,1564,1, Myanmar, GPE 
+1042,19,1564,1, Naw Zipporah Sein, PERSON 
+1043,19,1564,1, KNU, ORG 
+1044,19,1564,17, KNU, ORG 
+1045,19,1564,17, Myanmar, GPE 
+1046,19,1564,17, Burma, GPE 
+1047,19,1564,17, Myanmar, GPE 
+1048,20,1578,0, Kalo Htoo Baw, PERSON 
+1049,20,1578,0, Taungtha Township Pyithu Hluttaw Representative, PERSON 
+1050,20,1578,0, U Aung Thaung, PERSON 
+1051,20,1578,0, Kalo Htoo Baw, PERSON 
+1052,20,1578,0, U Saw Lah Pwe, PERSON 
+1053,20,1578,3, Kayin State Peace Making Group, ORG 
+1054,20,1578,3, Kalo Htoo Baw, PERSON 
+1055,20,1578,5, Karen State, GPE 
+1056,20,1578,5, Republic Union Myanmar, GPE 
+1057,20,1578,8, Non - disintegration, ORG 
+1058,20,1578,8, Union, ORG 
+1059,20,1578,8, National Solidarity Perpetuation Sovereignty, ORG 
+1060,20,1578,10, Kalo Htoo Baw, PERSON 
+1061,20,1578,10, Sukali, GPE 
+1062,21,1579,0, PNLO, ORG 
+1063,21,1579,0, Myanmar Government, ORG 
+1064,21,1579,0, National Liberation Organization Myanmar Government, ORG 
+1065,21,1579,4, Taunggyi, GPE 
+1066,21,1579,4, Hsihseng, ORG 
+1067,21,1579,4, Maukmai, ORG 
+1068,22,1580,0, PNLO, ORG 
+1069,22,1580,0, UPWC, ORG 
+1070,22,1580,0, Myanmar, GPE 
+1071,22,1580,0, Yangon, GPE 
+1072,22,1580,1, PNLO, ORG 
+1073,22,1580,2, PNLO, ORG 
+1074,22,1580,6, Liaison Office Economic, ORG 
+1075,22,1580,7, Taunggyi, GPE 
+1076,22,1580,8, Hsee, GPE 
+1077,22,1580,8, Mauk Mae, ORG 
+1078,22,1580,8, Tha Htone, GPE 
+1079,22,1580,10, UPWC, ORG 
+1080,22,1580,10, PNLO, ORG 
+1081,22,1580,11, Anti - Narcotics Development , ORG 
+1082,22,1580,11, PNLO, ORG 
+1083,22,1580,11, Ka Du Gyi, PERSON 
+1084,22,1580,11, Mae Aww, PERSON 
+1085,22,1580,11, PNLO, ORG 
+1086,22,1580,11, PNLO, ORG 
+1087,22,1580,11, State, ORG 
+1088,22,1580,11, healthcare, ORG 
+1089,22,1580,12, PNLO, ORG 
+1090,22,1580,16, PNLO, ORG 
+1091,22,1580,16, UPWC, ORG 
+1092,22,1580,16, Remark, ORG 
+1093,22,1580,16, PNLO, ORG 
+1094,22,1580,16, UNFC, ORG 
+1095,22,1580,18, PNLO, ORG 
+1096,22,1580,18, Khun Okkar, PERSON 
+1097,22,1580,18, U Khun Myint Htun, ORG 
+1098,22,1580,18, Khin Mg Soe, PERSON 
+1099,23,1581,0, Kachin Independence Organization, ORG 
+1100,23,1581,0, Myitkyina City, GPE 
+1101,23,1581,0, Kachin State, ORG 
+1102,23,1581,0, Myanmar, GPE 
+1103,23,1581,0, KIO, ORG 
+1104,23,1581,2, Monitoring Committees, ORG 
+1105,23,1581,5, Myitkyina, GPE 
+1106,23,1581,5, KIO, ORG 
+1107,23,1581,8, Myanmar, GPE 
+1108,24,1582,0, NDAA, ORG 
+1109,24,1582,1, NDAA, ORG 
+1110,24,1582,1, Rangoon, GPE 
+1111,24,1582,1, Taunggyi, GPE 
+1112,24,1582,1, Tachilek, ORG 
+1113,24,1582,1, Mandalay, ORG 
+1114,24,1582,3, NDAA, ORG 
+1115,24,1582,3, Eastern Shan, LOC 
+1116,24,1582,5, NDAA, ORG 
+1117,24,1582,9, NDAA, ORG 
+1118,24,1582,11, NDAA, ORG 
+1119,24,1582,17, NDAA, ORG 
+1120,24,1582,19, NGOS, ORG 
+1121,24,1582,19, U.N., ORG 
+1122,24,1582,21, NDAA, ORG 
+1123,24,1582,23, NDAA, ORG 
+1124,24,1582,27, NDAA, ORG 
+1125,24,1582,31, NDAA, ORG 
+1126,24,1582,31, Republic Union Myanmar, GPE 
+1127,24,1582,33, NDAA, ORG 
+1128,24,1582,33, NDAA, ORG 
+1129,24,1582,33, NDAA, ORG 
+1130,24,1582,35, NDAA, ORG 
+1131,24,1582,37, NDAA, ORG 
+1132,24,1582,39, NDAA, ORG 
+1133,25,1599,0, National Reconciliation , ORG 
+1134,25,1599,0, Deed Commitment Peace National Reconciliation, ORG 
+1135,25,1599,0, Myanmar, GPE 
+1136,25,1599,3, Union, ORG 
+1137,25,1599,3, Panglong, ORG 
+1138,25,1599,3, Political Dialogue, ORG 
+1139,25,1599,5, Nationwide Ceasefire Agreement, ORG 
+1140,25,1599,10, Political Dialogue, ORG 
+1141,25,1599,10, Nationwide Ceasefire Agreement, ORG 
+1142,25,1599,10, General Elections, ORG 
+1143,25,1599,10, Political Dialogue, ORG 
+1144,25,1599,13, Deed Commitment Peace National Reconciliation, ORG 
+1145,26,1603,0, SSA - S, ORG 
+1146,26,1603,1, UNODC, ORG 
+1147,26,1603,1, Mongnai, PERSON 
+1148,26,1603,1, Mongpan, PERSON 
+1149,26,1603,2, UNODC, ORG 
+1150,26,1603,5, UNODC, ORG 
+1151,26,1603,6, UNODC, ORG 
+1152,26,1603,8, CCDAC, ORG 
+1153,26,1603,8, Shan State Police Force, ORG 
+1154,26,1603,9, CCDAC - UNODC, ORG 
+1155,26,1603,9, UNODC, ORG 
+1156,26,1603,9, UN Office, ORG 
+1157,26,1603,9, Central Committee Drug Abuse Control, ORG 
+1158,26,1603,9, UNODC, ORG 
+1159,27,1841,3, Genuine, ORG 
+1160,27,1841,4, Formation Union Armed Forces, ORG 
+1161,27,1841,8, Achieving, ORG 
+1162,27,1841,12, Aims & Objectives, ORG 
+1163,27,1841,16, Federal Union, ORG 
+1164,27,1841,21, Panlong, GPE 
+1165,27,1841,21, Pyidaungsu Accord, PERSON 
+1166,27,1841,22, Nationalities, ORG 
+1167,27,1841,23, Pyidaungsu Accord, PERSON 
+1168,27,1841,40, Illegal Association, ORG 
+1169,27,1841,52, “ Common Agreement, ORG 
+1170,27,1841,55, U Twan Zaw, PERSON 
+1171,27,1841,55, Arakan Liberation Party Arakan National Council, ORG 
+1172,27,1841,56, U Tun Mrat Naing, ORG 
+1173,27,1841,57, Pu Zin Cun Commander, PERSON 
+1174,27,1841,57, General Arakan Army Chin National, ORG 
+1175,27,1841,58, Saw Mo Shay, PERSON 
+1176,27,1841,59, Koon Abel Tweed, PERSON 
+1177,27,1841,59, Democratic Karen Benevolent Army, ORG 
+1178,27,1841,62, Saw Kyaw Dah, PERSON 
+1179,27,1841,62, Karen National Union Foreign & Public Relations Department, ORG 
+1180,27,1841,62, KNU / KNLA Peace Council 9, ORG 
+1181,27,1841,63, Kya Khunsa, PERSON 
+1182,27,1841,64, Lahu Democratic Union Myanmar National Democratic Alliance Army, ORG 
+1183,28,2369,1, Union, ORG 
+1184,28,2369,1, Panglong, PERSON 
+1185,28,2369,1, Republic Union Myanmar, GPE 
+1186,28,2369,1, Union, ORG 
+1187,28,2369,1, Century Panglong, PERSON 
+1188,28,2369,3, Union Peace Dialogue Joint Committee, ORG 
+1189,28,2369,3, UPDJC, ORG 
+1190,28,2369,5, Nationwide Ceasefire Agreement, ORG 
+1191,28,2369,6, Century Panglong, PERSON 
+1192,28,2369,6, Nationwide Ceasefire Agreement Section 20, ORG 
+1193,28,2369,8, Tin Myo Win  Representative, PERSON 
+1194,28,2369,8, Government Group, ORG 
+1195,28,2369,9, Win Myint  Representative, PERSON 
+1196,28,2369,9, Hluttaw Group  3, ORG 
+1197,28,2369,10, Tatmadaw Group  4, ORG 
+1198,28,2369,11, Lian Hmung Sakhong, PERSON 
+1199,28,2369,11, Ethnic Armed Organization Group  5, ORG 
+1200,28,2369,12, U Thu Wai  Representative, ORG 
+1201,28,2369,12, Political Parties Group  Page, ORG 
+1202,28,2369,12, Kyaw Win  Relevant Representative, ORG 
+1203,28,2369,12, Government Group, ORG 
+1204,28,2369,12, Ethnic Armed Organization Group  U Zein Khan Ram  Ethnic Representative Political Parties Group, ORG 
+1205,28,2369,12, Political Parties Group  Union, ORG 
+1206,28,2369,12, III Addendum, PERSON 
+1207,28,2369,13, Republic Union Myanmar, GPE 
+1208,28,2369,13, Union, ORG 
+1209,28,2369,13, Union, ORG 
+1210,28,2369,13, Panglong, ORG 
+1211,28,2369,23, Republic Union Myanmar, GPE 
+1212,28,2369,25, NCA, ORG 
+1213,28,2369,27, UPDJC, ORG 
+1214,28,2369,27, JMC, ORG 
+1215,28,2369,29, Republic Union Myanmar, GPE 
+1216,28,2369,32, NCA, ORG 
+1217,28,2369,35, Hluttaw, GPE 
+1218,28,2369,35, Tatmadaw, PERSON 
+1219,28,2369,35, NCA - S, ORG 
+1220,28,2369,36, NCA, ORG 
+1221,28,2369,37, NCA, ORG 
+1222,28,2369,39, NCA, ORG 
+1223,28,2369,41, NCA, ORG 
+1224,28,2369,41, NCA, ORG 
+1225,28,2369,41, UPDJC, ORG 
+1226,28,2369,43, UPDJC, ORG 
+1227,28,2369,43, III Addendum, PERSON 
+1228,28,2369,43, State, ORG 
+1229,28,2369,43, Establishment Union, ORG 
+1230,28,2369,44, Union, ORG 
+1231,28,2369,45, Implementing Union, ORG 
+1232,28,2369,47, NCA, ORG 
+1233,28,2369,47, III Addendum, PERSON 
+1234,28,2369,47, Union, ORG 
+1235,28,2369,47, Panglong, PERSON 
+1236,28,2369,47, Republic Union Myanmar, GPE 
+1237,28,2369,47, Union, ORG 
+1238,28,2369,51, Constitutional Tribunal, ORG 
+1239,29,769,0, Lashio, GPE 
+1240,29,769,4, Republic Union Myanmar, GPE 
+1241,29,769,5, Republic Union Myanmar, GPE 
+1242,29,769,6, State, ORG 
+1243,29,769,6, State, ORG 
+1244,29,769,6, State, ORG 
+1245,30,770,0, Mongla Armed Group ( Special Region 4 - Northern Shan State, ORG 
+1246,30,770,0, Kengtung, GPE 
+1247,30,770,1, Special Region, GPE 
+1248,30,770,2, Special Region, GPE 
+1249,30,770,3, Special Region, GPE 
+1250,30,770,4, Special Region, GPE 
+1251,30,770,4, Republic Union Myanmar, GPE 
+1252,30,770,4, Special Region, GPE 
+1253,30,770,5, Republic Union Myanmar, GPE 
+1254,30,770,6, State, ORG 
+1255,30,770,6, State, ORG 
+1256,30,770,6, Special Region, GPE 
+1257,30,770,6, State, ORG 
+1258,31,771,0, CNF Government, ORG 
+1259,31,771,0, Chinland Guardian, ORG 
+1260,31,771,0, Myanmar, GPE 
+1261,31,771,0, Union Myanmar, ORG 
+1262,31,771,0, Ethnic Affairs, ORG 
+1263,31,771,0, Internal Peace Committee, ORG 
+1264,31,771,0, People ’s Parliament, ORG 
+1265,31,771,0, National Parliament, ORG 
+1266,31,771,0, Union, ORG 
+1267,31,771,0, U Aung Min, PERSON 
+1268,31,771,0, Union Myanmar U Thein Sein, ORG 
+1269,31,771,0, Pu Zing Cung, PERSON 
+1270,31,771,0, Chin National, ORG 
+1271,31,771,0, Joint General, ORG 
+1272,31,771,0, Sui Khar, PERSON 
+1273,31,771,0, Thailand, GPE 
+1274,31,771,0, Chin National ’s, ORG 
+1275,31,771,0, Central Executive Committee ’s, ORG 
+1276,31,771,1, Chin National, ORG 
+1277,31,771,2, Chin State Government, ORG 
+1278,31,771,2, Chin National, ORG 
+1279,31,771,3, Chin State Government, ORG 
+1280,31,771,3, Chin National, ORG 
+1281,31,771,3, Liaison Office, ORG 
+1282,31,771,3, Thantlang, GPE 
+1283,31,771,4, Liaison Offices, ORG 
+1284,31,771,4, Tedim, GPE 
+1285,31,771,4, Matupi, GPE 
+1286,31,771,5, Chin National / Army, ORG 
+1287,31,771,5, Thantlang Township :, GPE 
+1288,31,771,5, Tlangpi Village Tract, GPE 
+1289,31,771,5, Dawn Village Tract, GPE 
+1290,31,771,5, Zang Tlang Village Tract, PERSON 
+1291,31,771,6, Tedim Township ’s, GPE 
+1292,31,771,6, Bukphir Village, PERSON 
+1293,31,771,6, Paletwa Township ’s Kung Pin, ORG 
+1294,31,771,6, Para, GPE 
+1295,31,771,6, Pathiantlang Village, GPE 
+1296,31,771,7, Chin State Government, ORG 
+1297,31,771,7, Chin National, ORG 
+1298,31,771,7, Chin National Chin National Army, ORG 
+1299,31,771,8, Chin State Government, ORG 
+1300,31,771,8, Chin National, ORG 
+1301,31,771,8, Chin National, ORG 
+1302,31,771,10, Chin State Government, ORG 
+1303,31,771,10, Chin National, ORG 
+1304,31,771,10, Chin National, ORG 
+1305,31,771,10, Chin National Army, ORG 
+1306,31,771,11, Chin State Government, ORG 
+1307,31,771,11, Chin National, ORG 
+1308,31,771,11, Non - Governmental Organizations, ORG 
+1309,31,771,11, Union Myanmar, ORG 
+1310,31,771,13, Chin State Government, ORG 
+1311,31,771,13, Chin National, ORG 
+1312,31,771,13, Chin National, ORG 
+1313,31,771,13, Special Economic Zone, LOC 
+1314,31,771,13, Union Myanmar, ORG 
+1315,31,771,13, State, ORG 
+1316,31,771,14, Chin State Government, ORG 
+1317,31,771,14, Chin National, ORG 
+1318,31,771,14, Chin National, ORG 
+1319,31,771,14, Chin State Government, ORG 
+1320,31,771,14, Chin State, LOC 
+1321,31,771,15, Chin State Government, ORG 
+1322,31,771,15, Chin National, ORG 
+1323,31,771,15, Chin State, GPE 
+1324,31,771,16, Chin State Government, ORG 
+1325,31,771,16, Chin National, ORG 
+1326,31,771,16, Railway, PERSON 
+1327,31,771,16, U Aung Min, PERSON 
+1328,31,771,16, Environment Forestry, ORG 
+1329,31,771,16, U Win Htun, PERSON 
+1330,31,771,16, U Hung Ngai, PERSON 
+1331,31,771,16, Peace Tranquillity Committee, ORG 
+1332,32,773,0, Shan State Progressive Party / Shan State Army, ORG 
+1333,32,773,0, Shan State, GPE 
+1334,32,773,0, Shan State Progressive Party, ORG 
+1335,32,773,0, Taunggyi, GPE 
+1336,32,773,1, Union, ORG 
+1337,32,773,1, Panglong, ORG 
+1338,32,773,2, Shan State Progressive Party, ORG 
+1339,33,774,0, New Mon State Party, ORG 
+1340,33,774,0, NMSP, ORG 
+1341,33,774,0, NMSP, ORG 
+1342,33,774,2, Formation Union, ORG 
+1343,34,775,0, State, ORG 
+1344,34,775,0, KNU, ORG 
+1345,34,775,0, KNLA Peace Council, ORG 
+1346,34,775,0, Tatmadaw, PERSON 
+1347,34,775,0, KNU / KNLA Peace Council, ORG 
+1348,34,775,1, KNU, ORG 
+1349,34,775,1, KNLA Peace Council, ORG 
+1350,34,775,1, Mela, PERSON 
+1351,34,775,2, Liaison, PERSON 
+1352,34,775,3, Phayathonzu, GPE 
+1353,34,775,3, Kawkareik, PERSON 
+1354,34,775,3, Mawtaung, GPE 
+1355,34,775,3, Kawthoung, GPE 
+1356,34,775,5, KNU, ORG 
+1357,34,775,5, KNLA Peace Council, ORG 
+1358,34,775,6, State, ORG 
+1359,34,775,7, KNU, ORG 
+1360,34,775,7, KNLA Peace Council, ORG 
+1361,35,776,0, Rakhine State Government Peace - Making Group, ORG 
+1362,35,776,0, Rakhine State Liberation Party, ORG 
+1363,35,776,0, Sittway, GPE 
+1364,35,776,0, Tatmadaw, PERSON 
+1365,35,776,0, Rakhine State Liberation Party, ORG 
+1366,35,776,1, Rakhine State Liberation Party, ORG 
+1367,35,776,1, Kyauktaw , PERSON 
+1368,35,776,2, Rakhine State Liberation Party, ORG 
+1369,35,776,3, Peace Making Group, ORG 
+1370,35,776,3, Union Government, ORG 
+1371,35,776,3, Rakhine State Liberation Party, ORG 
+1372,35,776,4, Rakhine State Peace Discussion Group, ORG 
+1373,35,776,4, State Security, ORG 
+1374,35,776,4, Htein Lin, PERSON 
+1375,35,776,5, Rakhine State Liberation Party, ORG 
+1376,35,776,5, Joint General, ORG 

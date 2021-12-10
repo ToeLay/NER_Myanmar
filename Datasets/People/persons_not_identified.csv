@@ -1,0 +1,18 @@
+,agreement_id,entity,per_correction,entity_type,person_affiliation,NER
+0,1544,Maj. Gen. Min Naung,Maj. Gen. Min Naung,PER,Gov. of Myanmar,manual
+1,1544,Lt. Col Khine Myo Chit,Lt. Col Khine Myo Chit,PER,ALP,manual
+2,1544,Padoh Saw Ta Doh Moo,Padoh Saw Ta Doh Moo,PER,KNU,manual
+3,1550,Khu Oo Re,Khu Oo Re,PER,KNPP,manual
+4,1562,U Tun Tun Oo,U Tun Tun Oo,PER,Gov,manual
+5,1562,Lt-Col Zaw Naing Oo,Lt-Col Zaw Naing Oo,PER,Gov,manual
+6,1562,Sao Hsay Pein Pha,Sao Hsay Pein Pha,PER,SSPP,manual
+7,1580,U Aung Min,U Aung Min,PER,UPWC,manual
+8,1841,Khaing Thuka,Khaing Thuka,PER,Arakan Liberation Party,manual
+9,1841,Saw Mutu Say Po,Saw Mutu Say Po,PER,KNU/KNLA,manual
+10,1841,Hpon Da Shwin,Hpon Da Shwin,PER,Myanmar National Democratic Alliance Army,manual
+11,2369,Lt-Gen Tin Maug Win,Lt-Gen Tin Maug Win,PER,Tatmadaw,manual
+12,2369,Lian Hmung Sakhong,Lian Hmung Sakhong,PER,EAO,manual
+13,2369,U Htone Phoo Dagon,U Htone Phoo Dagon,PER,Ethnic Representative Government Group,manual
+14,2369,Kya Sha Mwe,Kya Sha Mwe,PER,EAO,manual
+15,2369,Daw Khin Ma Ma Myo,Daw Khin Ma Ma Myo,PER,EAO,manual
+16,2369,Nang Aye Aye Thwe,Nang Aye Aye Thwe,PER,Political Parties Group,manual

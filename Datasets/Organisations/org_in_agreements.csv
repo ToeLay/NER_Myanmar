@@ -1,0 +1,487 @@
+doc_id,agreement_id,sentence_number,entity,entity_type,org_correction,corrected_entity_org,entity_correction,entity_abr
+0,1321,0, CNF - Govt Agreements, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,0, Chin National ( CNF, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,1, Chin National Union, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,1, Union Peace Working Committee, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+0,1321,1, Chin National Peace Negotiating Team, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,1, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,1, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,3, Union Peace Working Committee, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+0,1321,6, Government Chin State, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,7, Government Chin State, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,7, Chin Special Division, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,8, Union Government, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+0,1321,10, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,10, Chin, PERSON ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,11, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,19, Union Peace Working Committee, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+0,1321,27, Chin, PERSON ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,27, Union Government, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+0,1321,29, Union Government, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+0,1321,32, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,32, Union Government, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+0,1321,32, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,35, Union Government, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+0,1321,35, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,35, Chin, PERSON ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,35, Chin, PERSON ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,41, Chin State Union Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,45, Chin, PERSON ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,50, Union Government, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+0,1321,52, Chin, PERSON ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,54, Union Government, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+0,1321,54, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,64, Chin, PERSON ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+0,1321,64, Union Government, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+0,1321,64, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+1,1436,0, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,0, Government Republic Union Myanmar, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1,1436,0, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,6, Pyidaungsu Tatmadaw, PERSON ,Tatmadaw,ORG,Tatmadaw,Tatmadaw
+1,1436,17, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,22, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,23, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,23, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,25, Tatmadaw, PERSON ,Tatmadaw,ORG,Tatmadaw,Tatmadaw
+1,1436,27, Joint Ceasefire Monitoring Committee, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+1,1436,29, Tatmadaw, PERSON ,Tatmadaw,ORG,Tatmadaw,Tatmadaw
+1,1436,35, Government Republic Union Myanmar, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1,1436,43, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,45, Tatmadaw, PERSON ,Tatmadaw,ORG,Tatmadaw,Tatmadaw
+1,1436,45, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,48, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,52, Tatmadaw, PERSON ,Tatmadaw,ORG,Tatmadaw,Tatmadaw
+1,1436,55, Tatmadaw, PERSON ,Tatmadaw,ORG,Tatmadaw,Tatmadaw
+1,1436,77, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,77, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,77, Government Republic Union Myanmar, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1,1436,82, Joint Ceasefire Monitoring Committee, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+1,1436,83, Nationwide Ceasefire Agreement Joint Implementation Coordination Meeting, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+1,1436,83, Joint Ceasefire Monitoring Committee, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+1,1436,83, Joint Ceasefire Monitoring Committee, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+1,1436,83, Union Peace - Making Work Committee, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+1,1436,83, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,84, Joint Ceasefire Monitoring Committee, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+1,1436,85, Joint Ceasefire Monitoring Committee, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+1,1436,87, Nationwide Ceasefire Agreement Joint Implementation Coordination Meeting, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+1,1436,88, Nationwide Ceasefire Agreement Joint Implementation Coordination Meeting, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+1,1436,93, Joint Ceasefire Monitoring Committee, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+1,1436,95, Joint Ceasefire Monitoring Committee, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+1,1436,97, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,101, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,105, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,106, Government Republic Union Myanmar, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1,1436,106, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,110, Pyidaungsu Hluttaw, GPE ,Hluttaw,ORG,Hluttaw,Hluttaw
+1,1436,113, Ethnic Armed  Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,114, Joint Monitoring Committee, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+1,1436,114, Union Peace Dialogue Joint Committee, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+1,1436,120, Hluttaws, ORG ,Hluttaw,ORG,Hluttaw,Hluttaw
+1,1436,120, Tatmadaw, PERSON ,Tatmadaw,ORG,Tatmadaw,Tatmadaw
+1,1436,120, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,130, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,132, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,140, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,141, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,141, Ethnic Armed Organization, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,142, Pyidaungsu Hluttaw, PERSON ,Hluttaw,ORG,Hluttaw,Hluttaw
+1,1436,143, Pyidaungsu Hluttaw, GPE ,Hluttaw,ORG,Hluttaw,Hluttaw
+1,1436,156, Nationwide Ceasefire Agreement Joint Implementation Coordination Meeting, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+1,1436,161, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+1,1436,162, Hluttaw, ORG ,Hluttaw,ORG,Hluttaw,Hluttaw
+1,1436,162, Tatmadaw, PERSON ,Tatmadaw,ORG,Tatmadaw,Tatmadaw
+1,1436,168, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+1,1436,169, UPWC, ORG ,Union Peacemaking Working Committee (UPWC),ORG,Union Peacemaking Working Committee (UPWC),UPWC
+2,1518,0, FDA, ORG ,Food and Drug Administration (FDA),ORG,Food and Drug Administration (FDA),FDA
+2,1518,0, NLD, ORG ,National League Democracy (NLD),ORG,National League Democracy (NLD),NLD
+2,1518,0, UNA, ORG ,United Nationalities Alliance (UNA),ORG,United Nationalities Alliance (UNA),UNA
+2,1518,0, UEC, ORG ,Union Election Commission (UEC),ORG,Union Election Commission (UEC),UEC
+2,1518,47, UEC, ORG ,Union Election Commission (UEC),ORG,Union Election Commission (UEC),UEC
+2,1518,84, UEC, ORG ,Union Election Commission (UEC),ORG,Union Election Commission (UEC),UEC
+2,1518,138, UEC, ORG ,Union Election Commission (UEC),ORG,Union Election Commission (UEC),UEC
+3,1519,0, Union Peace Dialogue Joint Committee, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+3,1519,0, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,0, Tatmadaw, ORG ,Tatmadaw,ORG,Tatmadaw,Tatmadaw
+3,1519,0, Ethnic Armed Organizations, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+3,1519,0, Pyidaungsu Hluttaw, GPE ,Hluttaw,ORG,Hluttaw,Hluttaw
+3,1519,18, Pyidaungsu Tatmadaw, ORG ,Tatmadaw,ORG,Tatmadaw,Tatmadaw
+3,1519,31, Pyidaungsu Hluttaw, GPE ,Hluttaw,ORG,Hluttaw,Hluttaw
+3,1519,33, Union Peace Dialogue Joint Committee, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+3,1519,33, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,35, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,37, Tatmadaw, PERSON ,Tatmadaw,ORG,Tatmadaw,Tatmadaw
+3,1519,45, Tatmadaw, PERSON ,Tatmadaw,ORG,Tatmadaw,Tatmadaw
+3,1519,56, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,58, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,58, Union Peace, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,64, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,75, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,99, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,99, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,101, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,101, Tatmadaw, PERSON ,Tatmadaw,ORG,Tatmadaw,Tatmadaw
+3,1519,104, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,106, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,108, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,108, Pyidaungsu Hluttaw, GPE ,Hluttaw,ORG,Hluttaw,Hluttaw
+3,1519,110, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,111, Tatmadaw, PERSON ,Tatmadaw,ORG,Tatmadaw,Tatmadaw
+3,1519,112, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,113, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,114, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,126, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,128, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,129, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,130, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,141, Pyidaungsu Hluttaw, GPE ,Hluttaw,ORG,Hluttaw,Hluttaw
+3,1519,150, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+3,1519,153, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+4,1544,1, Government Burma, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+4,1544,2, Joint Monitoring Committee, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+4,1544,87, KNLA  Permanent Central Committee, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+4,1544,87, KNU, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+4,1544,89, KNU / KNLA, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+4,1544,90, CNF, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+5,1545,0, Joint Monitoring Committee Guideline, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,2, Ceasefire Joint Monitoring Committee, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+5,1545,7, Ceasefire Joint Monitoring Committee, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+5,1545,14, Joint Ceasefire Monitoring Committee, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+5,1545,14, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,15, Union Level Joint Ceasefire Monitoring Committee, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+5,1545,15, Union Level Joint Ceasefire Monitoring Committee, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+5,1545,15, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,17, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,25, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,26, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,27, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,31, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,38, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,40, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,41, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,43, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,45, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,46, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,48, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,48, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,50, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,50, Local Level Joint Ceasefire Monitoring Committee, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+5,1545,50, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,50, JMC - S., ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,51, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,51, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,51, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,51, JMC - S. , ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,52, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,52, JMC - S., ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,53, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,55, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,57, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,58, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,60, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,62, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,64, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,66, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,68, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,68, JMC - S., ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,69, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,72, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,72, JMC - U.  Meetings Resolutions, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,73, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,75, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,76, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,78, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,82, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,84, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,86, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,87, Joint Ceasefire Monitoring Committee, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+5,1545,87, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,88, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,88, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,90, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,94, ee ) EAOs , ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+5,1545,96, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,97, JMC - S., ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,97, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,98, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,100, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,102, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,104, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,107, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,109, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,109, Local Level Joint Ceasefire Monitoring Committee, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+5,1545,109, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,109, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,111, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,112, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,112, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,114, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,114, Local Level Joint Ceasefire Monitoring Committee, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+5,1545,114, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,115, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,115, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,116, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,116, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,117, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,119, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,119, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,122, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,122, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,124, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,126, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,128, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,130, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,130, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,131, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,131, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,132, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,133, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,135, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,136, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,136, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,138, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,142, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,143, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,145, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,146, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,147, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,147, JMC - S. , ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,147, Joint Ceasefire Monitoring Committee, ORG ,Joint Ceasefire Monitoring Committee (JCMC),ORG,Joint Ceasefire Monitoring Committee (JCMC),JCMC
+5,1545,147, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,149, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,150, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,150, JMC - S. , ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,150, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,151, JMC - L.  Responsibilities JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,152, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,152, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,154, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,154, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,156, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,156, JMC - S., ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,157, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,157, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,159, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,159, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,162, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,164, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,166, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,168, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,168, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,170, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,172, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,173, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,174, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,176, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,179, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,181, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,182, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,184, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,186, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,186, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,186, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,187, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,188, JMC - U, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+5,1545,188, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,188, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,188, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,189, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,189, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,190, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,194, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,195, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,198, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,199, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,200, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,203, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,205, JMC - L, ORG ,Local Level Joint Ceasefire Monitoring Committee (JMC-L),ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+5,1545,206, JMC - S, ORG ,State Level Joint Ceasefire Monitoring Committee (JMC-S),ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+5,1545,207, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,209, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,211, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,212, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,214, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,215, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,216, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,218, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,220, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,220, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,220, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,222, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,224, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,226, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+5,1545,226, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+7,1550,0, Karenni National Progressive Party, ORG ,Karenni National Progressive Party (KNPP),ORG,Karenni National Progressive Party (KNPP),KNPP
+7,1550,0, KNPP, ORG ,Karenni National Progressive Party (KNPP),ORG,Karenni National Progressive Party (KNPP),KNPP
+7,1550,1, KNPP, ORG ,Karenni National Progressive Party (KNPP),ORG,Karenni National Progressive Party (KNPP),KNPP
+7,1550,1, KNPP Khu Oo Reh, ORG ,Karenni National Progressive Party (KNPP),ORG,Karenni National Progressive Party (KNPP),KNPP
+7,1550,3, KNPP, ORG ,Karenni National Progressive Party (KNPP),ORG,Karenni National Progressive Party (KNPP),KNPP
+7,1550,10, KNPP, ORG ,Karenni National Progressive Party (KNPP),ORG,Karenni National Progressive Party (KNPP),KNPP
+8,1551,1, Chin National Union, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,1, CNF, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,2, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,2, Chin National Peace Team, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,4, Chin National Chin State / Union Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,5, CNF, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,6, CNF, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,16, CNF, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,16, CNF, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,17, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,18, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,23, CNF, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,24, CNF, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,24, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,24, Union Government, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+8,1551,25, Chin, PERSON ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,26, Government ’s Order, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+8,1551,28, Chin, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,28, CNF, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,29, Chin National Day, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,33, CNF, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,33, CNA, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,34, CNF, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,35, CNF, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,36, CNF, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,47, Union Government, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+8,1551,53, CNF, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,53, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+8,1551,53, Union Peace Team Crisis Mediating Body, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+10,1553,0, KNU, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+10,1553,0, Burmese Government, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+10,1553,0, KNU, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+10,1553,1, KNU, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+10,1553,2, KNU, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+10,1553,3, KNU, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+10,1553,3, KNU, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+10,1553,4, KNU, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+10,1553,5, KNU, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+12,1557,0, NMSP, ORG ,New Mon State Party (NMSP),ORG,New Mon State Party (NMSP),NMSP
+12,1557,1, NMSP, ORG ,New Mon State Party (NMSP),ORG,New Mon State Party (NMSP),NMSP
+12,1557,7, NMSP, ORG ,New Mon State Party (NMSP),ORG,New Mon State Party (NMSP),NMSP
+13,1558,0, Naga, PERSON ,National Socialist Council of Nagaland (NSCN),ORG,National Socialist Council of Nagaland (NSCN),NSCN
+13,1558,0, NSCN, ORG ,National Socialist Council of Nagaland (NSCN),ORG,National Socialist Council of Nagaland (NSCN),NSCN
+13,1558,2, Tatmadaw, PERSON ,Tatmadaw,ORG,Tatmadaw,Tatmadaw
+13,1558,2, NSCN, ORG ,National Socialist Council of Nagaland (NSCN),ORG,National Socialist Council of Nagaland (NSCN),NSCN
+13,1558,3, NSCN, ORG ,National Socialist Council of Nagaland (NSCN),ORG,National Socialist Council of Nagaland (NSCN),NSCN
+13,1558,4, NSCN, ORG ,National Socialist Council of Nagaland (NSCN),ORG,National Socialist Council of Nagaland (NSCN),NSCN
+13,1558,5, NSCN, ORG ,National Socialist Council of Nagaland (NSCN),ORG,National Socialist Council of Nagaland (NSCN),NSCN
+14,1559,0, SSA - S Government Ceasefire Agreement, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+14,1559,0, Shan State, GPE ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+14,1559,17, Union Government, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+15,1560,0, SSA - S Government 11, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+15,1560,0, Shan State, GPE ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+15,1560,6, SSA, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+15,1560,12, SSA - S, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+15,1560,13, SSA, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+16,1561,0, SSA - S Government, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+16,1561,1, Restoration Council Shan State / Shan State Army, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+16,1561,1, Shan State, GPE ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+16,1561,4, UPWC, ORG ,Union Peacemaking Working Committee (UPWC),ORG,Union Peacemaking Working Committee (UPWC),UPWC
+17,1562,0, SSPP / SSA - N Government  Preliminary Peace, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+17,1562,0, Shan State Progressive Party, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+17,1562,0, SSPP)/ Shan State Army, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+17,1562,1, Shan State, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+17,1562,2, Shan State Progressive Party, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+17,1562,4, Shan State Minster Security, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+17,1562,4, SSPP / Shan State Army Sao Khun Hsai, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+17,1562,6, Tatmadaw, PERSON ,Tatmadaw,ORG,Tatmadaw,Tatmadaw
+17,1562,6, SSPP / Shan State Army, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+17,1562,7, SSPP / Shan State Army, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+17,1562,12, Shan State Progressive, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+17,1562,12, Party/ Shan State Army, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+17,1562,14, Shan State, GPE ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+17,1562,14, Shan State Progressive Party, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+17,1562,16, Shan State Progressive Party, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+17,1562,19, SSPP / Shan State Army, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+19,1564,0, KNU Press Release, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+19,1564,0, KNU Delegation, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+19,1564,0, KNU Delegation, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+19,1564,1, KNU, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+19,1564,17, KNU, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+21,1579,0, PNLO, ORG ,Pa-O National Liberation Organisation (PNLO),ORG,Pa-O National Liberation Organisation (PNLO),PNLO
+21,1579,0, Myanmar Government, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+22,1580,0, PNLO, ORG ,Pa-O National Liberation Organisation (PNLO),ORG,Pa-O National Liberation Organisation (PNLO),PNLO
+22,1580,0, UPWC, ORG ,Union Peacemaking Working Committee (UPWC),ORG,Union Peacemaking Working Committee (UPWC),UPWC
+22,1580,1, PNLO, ORG ,Pa-O National Liberation Organisation (PNLO),ORG,Pa-O National Liberation Organisation (PNLO),PNLO
+22,1580,2, PNLO, ORG ,Pa-O National Liberation Organisation (PNLO),ORG,Pa-O National Liberation Organisation (PNLO),PNLO
+22,1580,10, UPWC, ORG ,Union Peacemaking Working Committee (UPWC),ORG,Union Peacemaking Working Committee (UPWC),UPWC
+22,1580,10, PNLO, ORG ,Pa-O National Liberation Organisation (PNLO),ORG,Pa-O National Liberation Organisation (PNLO),PNLO
+22,1580,11, PNLO, ORG ,Pa-O National Liberation Organisation (PNLO),ORG,Pa-O National Liberation Organisation (PNLO),PNLO
+22,1580,11, PNLO, ORG ,Pa-O National Liberation Organisation (PNLO),ORG,Pa-O National Liberation Organisation (PNLO),PNLO
+22,1580,11, PNLO, ORG ,Pa-O National Liberation Organisation (PNLO),ORG,Pa-O National Liberation Organisation (PNLO),PNLO
+22,1580,12, PNLO, ORG ,Pa-O National Liberation Organisation (PNLO),ORG,Pa-O National Liberation Organisation (PNLO),PNLO
+22,1580,16, PNLO, ORG ,Pa-O National Liberation Organisation (PNLO),ORG,Pa-O National Liberation Organisation (PNLO),PNLO
+22,1580,16, UPWC, ORG ,Union Peacemaking Working Committee (UPWC),ORG,Union Peacemaking Working Committee (UPWC),UPWC
+22,1580,16, PNLO, ORG ,Pa-O National Liberation Organisation (PNLO),ORG,Pa-O National Liberation Organisation (PNLO),PNLO
+22,1580,16, UNFC, ORG ,United Nationalities Federal Council (UNFC),ORG,United Nationalities Federal Council (UNFC),UNFC
+22,1580,18, PNLO, ORG ,Pa-O National Liberation Organisation (PNLO),ORG,Pa-O National Liberation Organisation (PNLO),PNLO
+23,1581,0, Kachin Independence Organization, ORG ,Kachin Independence Organisation (KIO),ORG,Kachin Independence Organisation (KIO),KIO
+23,1581,0, KIO, ORG ,Kachin Independence Organisation (KIO),ORG,Kachin Independence Organisation (KIO),KIO
+23,1581,5, KIO, ORG ,Kachin Independence Organisation (KIO),ORG,Kachin Independence Organisation (KIO),KIO
+24,1582,19, U.N., ORG ,United Nations,ORG,United Nations,UN
+26,1603,0, SSA - S, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+26,1603,1, UNODC, ORG ,United Nations Office on Drugs and Crime (UNODC),ORG,United Nations Office on Drugs and Crime (UNODC),UNODC
+26,1603,2, UNODC, ORG ,United Nations Office on Drugs and Crime (UNODC),ORG,United Nations Office on Drugs and Crime (UNODC),UNODC
+26,1603,5, UNODC, ORG ,United Nations Office on Drugs and Crime (UNODC),ORG,United Nations Office on Drugs and Crime (UNODC),UNODC
+26,1603,6, UNODC, ORG ,United Nations Office on Drugs and Crime (UNODC),ORG,United Nations Office on Drugs and Crime (UNODC),UNODC
+26,1603,8, Shan State Police Force, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+26,1603,9, UNODC, ORG ,United Nations Office on Drugs and Crime (UNODC),ORG,United Nations Office on Drugs and Crime (UNODC),UNODC
+26,1603,9, UNODC, ORG ,United Nations Office on Drugs and Crime (UNODC),ORG,United Nations Office on Drugs and Crime (UNODC),UNODC
+27,1841,55, Arakan Liberation Party Arakan National Council, ORG ,Arakan Army,ORG,Arakan Army,AA
+27,1841,57, General Arakan Army Chin National, ORG ,Arakan Army,ORG,Arakan Army,AA
+27,1841,59, Democratic Karen Benevolent Army, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+27,1841,62, Karen National Union Foreign & Public Relations Department, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+27,1841,62, KNU / KNLA Peace Council 9, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+27,1841,64, Lahu Democratic Union Myanmar National Democratic Alliance Army, ORG ,Lahu Democratic Union,ORG,Lahu Democratic Union,LDU
+28,2369,3, Union Peace Dialogue Joint Committee, ORG ,Union Level Joint Ceasefire Monitoring Committee (JMC-U),ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+28,2369,3, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+28,2369,8, Government Group, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+28,2369,9, Hluttaw Group  3, ORG ,Hluttaw,ORG,Hluttaw,Hluttaw
+28,2369,10, Tatmadaw Group  4, ORG ,Tatmadaw,ORG,Tatmadaw,Tatmadaw
+28,2369,11, Ethnic Armed Organization Group  5, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+28,2369,12, Government Group, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+28,2369,12, Ethnic Armed Organization Group  U Zein Khan Ram  Ethnic Representative Political Parties Group, ORG ,Ethnic Armed Organizations (EAO),ORG,Ethnic Armed Organizations (EAO),EAO
+28,2369,27, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+28,2369,27, JMC, ORG ,Joint Monitoring Committee (JMC),ORG,Joint Monitoring Committee (JMC),JMC
+28,2369,35, Hluttaw, GPE ,Hluttaw,ORG,Hluttaw,Hluttaw
+28,2369,35, Tatmadaw, PERSON ,Tatmadaw,ORG,Tatmadaw,Tatmadaw
+28,2369,41, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+28,2369,43, UPDJC, ORG ,Union Peace Dialogue Joint Committee (UPDJC),ORG,Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+30,770,0, Mongla Armed Group ( Special Region 4 - Northern Shan State, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+31,771,0, CNF Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+31,771,0, Chin National ’s, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+31,771,2, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+31,771,3, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+31,771,5, Chin National / Army, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+31,771,7, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+31,771,8, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+31,771,10, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+31,771,11, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+31,771,13, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+31,771,14, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+31,771,14, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+31,771,15, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+31,771,16, Chin State Government, ORG ,Chin National Front (CNF),ORG,Chin National Front (CNF),CNF
+32,773,0, Shan State Progressive Party / Shan State Army, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+32,773,0, Shan State, GPE ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+32,773,0, Shan State Progressive Party, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+32,773,2, Shan State Progressive Party, ORG ,Shan State Progress Party (SSPP)/Shan State Army (SSA),ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+33,774,0, NMSP, ORG ,New Mon State Party (NMSP),ORG,New Mon State Party (NMSP),NMSP
+33,774,0, NMSP, ORG ,New Mon State Party (NMSP),ORG,New Mon State Party (NMSP),NMSP
+34,775,0, KNU, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+34,775,0, KNLA Peace Council, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+34,775,0, Tatmadaw, PERSON ,Tatmadaw,ORG,Tatmadaw,Tatmadaw
+34,775,0, KNU / KNLA Peace Council, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+34,775,1, KNU, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+34,775,1, KNLA Peace Council, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+34,775,5, KNU, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+34,775,5, KNLA Peace Council, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+34,775,7, KNU, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+34,775,7, KNLA Peace Council, ORG ,Karen National Union (KNU)/Karen National Liberation Army (KNLA),ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+35,776,0, Rakhine State Liberation Party, ORG ,Rakhine State Liberation Party (RSLP),ORG,Rakhine State Liberation Party (RSLP),RSLP
+35,776,0, Tatmadaw, PERSON ,Tatmadaw,ORG,Tatmadaw,Tatmadaw
+35,776,0, Rakhine State Liberation Party, ORG ,Rakhine State Liberation Party (RSLP),ORG,Rakhine State Liberation Party (RSLP),RSLP
+35,776,1, Rakhine State Liberation Party, ORG ,Rakhine State Liberation Party (RSLP),ORG,Rakhine State Liberation Party (RSLP),RSLP
+35,776,2, Rakhine State Liberation Party, ORG ,Rakhine State Liberation Party (RSLP),ORG,Rakhine State Liberation Party (RSLP),RSLP
+35,776,3, Union Government, ORG ,Government of the Republic of the Union of Myanmar,ORG,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+35,776,3, Rakhine State Liberation Party, ORG ,Rakhine State Liberation Party (RSLP),ORG,Rakhine State Liberation Party (RSLP),RSLP
+35,776,5, Rakhine State Liberation Party, ORG ,Rakhine State Liberation Party (RSLP),ORG,Rakhine State Liberation Party (RSLP),RSLP
