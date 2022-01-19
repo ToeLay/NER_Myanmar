@@ -1,0 +1,86 @@
+,doc_id,agreement_id,sentence_number,entity_type,entity_named,entity_affiliated_org,entity_affiliated_org_abr
+35,0,1321,5,PERSON,General Aung San,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+418,4,1544,65,PERSON,Lt. Gen. Ya Pyit,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+419,4,1544,67,PERSON,U Khin Maung Soe,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+420,4,1544,69,PERSON,Lt. Gen. Ye Aung,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+421,4,1544,71,PERSON,Maj. Gen. Tun Tun Naung,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+422,4,1544,74,PERSON,Maj. Gen. Aung Kyaw Zaw,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+424,4,1544,79,PERSON,U Myint Soe,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+428,4,1544,85,PERSON,Dr. Min Zaw Oo,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+430,4,1544,87,PERSON,Maj. Gen. Saw Isaac Poe,KNU,KNU/KNLA
+433,4,1544,89,PERSON,Maj. Gen. Saw Nay Soe Mya,KNU,KNU/KNLA
+435,4,1544,90,PERSON,Dr. Shwe Kah,CNF,CNF
+437,4,1544,92,PERSON,Col. Saw Kyaw Than Htay, Saw Kyaw Htay,
+439,4,1544,95,PERSON,Lt. Col. Khun Aung Mang,PNLO,PNLO
+440,4,1544,96,PERSON,Salai Yaw Aung,ABSDF,ABSDF
+441,4,1544,100,PERSON,Col. Hsaung Han,RCSS,RCSS
+442,4,1544,102,PERSON,Sai Liang,RCSS,RCSS
+689,7,1550,1,PERSON,U Aung Min,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+823,9,1552,1,PERSON,Col. Aung Lwin,Karen State Government,
+824,9,1552,1,PERSON,U Saw Mu Shay,DKBA-5,DKBA-5
+833,9,1552,6,PERSON,Maj. Gen Saw Lar Pwe,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+837,10,1553,0,PERSON,U Aung Min,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+844,11,1555,0,PERSON,U Aung Thaung,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+845,11,1555,0,PERSON,U Thein Zaw,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+846,11,1555,0,PERSON,U Win Tun,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+869,12,1557,0,PERSON,U Aung Min,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+875,12,1557,0,PERSON,U Win Tun,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+877,12,1557,0,PERSON,U Ohn Myint,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+895,12,1557,1,PERSON,U Win Tun,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+897,12,1557,1,PERSON,U Ohn Myint,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+904,12,1557,26,PERSON,U Aung Min,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+964,17,1562,1,PERSON,U Aung Thaung,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+966,17,1562,1,PERSON,U Thein Zaw,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+967,17,1562,1,PERSON,U Ohn Myint,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+968,17,1562,1,PERSON,U Win Tun,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+970,17,1562,1,PERSON,U Sao Aung Myat,Shan State Government,
+972,17,1562,1,PERSON,U Maung Maung Thein,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+973,17,1562,1,PERSON,Maj-Gen Aung Kyaw Zaw,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+974,17,1562,1,PERSON,Maj-Gen Mya Tun Oo,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+975,17,1562,1,PERSON,Maj-Gen Zaw Win,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+976,17,1562,1,PERSON,U Soe Tint, U Soe Tint,
+977,17,1562,1,PERSON,Col Aung Thu.,Shan State Government,
+981,17,1562,2,PERSON,General Sao Khay Tai,SSPP/SSA,
+982,17,1562,2,PERSON,Sao Khin Min,SSPP/SSA,
+983,17,1562,2,PERSON,Sao Khun Hsai,SSPP/SSA,
+984,17,1562,2,PERSON,Sao Khay Maung,SSPP/SSA,
+985,17,1562,2,PERSON,Sao Kyaw Hla,SSPP/SSA,
+986,17,1562,2,PERSON,Sao Htin Mein,SSPP/SSA,
+987,17,1562,2,PERSON,Sao Laung Khay,SSPP/SSA,
+990,17,1562,4,PERSON,Col Aung Thu.,Shan State Government,
+995,17,1562,4,PERSON,Maj-Gen Mya Tun Oo,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+999,17,1562,4,PERSON,Sao Khay Maung,SSPP/SSA,
+1001,17,1562,4,PERSON,Sao Htin Mein,SSPP/SSA,
+1009,17,1562,12,PERSON,U Aung Thaung,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1012,17,1562,12,PERSON,General Sao Khay Tai,SSPP/SSA,
+1018,17,1562,19,PERSON,U Aung Thaung,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1019,17,1562,19,PERSON,U Thein Zaw,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1022,17,1562,19,PERSON,General Sao Khay Tai,SSPP/SSA,
+1023,17,1562,19,PERSON,Sao Khun Hsai,SSPP/SSA,
+1026,18,1563,0,PERSON,U Aung Thaung,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1039,19,1564,1,PERSON,U Aung Min,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1042,19,1564,1,PERSON,General Secretary Naw Zipporah Sein,KNU,KNU/KNLA
+1050,20,1578,0,PERSON,U Aung Thaung,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1052,20,1578,0,PERSON,U Saw Lah Pwe,DKBA-5,DKBA-5
+1096,22,1580,18,PERSON,U Khun Okkar,PNLO,PNLO
+1097,22,1580,18,PERSON,U Khun Myint Htun, U Khun Myint Htun,
+1098,22,1580,18,PERSON,U Khin Mg Soe,UPWC,UPWC
+1170,27,1841,55,PERSON,U Twan Zaw,Arakan National Council,
+1172,27,1841,56,PERSON,U Tun Mrat Naing,Arakan Army,AA
+1173,27,1841,57,PERSON,Pu Zin Cun,CNF,CNF
+1175,27,1841,58,PERSON,Gen. Saw Mo Shay,DKBA,DKBA
+1176,27,1841,59,PERSON,Koon Abel Tweed,KNPP,KNPP
+1178,27,1841,62,PERSON,Col. Saw Kyaw Dah,KNU,KNU/KNLA
+1181,27,1841,63,PERSON,Kya Khunsa,Lahu Democratic Union,LDU
+1193,28,2369,8,PERSON,Dr. Tin Myo Win,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1195,28,2369,9,PERSON,Dr. May Win Myint,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1200,28,2369,12,PERSON,U Thu Wai,Political Parties Group,
+1202,28,2369,12,PERSON,U Kyaw Win,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1267,31,771,0,PERSON,U Aung Min,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1268,31,771,0,PERSON,U Thein Sein,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1269,31,771,0,PERSON,Pu Zing Cung,CNF,CNF
+1272,31,771,0,PERSON,Dr. Sui Khar,CNF,CNF
+1327,31,771,16,PERSON,U Aung Min,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1329,31,771,16,PERSON,U Win Htun,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1330,31,771,16,PERSON,U Hung Ngai,Chin State Government,
+1374,35,776,4,PERSON,Htein Lin,Government of the Republic of the Union of Myanmar,Gov. of Myanmar

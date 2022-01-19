@@ -1,0 +1,1378 @@
+,doc_id,agreement_id,sentence_number,entity_type,entity_named,entity_affiliated_org,entity_affiliated_org_abr
+0,0,1321,0,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1,0,1321,0, ORG , Chinland Guardian, Chinland Guardian,
+2,0,1321,0,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+3,0,1321,0, ORG , Peace Committee Burma, Peace Committee Burma,
+4,0,1321,0, GPE , Rangoon, Rangoon,
+5,0,1321,1,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+6,0,1321,1, ORG , Peace Working Committee, Peace Working Committee,
+7,0,1321,1, ORG , Peace Talks , Peace Talks ,
+8,0,1321,1, ORG , Union Burma, Union Burma,
+9,0,1321,1,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+10,0,1321,1,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+11,0,1321,1, ORG , Union, Union,KNU/KNLA
+12,0,1321,1, ORG , Panglong, Panglong,
+13,0,1321,1,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+14,0,1321,1,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+15,0,1321,1, GPE , Hakha, Hakha,
+16,0,1321,1, GPE , Chin State, Chin State,
+17,0,1321,1,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+18,0,1321,1,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+19,0,1321,1, GPE , Chin State, Chin State,
+20,0,1321,1, ORG , Tranquility, Tranquility,
+21,0,1321,2,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+22,0,1321,2, ORG , Non - disintegration, Non - disintegration,
+23,0,1321,2, ORG , Union, Union,KNU/KNLA
+24,0,1321,2, ORG , National Solidarity Perpetuation Sovereignty, National Solidarity Perpetuation Sovereignty,
+25,0,1321,3,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+26,0,1321,3,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+27,0,1321,3, ORG , Tranquility Committee, Tranquility Committee,
+28,0,1321,3, ORG , Peace Facilitating Committee, Peace Facilitating Committee,
+29,0,1321,4, ORG , Union Burma, Union Burma,
+30,0,1321,4, ORG , Panglong Agreement, Panglong Agreement,
+31,0,1321,4, ORG , Kachin Hill Tribes Regulation, Kachin Hill Tribes Regulation,
+32,0,1321,4, ORG , Government Burma Act, Government Burma Act,
+33,0,1321,5, GPE , Burma, Burma,ABSDF
+34,0,1321,5, ORG , Panglong Conference, Panglong Conference,
+35,0,1321,5,PERSON,General Aung San,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+36,0,1321,6,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+37,0,1321,7,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+38,0,1321,7,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+39,0,1321,7, GPE , Chin State, Chin State,
+40,0,1321,8, ORG , Environment , Environment ,
+41,0,1321,8,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+42,0,1321,8, ORG , Unlawful Association Act, Unlawful Association Act,
+43,0,1321,8,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+44,0,1321,8,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+45,0,1321,10,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+46,0,1321,10,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+47,0,1321,10,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+48,0,1321,11, ORG , National Human Rights Commission, National Human Rights Commission,
+49,0,1321,11,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+50,0,1321,11,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+51,0,1321,13, GPE , Chin State, Chin State,
+52,0,1321,15, ORG , Chin State, Chin State,
+53,0,1321,17, ORG , Union Burma, Union Burma,
+54,0,1321,17, ORG , Burma Army, Burma Army,
+55,0,1321,17, GPE , Burma, Burma,ABSDF
+56,0,1321,19,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+57,0,1321,19,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+58,0,1321,19, GPE , Thantlang Township, Thantlang Township,
+59,0,1321,19, GPE , Vanzang, Vanzang,
+60,0,1321,19, ORG , Lungding, Lungding,
+61,0,1321,19, GPE , Belhar, Belhar,
+62,0,1321,19, GPE , Lulpilung Village Tracts, Lulpilung Village Tracts,
+63,0,1321,19, GPE , Tedim Township, Tedim Township,
+64,0,1321,21, ORG , Burma Army, Burma Army,
+65,0,1321,21,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+66,0,1321,23,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+67,0,1321,23, ORG , Burma Army, Burma Army,
+68,0,1321,23, ORG , Battalion, Battalion,
+69,0,1321,25,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+70,0,1321,27,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+71,0,1321,27,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+72,0,1321,27,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+73,0,1321,27, ORG , Non Governmental Organizations, Non Governmental Organizations,
+74,0,1321,27,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+75,0,1321,29,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+76,0,1321,29,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+77,0,1321,30,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+78,0,1321,30, ORG , International Non- Governmental Organizations, International Non- Governmental Organizations,
+79,0,1321,32,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+80,0,1321,32,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+81,0,1321,32,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+82,0,1321,32,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+83,0,1321,32,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+84,0,1321,35,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+85,0,1321,35,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+86,0,1321,35,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+87,0,1321,35, ORG , Community Radio, Community Radio,
+88,0,1321,35,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+89,0,1321,35, PERSON , Chins, Chins,
+90,0,1321,35,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+91,0,1321,37,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+92,0,1321,37, GPE , Chin State, Chin State,
+93,0,1321,39,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+94,0,1321,39, ORG , Chin State, Chin State,
+95,0,1321,41,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+96,0,1321,43, GPE , Chin State, Chin State,
+97,0,1321,43, GPE , Tonzang Township, Tonzang Township,
+98,0,1321,43, LOC , Paletwa Township, Paletwa Township,
+99,0,1321,45,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+100,0,1321,45,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+101,0,1321,49, ORG , Social Cultural Matters, Social Cultural Matters,
+102,0,1321,50,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+103,0,1321,50, GPE , Chin State, Chin State,
+104,0,1321,52,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+105,0,1321,54, GPE , Burma, Burma,ABSDF
+106,0,1321,54,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+107,0,1321,54,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+108,0,1321,54,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+109,0,1321,62,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+110,0,1321,62, ORG , Chin State, Chin State,
+111,0,1321,64,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+112,0,1321,64, GPE , Chin State, Chin State,
+113,0,1321,64,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+114,0,1321,64,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+115,0,1321,64,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+116,0,1321,64, GPE , Naypyidaw, Naypyidaw,
+117,0,1321,64, GPE , Yangon, Yangon,
+118,0,1321,64, ORG , Mandalay, Mandalay,
+119,0,1321,64, ORG , Kalay, Kalay,
+120,0,1321,64, PERSON , Sittwe, Sittwe,
+121,0,1321,64, PERSON , Seih, Seih,
+122,1,1436,0, GPE , Republic Union Myanmar, Republic Union Myanmar,
+123,1,1436,0,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+124,1,1436,0,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+125,1,1436,0,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+126,1,1436,2, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+127,1,1436,4, ORG , Panglong, Panglong,
+128,1,1436,5, ORG , Reach, Reach,
+129,1,1436,5, GPE , Republic Union Myanmar, Republic Union Myanmar,
+130,1,1436,6, PERSON , c. Discuss, c. Discuss,
+131,1,1436,6,ORG,Tatmadaw,Tatmadaw,Tatmadaw
+132,1,1436,7, GPE , Republic Union Myanmar, Republic Union Myanmar,
+133,1,1436,10, GPE , Republic Union Myanmar, Republic Union Myanmar,
+134,1,1436,15, GPE , Republic Union Myanmar, Republic Union Myanmar,
+135,1,1436,17, GPE , Republic Union Myanmar, Republic Union Myanmar,
+136,1,1436,17,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+137,1,1436,18, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+138,1,1436,22, GPE , Republic Union Myanmar, Republic Union Myanmar,
+139,1,1436,22,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+140,1,1436,23,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+141,1,1436,23, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+142,1,1436,23,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+143,1,1436,25,ORG,Tatmadaw,Tatmadaw,Tatmadaw
+144,1,1436,27, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+145,1,1436,27,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+146,1,1436,29,ORG,Tatmadaw,Tatmadaw,Tatmadaw
+147,1,1436,31, PERSON , c. Avoid, c. Avoid,
+148,1,1436,35,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+149,1,1436,43,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+150,1,1436,45,ORG,Tatmadaw,Tatmadaw,Tatmadaw
+151,1,1436,45,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+152,1,1436,48,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+153,1,1436,52,ORG,Tatmadaw,Tatmadaw,Tatmadaw
+154,1,1436,55,ORG,Tatmadaw,Tatmadaw,Tatmadaw
+155,1,1436,56, ORG , Avoid, Avoid,
+156,1,1436,57, PERSON , c. Avoid, c. Avoid,
+157,1,1436,66, ORG , healthcare, healthcare,
+158,1,1436,77, GPE , Republic Union Myanmar, Republic Union Myanmar,
+159,1,1436,77,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+160,1,1436,77,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+161,1,1436,77, PERSON , Internally Displaced Persons, Internally Displaced Persons,
+162,1,1436,77,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+163,1,1436,82,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+164,1,1436,83,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+165,1,1436,83,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+166,1,1436,83,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+167,1,1436,83,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+168,1,1436,83,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+169,1,1436,84,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+170,1,1436,85,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+171,1,1436,87,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+172,1,1436,88,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+173,1,1436,89, PERSON , Internally Displaced Persons, Internally Displaced Persons,
+174,1,1436,91, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+175,1,1436,93,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+176,1,1436,95,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+177,1,1436,95, ORG , Committee, Committee,JMC
+178,1,1436,96, ORG , Liaison Offices, Liaison Offices,
+179,1,1436,97,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+180,1,1436,101,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+181,1,1436,103, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+182,1,1436,105, GPE , Republic Union Myanmar Government, Republic Union Myanmar Government,
+183,1,1436,105,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+184,1,1436,105, PERSON , a. Signing, a. Signing,
+185,1,1436,105, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+186,1,1436,106, ORG , “ Framework Political Dialogue, “ Framework Political Dialogue,
+187,1,1436,106,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+188,1,1436,106,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+189,1,1436,107, ORG , Political Dialogue, Political Dialogue,
+190,1,1436,110,ORG,Hluttaw,Hluttaw,Hluttaw
+191,1,1436,113, GPE , Republic Union Myanmar Government, Republic Union Myanmar Government,
+192,1,1436,113,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+193,1,1436,114,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+194,1,1436,114,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+195,1,1436,116, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+196,1,1436,120,ORG,Hluttaw,Hluttaw,Hluttaw
+197,1,1436,120,ORG,Tatmadaw,Tatmadaw,Tatmadaw
+198,1,1436,120,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+199,1,1436,121, ORG , Framework Political Dialogue, Framework Political Dialogue,
+200,1,1436,122, ORG , Political Dialogue, Political Dialogue,
+201,1,1436,128, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+202,1,1436,130, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+203,1,1436,130,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+204,1,1436,132,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+205,1,1436,140, ORG , Extractive Industries Transparency Initiative, Extractive Industries Transparency Initiative,
+206,1,1436,140,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+207,1,1436,141,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+208,1,1436,141,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+209,1,1436,142,ORG,Hluttaw,Hluttaw,Hluttaw
+210,1,1436,143,ORG,Hluttaw,Hluttaw,Hluttaw
+211,1,1436,147, GPE , Myanmar, Myanmar,Gov. of Myanmar
+212,1,1436,148, GPE , Myanmar, Myanmar,Gov. of Myanmar
+213,1,1436,151, ORG , Nationwide Ceasefire Agreement Joint Implementation Coordination Meetings, Nationwide Ceasefire Agreement Joint Implementation Coordination Meetings,
+214,1,1436,153, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+215,1,1436,156,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+216,1,1436,161, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+217,1,1436,161, GPE , Republic Union Myanmar, Republic Union Myanmar,
+218,1,1436,161,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+219,1,1436,162, ORG , Leaders Executive, Leaders Executive,
+220,1,1436,162,ORG,Hluttaw,Hluttaw,Hluttaw
+221,1,1436,162,ORG,Tatmadaw,Tatmadaw,Tatmadaw
+222,1,1436,168,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+223,1,1436,168, ORG , CBO, CBO,
+224,1,1436,169, ORG , Nationwide Ceasefire Coordination Team, Nationwide Ceasefire Coordination Team,
+225,1,1436,169, ORG , NCCT, NCCT,
+226,1,1436,169,ORG,Union Peacemaking Working Committee (UPWC),Union Peacemaking Working Committee (UPWC),UPWC
+227,2,1518,0, ORG , Working Committee, Working Committee,UPWC
+228,2,1518,0,ORG,Food and Drug Administration (FDA),Food and Drug Administration (FDA),FDA
+229,2,1518,0,ORG,Nationalities Brotherhood Federation (NBF),Nationalities Brotherhood Federation (NBF),NBF
+230,2,1518,0,ORG,National League Democracy (NLD),National League Democracy (NLD),NLD
+231,2,1518,0, ORG , NUP, NUP,
+232,2,1518,0,ORG,United Nationalities Alliance (UNA),United Nationalities Alliance (UNA),UNA
+233,2,1518,0,ORG,Union Election Commission (UEC),Union Election Commission (UEC),UEC
+234,2,1518,0, GPE , Yangon, Yangon,
+235,2,1518,3, GPE , Republic Union Myanmar, Republic Union Myanmar,
+236,2,1518,8, ORG , CoC, CoC,
+237,2,1518,8, GPE , Republic Union Myanmar, Republic Union Myanmar,
+238,2,1518,11, ORG , CoC, CoC,
+239,2,1518,17, ORG , CoC, CoC,
+240,2,1518,17, GPE , Republic Myanmar, Republic Myanmar,
+241,2,1518,18, LOC , Pyithu Hluttaw Law, Pyithu Hluttaw Law,
+242,2,1518,18, PERSON , Amoytha Hluttaw Law, Amoytha Hluttaw Law,
+243,2,1518,18, ORG , State, State,SSPP/SSA
+244,2,1518,20, ORG , CoC, CoC,
+245,2,1518,21, ORG , CoC, CoC,
+246,2,1518,22, ORG , CoC, CoC,
+247,2,1518,22, GPE , Republic Union Myanmar, Republic Union Myanmar,
+248,2,1518,23, ORG , CoC, CoC,
+249,2,1518,23, GPE , Myanmar, Myanmar,Gov. of Myanmar
+250,2,1518,26, ORG , CoC, CoC,
+251,2,1518,39, ORG , Union Election Commission, Union Election Commission,
+252,2,1518,45, GPE , Republic Union Myanmar, Republic Union Myanmar,
+253,2,1518,47,ORG,Union Election Commission (UEC),Union Election Commission (UEC),UEC
+254,2,1518,55, ORG , Party, Party,KNPP
+255,2,1518,55, ORG , Party, Party,KNPP
+256,2,1518,59, ORG , Political Parties Registration Law Chapter II, Political Parties Registration Law Chapter II,
+257,2,1518,78, ORG , Myanmar Police Force, Myanmar Police Force,
+258,2,1518,81, PERSON , Hluttaw Laws, Hluttaw Laws,
+259,2,1518,81, PERSON , Chapter XIV, Chapter XIV,
+260,2,1518,84,ORG,Union Election Commission (UEC),Union Election Commission (UEC),UEC
+261,2,1518,89, ORG , Electoral Management Body, Electoral Management Body,
+262,2,1518,89, ORG , Union Election Commission, Union Election Commission,
+263,2,1518,97, ORG , Party, Party,KNPP
+264,2,1518,116, LOC , Hluttaw Election, Hluttaw Election,
+265,2,1518,116, ORG , Chapter XIII, Chapter XIII,
+266,2,1518,117, ORG , CoC, CoC,
+267,2,1518,119, ORG , State, State,SSPP/SSA
+268,2,1518,124, ORG , Gender, Gender,
+269,2,1518,132, ORG , CoC, CoC,
+270,2,1518,133, ORG , Party, Party,KNPP
+271,2,1518,135, ORG , CoC, CoC,
+272,2,1518,138, ORG , CoC, CoC,
+273,2,1518,138,ORG,Union Election Commission (UEC),Union Election Commission (UEC),UEC
+274,2,1518,140, ORG , Committee, Committee,JMC
+275,2,1518,140, ORG , Committee, Committee,JMC
+276,2,1518,142, ORG , CoC Monitoring Committee, CoC Monitoring Committee,
+277,2,1518,143, ORG , Committee, Committee,JMC
+278,2,1518,145, ORG , CoC, CoC,
+279,2,1518,147, ORG , CoC, CoC,
+280,2,1518,147, ORG , CoC, CoC,
+281,2,1518,147, ORG , CoC, CoC,
+282,3,1519,0, ORG , Political Dialogue, Political Dialogue,
+283,3,1519,0,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+284,3,1519,0,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+285,3,1519,0, ORG , Parliament, Parliament,
+286,3,1519,0,ORG,Tatmadaw,Tatmadaw,Tatmadaw
+287,3,1519,0, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+288,3,1519,0, ORG , NCA, NCA,
+289,3,1519,0, GPE , Republic Union Myanmar, Republic Union Myanmar,
+290,3,1519,0,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+291,3,1519,0,ORG,Hluttaw,Hluttaw,Hluttaw
+292,3,1519,1, ORG , Political Dialogue, Political Dialogue,
+293,3,1519,1, ORG , Union, Union,KNU/KNLA
+294,3,1519,2, ORG , Panglong, Panglong,
+295,3,1519,6, ORG , Framework Political Dialogue, Framework Political Dialogue,
+296,3,1519,10, ORG , Establish Union, Establish Union,
+297,3,1519,11, ORG , democratic Union, democratic Union,
+298,3,1519,13, ORG , Political Dialogue, Political Dialogue,
+299,3,1519,13, ORG , Establish Union, Establish Union,
+300,3,1519,14, ORG , Panglong, Panglong,
+301,3,1519,17, GPE , Republic Union Myanmar, Republic Union Myanmar,
+302,3,1519,18,ORG,Tatmadaw,Tatmadaw,Tatmadaw
+303,3,1519,19, GPE , Republic Union Myanmar, Republic Union Myanmar,
+304,3,1519,21, GPE , Republic Union Myanmar, Republic Union Myanmar,
+305,3,1519,24, GPE , Republic Union Myanmar, Republic Union Myanmar,
+306,3,1519,28, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+307,3,1519,28, ORG , Political Dialogue, Political Dialogue,
+308,3,1519,29, ORG , Union Peace Conference, Union Peace Conference,
+309,3,1519,31,ORG,Hluttaw,Hluttaw,Hluttaw
+310,3,1519,33,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+311,3,1519,33,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+312,3,1519,34, ORG , National Political Dialogue, National Political Dialogue,
+313,3,1519,35, ORG , Working Committees, Working Committees,
+314,3,1519,35,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+315,3,1519,37,ORG,Tatmadaw,Tatmadaw,Tatmadaw
+316,3,1519,42, ORG , Working Committees, Working Committees,
+317,3,1519,42, ORG , Union Peace Conference, Union Peace Conference,
+318,3,1519,44, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+319,3,1519,44, ORG , Political Dialogue, Political Dialogue,
+320,3,1519,44, ORG , Union Peace Conference, Union Peace Conference,
+321,3,1519,45,ORG,Tatmadaw,Tatmadaw,Tatmadaw
+322,3,1519,51, ORG , Union Peace Conference, Union Peace Conference,
+323,3,1519,53, ORG , Working Committees, Working Committees,
+324,3,1519,54, ORG , Working Committee, Working Committee,UPWC
+325,3,1519,56,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+326,3,1519,56, ORG , Working Committee, Working Committee,UPWC
+327,3,1519,58,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+328,3,1519,58, ORG , Union Peace Conference, Union Peace Conference,
+329,3,1519,58,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+330,3,1519,62, ORG , Union Peace Conference, Union Peace Conference,
+331,3,1519,64,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+332,3,1519,66, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+333,3,1519,66, ORG , Political Dialogue, Political Dialogue,
+334,3,1519,75,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+335,3,1519,92, PERSON , Chapter, Chapter,
+336,3,1519,92, ORG , Political Dialogue, Political Dialogue,
+337,3,1519,92, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+338,3,1519,94, ORG , Working Committee, Working Committee,UPWC
+339,3,1519,96, ORG , Union Peace Conference, Union Peace Conference,
+340,3,1519,96, ORG , Working Committees, Working Committees,
+341,3,1519,96, ORG , Union, Union,KNU/KNLA
+342,3,1519,98, ORG , Union Peace Conference, Union Peace Conference,
+343,3,1519,99, ORG , Chapter 7 Organization Political Dialogue, Chapter 7 Organization Political Dialogue,
+344,3,1519,99, ORG , Peace Dialogue Joint Committee, Peace Dialogue Joint Committee,UPDJC
+345,3,1519,99,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+346,3,1519,99,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+347,3,1519,99, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+348,3,1519,99, ORG , NCA, NCA,
+349,3,1519,101,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+350,3,1519,101,ORG,Tatmadaw,Tatmadaw,Tatmadaw
+351,3,1519,101, ORG , NCA, NCA,
+352,3,1519,103, ORG , Responsibilities  7.2.1, Responsibilities  7.2.1,
+353,3,1519,104,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+354,3,1519,106,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+355,3,1519,106, ORG , NCA, NCA,
+356,3,1519,108,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+357,3,1519,108,ORG,Hluttaw,Hluttaw,Hluttaw
+358,3,1519,110,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+359,3,1519,110, ORG , Working Committees, Working Committees,
+360,3,1519,111,ORG,Tatmadaw,Tatmadaw,Tatmadaw
+361,3,1519,112,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+362,3,1519,112, ORG , Secretariat, Secretariat,
+363,3,1519,113,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+364,3,1519,114, ORG , Secretariat, Secretariat,
+365,3,1519,114,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+366,3,1519,115, ORG , Topics, Topics,
+367,3,1519,115, ORG , Working Committees, Working Committees,
+368,3,1519,118, ORG , Working Committees, Working Committees,
+369,3,1519,120, ORG , Working Committees, Working Committees,
+370,3,1519,120, ORG , Union Peace Conference, Union Peace Conference,
+371,3,1519,122, ORG , Working Committees, Working Committees,
+372,3,1519,122, ORG , Secretariat, Secretariat,
+373,3,1519,124, ORG , Working Committees, Working Committees,
+374,3,1519,126, ORG , Working Committee, Working Committee,UPWC
+375,3,1519,126, ORG , Working Committees, Working Committees,
+376,3,1519,126,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+377,3,1519,127, PERSON , Technical Teams, Technical Teams,
+378,3,1519,128,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+379,3,1519,128, ORG , Technical Team, Technical Team,
+380,3,1519,129,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+381,3,1519,129, ORG , Union Peace Conference, Union Peace Conference,
+382,3,1519,130,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+383,3,1519,131, ORG , Union Republic Myanmar, Union Republic Myanmar,
+384,3,1519,132, ORG , Panglong, Panglong,
+385,3,1519,141,ORG,Hluttaw,Hluttaw,Hluttaw
+386,3,1519,143, ORG , Pyidaungsu Accord, Pyidaungsu Accord,
+387,3,1519,143, ORG , Parliament, Parliament,
+388,3,1519,150, ORG , Political Dialogue, Political Dialogue,
+389,3,1519,150,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+390,3,1519,150, ORG , Working Committees, Working Committees,
+391,3,1519,153, ORG , Political Dialogue, Political Dialogue,
+392,3,1519,153, ORG , Framework Political Dialogue, Framework Political Dialogue,
+393,3,1519,153,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+394,3,1519,154, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+395,4,1544,0, PERSON , Conduct, Conduct,
+396,4,1544,0, GPE , Accordance, Accordance,
+397,4,1544,0, ORG , NCA, NCA,
+398,4,1544,1,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+399,4,1544,1, ORG , NCA, NCA,
+400,4,1544,2,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+401,4,1544,9, ORG , NCA, NCA,
+402,4,1544,9, GPE , Tamataw, Tamataw,
+403,4,1544,14, ORG , NCA, NCA,
+404,4,1544,16, GPE , Tamataw, Tamataw,
+405,4,1544,28, ORG , healthcare, healthcare,
+406,4,1544,35, GPE , Ceasefire, Ceasefire,JCMC
+407,4,1544,40, ORG , NCA, NCA,
+408,4,1544,40, ORG , Security  Sectors Reforms, Security  Sectors Reforms,
+409,4,1544,47, ORG , NCA, NCA,
+410,4,1544,47, ORG , NCA, NCA,
+411,4,1544,50, GPE , Tamataw, Tamataw,
+412,4,1544,54, GPE , Tamataw, Tamataw,
+413,4,1544,56, ORG , NCA, NCA,
+414,4,1544,57, GPE , Tamataw, Tamataw,
+415,4,1544,61, ORG , JICM, JICM,
+416,4,1544,62, GPE , Naypyitaw, Naypyitaw,
+417,4,1544,62, ORG , NCA, NCA,
+418,4,1544,65,PERSON,Lt. Gen. Ya Pyit,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+419,4,1544,67,PERSON,U Khin Maung Soe,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+420,4,1544,69,PERSON,Lt. Gen. Ye Aung,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+421,4,1544,71,PERSON,Maj. Gen. Tun Tun Naung,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+422,4,1544,74,PERSON,Maj. Gen. Aung Kyaw Zaw,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+423,4,1544,77, GPE , Naung, Naung,
+424,4,1544,79,PERSON,U Myint Soe,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+425,4,1544,82, PERSON , Aung Soe , Aung Soe ,
+426,4,1544,82, ORG , Ministry Interior , Ministry Interior ,
+427,4,1544,84, ORG , Ministry Defense ( Army, Ministry Defense ( Army,
+428,4,1544,85,PERSON,Dr. Min Zaw Oo,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+429,4,1544,85, ORG , MPC, MPC,
+430,4,1544,87,PERSON,Maj. Gen. Saw Isaac Poe,KNU,KNU/KNLA
+431,4,1544,87,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+432,4,1544,87,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+433,4,1544,89,PERSON,Maj. Gen. Saw Nay Soe Mya,KNU,KNU/KNLA
+434,4,1544,89,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+435,4,1544,90,PERSON,Dr. Shwe Kah,CNF,CNF
+436,4,1544,90,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+437,4,1544,92,PERSON,Col. Saw Kyaw Than Htay, Saw Kyaw Htay,
+438,4,1544,92, PERSON , Liaison Officer, Liaison Officer,
+439,4,1544,95,PERSON,Lt. Col. Khun Aung Mang,PNLO,PNLO
+440,4,1544,96,PERSON,Salai Yaw Aung,ABSDF,ABSDF
+441,4,1544,100,PERSON,Col. Hsaung Han,RCSS,RCSS
+442,4,1544,102,PERSON,Sai Liang,RCSS,RCSS
+443,5,1545,0,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+444,5,1545,1, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+445,5,1545,1, ORG , NCA, NCA,
+446,5,1545,1, GPE , Naypyitaw, Naypyitaw,
+447,5,1545,2,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+448,5,1545,2, ORG , NCA, NCA,
+449,5,1545,7,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+450,5,1545,10, ORG , NCA, NCA,
+451,5,1545,11, ORG , NCA, NCA,
+452,5,1545,14,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+453,5,1545,14,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+454,5,1545,15, ORG , NCA, NCA,
+455,5,1545,15,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+456,5,1545,15,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+457,5,1545,15,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+458,5,1545,17,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+459,5,1545,18, PERSON , Chairperson, Chairperson,
+460,5,1545,23, ORG , Committee, Committee,JMC
+461,5,1545,23, ORG , JICM, JICM,
+462,5,1545,25,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+463,5,1545,25, ORG , NCA, NCA,
+464,5,1545,26,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+465,5,1545,27,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+466,5,1545,29, PERSON , JICM, JICM,
+467,5,1545,31,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+468,5,1545,38,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+469,5,1545,38, ORG , JICM, JICM,
+470,5,1545,40,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+471,5,1545,40, ORG , JICM, JICM,
+472,5,1545,41,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+473,5,1545,41, ORG , International Community, International Community,
+474,5,1545,43,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+475,5,1545,43, ORG , JICM, JICM,
+476,5,1545,45,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+477,5,1545,46,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+478,5,1545,48,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+479,5,1545,48,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+480,5,1545,48, ORG , JICM, JICM,
+481,5,1545,50,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+482,5,1545,50,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+483,5,1545,50,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+484,5,1545,50,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+485,5,1545,51,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+486,5,1545,51,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+487,5,1545,51,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+488,5,1545,51,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+489,5,1545,52,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+490,5,1545,52,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+491,5,1545,53,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+492,5,1545,53, ORG , Verification Teams, Verification Teams,
+493,5,1545,55,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+494,5,1545,57,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+495,5,1545,58,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+496,5,1545,60,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+497,5,1545,62, ORG , NCA, NCA,
+498,5,1545,62,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+499,5,1545,64,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+500,5,1545,66,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+501,5,1545,66, ORG , Verification Teams, Verification Teams,
+502,5,1545,68,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+503,5,1545,68,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+504,5,1545,69,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+505,5,1545,72,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+506,5,1545,72,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+507,5,1545,73,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+508,5,1545,75,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+509,5,1545,76,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+510,5,1545,78,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+511,5,1545,82,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+512,5,1545,82, ORG , JICM, JICM,
+513,5,1545,84,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+514,5,1545,86,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+515,5,1545,87,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+516,5,1545,87,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+517,5,1545,88,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+518,5,1545,88,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+519,5,1545,90,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+520,5,1545,93, ORG , Civilian, Civilian,
+521,5,1545,94, ORG , Ministry Security, Ministry Security,
+522,5,1545,94, ORG , State / Division , State / Division ,
+523,5,1545,94, ORG , State / Division , State / Division ,
+524,5,1545,94, PERSON , EAOs , EAOs ,
+525,5,1545,94,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+526,5,1545,94, PERSON , EAOs , EAOs ,
+527,5,1545,94, ORG , Civilians, Civilians,
+528,5,1545,96, ORG , General Staff, General Staff,
+529,5,1545,96,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+530,5,1545,96, ORG , JMC - U. , JMC - U. ,
+531,5,1545,97,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+532,5,1545,97,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+533,5,1545,98,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+534,5,1545,98, ORG , NCA, NCA,
+535,5,1545,100,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+536,5,1545,100, ORG , NCA, NCA,
+537,5,1545,102,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+538,5,1545,104,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+539,5,1545,107,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+540,5,1545,109,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+541,5,1545,109,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+542,5,1545,109,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+543,5,1545,109,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+544,5,1545,111,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+545,5,1545,111, ORG , JMC - U. , JMC - U. ,
+546,5,1545,112,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+547,5,1545,112,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+548,5,1545,114,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+549,5,1545,114,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+550,5,1545,114,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+551,5,1545,114, ORG , JICM, JICM,
+552,5,1545,114, ORG , JMC - U. , JMC - U. ,
+553,5,1545,115, ORG , NCA, NCA,
+554,5,1545,115,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+555,5,1545,115,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+556,5,1545,116,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+557,5,1545,116,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+558,5,1545,116, ORG , JMC - U. , JMC - U. ,
+559,5,1545,117,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+560,5,1545,119,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+561,5,1545,119,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+562,5,1545,119, ORG , Verification Team, Verification Team,
+563,5,1545,120, ORG , Joint Ceasefire Monitoring, Joint Ceasefire Monitoring,JMC-U
+564,5,1545,122,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+565,5,1545,122,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+566,5,1545,124,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+567,5,1545,126,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+568,5,1545,128,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+569,5,1545,128, ORG , Verification Team, Verification Team,
+570,5,1545,130,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+571,5,1545,130,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+572,5,1545,130, ORG , JMC - U. , JMC - U. ,
+573,5,1545,131,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+574,5,1545,131,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+575,5,1545,131, ORG , NCA, NCA,
+576,5,1545,132,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+577,5,1545,133,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+578,5,1545,135,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+579,5,1545,136,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+580,5,1545,136,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+581,5,1545,138,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+582,5,1545,142,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+583,5,1545,142, ORG , JMC - U. , JMC - U. ,
+584,5,1545,143,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+585,5,1545,145,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+586,5,1545,146,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+587,5,1545,147,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+588,5,1545,147,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+589,5,1545,147,ORG,Joint Ceasefire Monitoring Committee (JCMC),Joint Ceasefire Monitoring Committee (JCMC),JCMC
+590,5,1545,147,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+591,5,1545,149,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+592,5,1545,150, ORG , Civilian, Civilian,
+593,5,1545,150, ORG , Township General Administration, Township General Administration,
+594,5,1545,150, ORG , Civilian, Civilian,
+595,5,1545,150, GPE , Tamataw, Tamataw,
+596,5,1545,150,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+597,5,1545,150,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+598,5,1545,150,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+599,5,1545,151,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+600,5,1545,152,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+601,5,1545,152,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+602,5,1545,154,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+603,5,1545,154,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+604,5,1545,156,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+605,5,1545,156,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+606,5,1545,157,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+607,5,1545,157,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+608,5,1545,159,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+609,5,1545,159,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+610,5,1545,162,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+611,5,1545,164,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+612,5,1545,166,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+613,5,1545,166, ORG , Verification Team, Verification Team,
+614,5,1545,168,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+615,5,1545,168,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+616,5,1545,170,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+617,5,1545,172,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+618,5,1545,172, ORG , Verification Team, Verification Team,
+619,5,1545,173,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+620,5,1545,174,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+621,5,1545,176,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+622,5,1545,179,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+623,5,1545,180, ORG , Tenure Review, Tenure Review,
+624,5,1545,181,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+625,5,1545,182,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+626,5,1545,184,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+627,5,1545,185, ORG , Verification Teams  Formation , Verification Teams  Formation ,
+628,5,1545,186,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+629,5,1545,186,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+630,5,1545,186,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+631,5,1545,186, ORG , Verification Team, Verification Team,
+632,5,1545,187, ORG , Verification Team, Verification Team,
+633,5,1545,187,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+634,5,1545,188,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+635,5,1545,188,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+636,5,1545,188,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+637,5,1545,188,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+638,5,1545,189, ORG , Verification Team ’s, Verification Team ’s,
+639,5,1545,189,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+640,5,1545,189,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+641,5,1545,190,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+642,5,1545,190, ORG , Verification Team, Verification Team,
+643,5,1545,194, ORG , Verification Team, Verification Team,
+644,5,1545,194,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+645,5,1545,195,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+646,5,1545,196, ORG , Verification Team, Verification Team,
+647,5,1545,197, ORG , Verification Team, Verification Team,
+648,5,1545,198,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+649,5,1545,199,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+650,5,1545,199, ORG , Verification Team, Verification Team,
+651,5,1545,200,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+652,5,1545,201, ORG , H, H,DKBA-5
+653,5,1545,202, ORG , Verification Team, Verification Team,
+654,5,1545,202, ORG , Team ’s, Team ’s,
+655,5,1545,203,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+656,5,1545,203, ORG , CSO, CSO,
+657,5,1545,205, ORG , NCA, NCA,
+658,5,1545,205,ORG,Local Level Joint Ceasefire Monitoring Committee (JMC-L),Local Level Joint Ceasefire Monitoring Committee (JMC-L),JMC-L
+659,5,1545,206,ORG,State Level Joint Ceasefire Monitoring Committee (JMC-S),State Level Joint Ceasefire Monitoring Committee (JMC-S),JMC-S
+660,5,1545,207,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+661,5,1545,209,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+662,5,1545,211,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+663,5,1545,212,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+664,5,1545,214,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+665,5,1545,215,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+666,5,1545,216,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+667,5,1545,218,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+668,5,1545,220,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+669,5,1545,220,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+670,5,1545,220,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+671,5,1545,222,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+672,5,1545,224,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+673,5,1545,226,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+674,5,1545,226,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+675,5,1545,226, PERSON , JICM, JICM,
+676,6,1546,0, ORG , Work Committee, Work Committee,
+677,6,1546,0,ORG,All Burma Students Democratic Front (ABSDF),All Burma Students Democratic Front (ABSDF),ABSDF
+678,6,1546,4,ORG,All Burma Students Democratic Front (ABSDF),All Burma Students Democratic Front (ABSDF),ABSDF
+679,6,1546,5,ORG,All Burma Students Democratic Front (ABSDF),All Burma Students Democratic Front (ABSDF),ABSDF
+680,6,1546,6,ORG,All Burma Students Democratic Front (ABSDF),All Burma Students Democratic Front (ABSDF),ABSDF
+681,6,1546,9, ORG , Kalay, Kalay,
+682,6,1546,9, GPE , Payathonsu, Payathonsu,
+683,6,1546,9,ORG,All Burma Students Democratic Front (ABSDF),All Burma Students Democratic Front (ABSDF),ABSDF
+684,7,1550,0, ORG , Working Committee, Working Committee,UPWC
+685,7,1550,0,ORG,Karenni National Progressive Party (KNPP),Karenni National Progressive Party (KNPP),KNPP
+686,7,1550,0,ORG,Karenni National Progressive Party (KNPP),Karenni National Progressive Party (KNPP),KNPP
+687,7,1550,1,ORG,Karenni National Progressive Party (KNPP),Karenni National Progressive Party (KNPP),KNPP
+688,7,1550,1, ORG , Union, Union,KNU/KNLA
+689,7,1550,1,PERSON,U Aung Min,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+690,7,1550,1,ORG,Karenni National Progressive Party (KNPP),KNPP,KNPP
+691,7,1550,3, GPE , Kayah State, Kayah State,
+692,7,1550,3,ORG,Karenni National Progressive Party (KNPP),Karenni National Progressive Party (KNPP),KNPP
+693,7,1550,4, ORG , TOR, TOR,
+694,7,1550,5, GPE , Kayah State, Kayah State,
+695,7,1550,5, GPE , New Village Project, New Village Project,
+696,7,1550,10,ORG,Karenni National Progressive Party (KNPP),Karenni National Progressive Party (KNPP),KNPP
+697,8,1551,0, ORG , CNF - Government Ceasefire Agreement, CNF - Government Ceasefire Agreement,
+698,8,1551,0,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+699,8,1551,0, GPE , Myanmar, Myanmar,Gov. of Myanmar
+700,8,1551,1,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+701,8,1551,1,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+702,8,1551,1, ORG , Hakha, Hakha,
+703,8,1551,1, GPE , Chin State, Chin State,
+704,8,1551,1,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+705,8,1551,1, ORG , Peace Team, Peace Team,
+706,8,1551,2, ORG , Ceasefire  Union, Ceasefire  Union,
+707,8,1551,2, ORG , Peace Team, Peace Team,
+708,8,1551,2,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+709,8,1551,2,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+710,8,1551,4, GPE , Accordance, Accordance,
+711,8,1551,4,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+712,8,1551,4,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+713,8,1551,4,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+714,8,1551,4, GPE , Tlangpi, Tlangpi,
+715,8,1551,4, PERSON , Dawn, Dawn,
+716,8,1551,4, PERSON , Zangtlang Village, Zangtlang Village,
+717,8,1551,4, GPE , Thantlang Township, Thantlang Township,
+718,8,1551,4, PERSON , Zampi, Zampi,
+719,8,1551,4, PERSON , Bukphir Village, Bukphir Village,
+720,8,1551,4, GPE , Tedim Township, Tedim Township,
+721,8,1551,5,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+722,8,1551,5, GPE , Kung Pyin, Kung Pyin,
+723,8,1551,5, GPE , Pathiantlang Village, Pathiantlang Village,
+724,8,1551,5, ORG , Western Command, Western Command,
+725,8,1551,6,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+726,8,1551,6, GPE , Thantlang Township ’s Belhar, Thantlang Township ’s Belhar,
+727,8,1551,6, GPE , Vanzang, Vanzang,
+728,8,1551,6, GPE , Lungding Village, Lungding Village,
+729,8,1551,6, GPE , Lulpilung, Lulpilung,
+730,8,1551,7, GPE , Tedim Township ’s Dampi, Tedim Township ’s Dampi,
+731,8,1551,7, PERSON , Tui Dial Village, Tui Dial Village,
+732,8,1551,8, LOC , Shweletwa Village, Shweletwa Village,
+733,8,1551,8, PERSON , Ra Kan Village, Ra Kan Village,
+734,8,1551,9, ORG , Myanmar Army, Myanmar Army,
+735,8,1551,9, ORG , Myanmar Police Force, Myanmar Police Force,
+736,8,1551,9,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+737,8,1551,9, ORG , Liaison Offices, Liaison Offices,
+738,8,1551,11, ORG , Liaison Office, Liaison Office,
+739,8,1551,12,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+740,8,1551,12,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+741,8,1551,12, ORG , Union Burma, Union Burma,
+742,8,1551,12, ORG , Union Myanmar, Union Myanmar,
+743,8,1551,13, ORG , Myanmar Army, Myanmar Army,
+744,8,1551,14, ORG , Liaison Offices, Liaison Offices,
+745,8,1551,14, GPE , Thanglang, Thanglang,
+746,8,1551,14, GPE , Tedim, Tedim,
+747,8,1551,14, ORG , Matupi Towns, Matupi Towns,
+748,8,1551,16,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+749,8,1551,16, ORG , Central Committee, Central Committee,
+750,8,1551,16,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+751,8,1551,17,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+752,8,1551,18,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+753,8,1551,19, ORG , State, State,SSPP/SSA
+754,8,1551,19, ORG , Union, Union,KNU/KNLA
+755,8,1551,20, ORG , Union, Union,KNU/KNLA
+756,8,1551,20, ORG , Panglong, Panglong,
+757,8,1551,21, ORG , Matters International Agreements, Matters International Agreements,
+758,8,1551,21, ORG , Government Union Mynamar, Government Union Mynamar,
+759,8,1551,22,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+760,8,1551,22, ORG , Union Myanmar, Union Myanmar,
+761,8,1551,22, ORG , ‘ National Causes ’, ‘ National Causes ’,
+762,8,1551,23, ORG , Matters Humanitarian Organizations , Matters Humanitarian Organizations ,
+763,8,1551,23, ORG , Union Ministries, Union Ministries,
+764,8,1551,23, ORG , Chin State, Chin State,
+765,8,1551,23,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+766,8,1551,24, PERSON , Chin State, Chin State,
+767,8,1551,24,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+768,8,1551,24, ORG , Memorandum Understanding (, Memorandum Understanding (,
+769,8,1551,24,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+770,8,1551,24,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+771,8,1551,25,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+772,8,1551,26, ORG , State, State,SSPP/SSA
+773,8,1551,26, GPE , District, District,
+774,8,1551,26, PERSON , Village, Village,
+775,8,1551,26,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+776,8,1551,28, GPE , Visas, Visas,
+777,8,1551,28,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+778,8,1551,28,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+779,8,1551,28, ORG , Union Myanmar, Union Myanmar,
+780,8,1551,29,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+781,8,1551,31,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+782,8,1551,33, ORG , Peace Team, Peace Team,
+783,8,1551,33,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+784,8,1551,33,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+785,8,1551,34, ORG , Chin State, Chin State,
+786,8,1551,34,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+787,8,1551,35,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+788,8,1551,35, ORG , National Identity Card, National Identity Card,
+789,8,1551,35, ORG , Immigration Department, Immigration Department,
+790,8,1551,36,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+791,8,1551,37,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+792,8,1551,37,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+793,8,1551,45, PERSON , Ceasefire Monitoring Body , Ceasefire Monitoring Body ,
+794,8,1551,46, ORG , Chin Peace Tranquility Committee, Chin Peace Tranquility Committee,
+795,8,1551,47, ORG , Ceasefire Monitoring Body, Ceasefire Monitoring Body,
+796,8,1551,47,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+797,8,1551,47, ORG , Myanmar Army, Myanmar Army,
+798,8,1551,47, ORG , Myanmar Police Force, Myanmar Police Force,
+799,8,1551,47,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+800,8,1551,47,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+801,8,1551,50, ORG , Chin State Border Areas Security Affairs, Chin State Border Areas Security Affairs,
+802,8,1551,50, PERSON , Liaison, Liaison,
+803,8,1551,50,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+804,8,1551,50,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+805,8,1551,50,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+806,8,1551,50, ORG , Myanmar Army Police Force, Myanmar Army Police Force,
+807,8,1551,50, ORG , Chin Peace Monitoring Body, Chin Peace Monitoring Body,
+808,8,1551,51, PERSON , Liaison Officer, Liaison Officer,
+809,8,1551,51, ORG , Chin National / Chin National Army, Chin National / Chin National Army,
+810,8,1551,51, ORG , Myanmar Army, Myanmar Army,
+811,8,1551,51, ORG , Ceasefire Monitoring Body, Ceasefire Monitoring Body,
+812,8,1551,53,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+813,8,1551,53,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+814,8,1551,53, ORG , Northwestern Commands, Northwestern Commands,
+815,8,1551,53, ORG , Myanmar Army, Myanmar Army,
+816,8,1551,53,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+817,8,1551,54, ORG , Union Guesthouse, Union Guesthouse,
+818,8,1551,54, GPE , Hakha, Hakha,
+819,8,1551,54, GPE , Chin State, Chin State,
+820,8,1551,55, ORG , Union, Union,KNU/KNLA
+821,9,1552,0, PERSON , Kalo Htoo Baw,DKBA-5,DKBA-5
+822,9,1552,0, PERSON , Karen State, Karen State,
+823,9,1552,1,PERSON,Col. Aung Lwin,Karen State Government,
+824,9,1552,1,PERSON,U Saw Mu Shay,DKBA-5,DKBA-5
+825,9,1552,1, ORG , Unofficial Translation, Unofficial Translation,
+826,9,1552,1, PERSON , Kalo Htoo Baw,DKBA-5,DKBA-5
+827,9,1552,1, GPE , Karen State, Karen State,
+828,9,1552,2, PERSON , Kalo Htoo Baw,DKBA-5,DKBA-5
+829,9,1552,2, GPE , Sonsee, Sonsee,
+830,9,1552,3, ORG , Kaloh Htoo Baw,DKBA-5,DKBA-5
+831,9,1552,3, ORG , Myawaddy, Myawaddy,
+832,9,1552,5, PERSON , Kaloh Htoo Baw,DKBA-5,DKBA-5
+833,9,1552,6,PERSON,Maj. Gen Saw Lar Pwe,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+834,10,1553,0,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+835,10,1553,0,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+836,10,1553,0,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+837,10,1553,0,PERSON,U Aung Min,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+838,10,1553,1,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+839,10,1553,2,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+840,10,1553,3,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+841,10,1553,3,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+842,10,1553,4,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+843,10,1553,5,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+844,11,1555,0,PERSON,U Aung Thaung,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+845,11,1555,0,PERSON,U Thein Zaw,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+846,11,1555,0,PERSON,U Win Tun,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+847,11,1555,0, GPE , Special Region, Special Region,
+848,11,1555,0, PERSON , Sai Lin, Sai Lin,
+849,11,1555,0, PERSON , U San Pae, U San Pae,
+850,11,1555,0, PERSON , U Kham Maung, U Kham Maung,
+851,11,1555,0, LOC , Special Region, Special Region,
+852,11,1555,2, GPE , Kengtung, Kengtung,
+853,11,1555,3, GPE , Special Region, Special Region,
+854,11,1555,4, GPE , Special Region, Special Region,
+855,11,1555,5, GPE , Special Region, Special Region,
+856,11,1555,6, GPE , Special Region, Special Region,
+857,11,1555,6, GPE , Republic Union Myanmar, Republic Union Myanmar,
+858,11,1555,6, GPE , Special Region, Special Region,
+859,11,1555,7, GPE , Republic Union Myanmar, Republic Union Myanmar,
+860,11,1555,8, ORG , State, State,SSPP/SSA
+861,11,1555,8, ORG , State, State,SSPP/SSA
+862,11,1555,8, GPE , Special Region, Special Region,
+863,11,1555,8, ORG , State, State,SSPP/SSA
+864,12,1557,0, ORG , NMSP Government, NMSP Government,
+865,12,1557,0, ORG , Strand Hotel Mawlamyine, Strand Hotel Mawlamyine,
+866,12,1557,0, GPE , Mon State, Mon State,NMSP
+867,12,1557,0, ORG , Peacemaking Group, Peacemaking Group,
+868,12,1557,0, ORG , Union, Union,KNU/KNLA
+869,12,1557,0,PERSON,U Aung Min,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+870,12,1557,0, ORG , Union, Union,KNU/KNLA
+871,12,1557,0, PERSON , U Soe Thein, U Soe Thein,
+872,12,1557,0, ORG , Union, Union,KNU/KNLA
+873,12,1557,0, PERSON , U Zaw Min, U Zaw Min,
+874,12,1557,0, ORG , Union, Union,KNU/KNLA
+875,12,1557,0,PERSON,U Win Tun,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+876,12,1557,0, ORG , State, State,SSPP/SSA
+877,12,1557,0,PERSON,U Ohn Myint,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+878,12,1557,0, ORG , South - East Command Maj - Gen Tin Maung Win, South - East Command Maj - Gen Tin Maung Win,
+879,12,1557,0, ORG , Mon State Security, Mon State Security,
+880,12,1557,0, PERSON , Col Htay Myint Aung, Col Htay Myint Aung,
+881,12,1557,0, PERSON , Grade, Grade,
+882,12,1557,0, ORG , Army ) Office, Army ) Office,
+883,12,1557,0, PERSON , Grade, Grade,
+884,12,1557,0, GPE , Mon State, Mon State,NMSP
+885,12,1557,0,ORG,New Mon State Party (NMSP),New Mon State Party (NMSP),NMSP
+886,12,1557,0, PERSON , U Nai Rawsa, U Nai Rawsa,
+887,12,1557,1, ORG , State, State,SSPP/SSA
+888,12,1557,1, ORG , Col Htay Myint Aung, Col Htay Myint Aung,
+889,12,1557,1,ORG,New Mon State Party (NMSP),New Mon State Party (NMSP),NMSP
+890,12,1557,1, ORG , NMSP CEC, NMSP CEC,
+891,12,1557,1, PERSON , U Nai Talanyi, U Nai Talanyi,
+892,12,1557,1, ORG , Union Ministers, Union Ministers,
+893,12,1557,1, ORG , U Soe Thein, U Soe Thein,
+894,12,1557,1, ORG , U Zaw Min, U Zaw Min,
+895,12,1557,1,PERSON,U Win Tun,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+896,12,1557,1, ORG , State, State,SSPP/SSA
+897,12,1557,1,PERSON,U Ohn Myint,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+898,12,1557,3, ORG , Formation Union, Formation Union,
+899,12,1557,7,ORG,New Mon State Party (NMSP),New Mon State Party (NMSP),NMSP
+900,12,1557,20, GPE , Mon State, Mon State,NMSP
+901,12,1557,21, ORG , New Mon State Party, New Mon State Party,
+902,12,1557,24, ORG , Remark, Remark,
+903,12,1557,25, ORG , U Nai Talanyi, U Nai Talanyi,
+904,12,1557,26,PERSON,U Aung Min,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+905,12,1557,26, PERSON , U Nai Rawsa, U Nai Rawsa,
+906,13,1558,0, ORG , NSCN - K, NSCN - K,
+907,13,1558,0, PERSON , Kyi Naing, Kyi Naing,
+908,13,1558,0,ORG,National Socialist Council of Nagaland (NSCN),National Socialist Council of Nagaland (NSCN),NSCN
+909,13,1558,0,ORG,National Socialist Council of Nagaland (NSCN),National Socialist Council of Nagaland (NSCN),NSCN
+910,13,1558,0, PERSON , Y Wantin Naga, Y Wantin Naga,
+911,13,1558,0, ORG , Station Hall, Station Hall,
+912,13,1558,0, GPE , Khamti, Khamti,
+913,13,1558,0, GPE , Sagaing Region, Sagaing Region,
+914,13,1558,2,ORG,Tatmadaw,Tatmadaw,Tatmadaw
+915,13,1558,2,ORG,National Socialist Council of Nagaland (NSCN),National Socialist Council of Nagaland (NSCN),NSCN
+916,13,1558,3,ORG,National Socialist Council of Nagaland (NSCN),National Socialist Council of Nagaland (NSCN),NSCN
+917,13,1558,3, GPE , Khamti, Khamti,
+918,13,1558,4,ORG,National Socialist Council of Nagaland (NSCN),National Socialist Council of Nagaland (NSCN),NSCN
+919,13,1558,5,ORG,National Socialist Council of Nagaland (NSCN),National Socialist Council of Nagaland (NSCN),NSCN
+920,14,1559,0,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+921,14,1559,0, ORG , Group, Group,
+922,14,1559,0, GPE , Taunggyi, Taunggyi,
+923,14,1559,0,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+924,14,1559,12, PERSON , Liaison, Liaison,
+925,14,1559,12, GPE , Taunggyi, Taunggyi,
+926,14,1559,12, GPE , Kengtung, Kengtung,
+927,14,1559,12, PERSON , Kholam, Kholam,
+928,14,1559,12, ORG , Tachilek, Tachilek,
+929,14,1559,12, GPE , Mongton, Mongton,
+930,14,1559,17,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+931,15,1560,0,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+932,15,1560,0, ORG , Union - Level, Union - Level,
+933,15,1560,0, GPE , Taunggyi, Taunggyi,
+934,15,1560,0,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+935,15,1560,2, GPE , Homain, Homain,
+936,15,1560,2, ORG , Mong Hta, Mong Hta,
+937,15,1560,6,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+938,15,1560,8, GPE , Homain, Homain,
+939,15,1560,8, ORG , Mong Hta, Mong Hta,
+940,15,1560,12,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+941,15,1560,12, GPE , Taunggyi, Taunggyi,
+942,15,1560,12, GPE , Kholam, Kholam,
+943,15,1560,12, GPE , Kengtung, Kengtung,
+944,15,1560,12, PERSON , Mong Hsat, Mong Hsat,
+945,15,1560,12, PERSON , Tachileik, Tachileik,
+946,15,1560,12, ORG , Muse, Muse,
+947,15,1560,12, ORG , Nanhkan, Nanhkan,
+948,15,1560,13,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+949,16,1561,0,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+950,16,1561,0, ORG , Union Peacemaking Work, Union Peacemaking Work,
+951,16,1561,1,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+952,16,1561,1, GPE , Kengtung, Kengtung,
+953,16,1561,1,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+954,16,1561,2, ORG , Shan Herald, Shan Herald,
+955,16,1561,4,ORG,Union Peacemaking Working Committee (UPWC),Union Peacemaking Working Committee (UPWC),UPWC
+956,16,1561,6, PERSON , Shan, Shan,RCSS
+957,16,1561,8, ORG , Tai Freedom, Tai Freedom,
+958,17,1562,0,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+959,17,1562,0,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+960,17,1562,0,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+961,17,1562,0, GPE , Taunggyi, Taunggyi,
+962,17,1562,0, LOC , South, South,
+963,17,1562,1, PERSON , Taungtha Township, Taungtha Township,
+964,17,1562,1,PERSON,U Aung Thaung,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+965,17,1562,1, PERSON , Myitkyina Township, Myitkyina Township,
+966,17,1562,1,PERSON,U Thein Zaw,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+967,17,1562,1,PERSON,U Ohn Myint,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+968,17,1562,1,PERSON,U Win Tun,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+969,17,1562,1,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+970,17,1562,1,PERSON,U Sao Aung Myat,Shan State Government,
+971,17,1562,1, PERSON , Kayan Township, Kayan Township,
+972,17,1562,1,PERSON,U Maung Maung Thein,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+973,17,1562,1,PERSON,Maj-Gen Aung Kyaw Zaw,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+974,17,1562,1,PERSON,Maj-Gen Mya Tun Oo,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+975,17,1562,1,PERSON,Maj-Gen Zaw Win,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+976,17,1562,1,PERSON,U Soe Tint, U Soe Tint,
+977,17,1562,1,PERSON,Col Aung Thu.,Shan State Government,
+978,17,1562,2,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+979,17,1562,2, ORG , State Army, State Army,SSPP/SSA
+980,17,1562,2, ORG , Party Central Committee, Party Central Committee,
+981,17,1562,2,PERSON,General Sao Khay Tai,SSPP/SSA,
+982,17,1562,2,PERSON,Sao Khin Min,SSPP/SSA,
+983,17,1562,2,PERSON,Sao Khun Hsai,SSPP/SSA,
+984,17,1562,2,PERSON,Sao Khay Maung,SSPP/SSA,
+985,17,1562,2,PERSON,Sao Kyaw Hla,SSPP/SSA,
+986,17,1562,2,PERSON,Sao Htin Mein,SSPP/SSA,
+987,17,1562,2,PERSON,Sao Laung Khay,SSPP/SSA,
+988,17,1562,2, GPE , Sao Naw Leik, Sao Naw Leik,
+989,17,1562,4,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+990,17,1562,4,PERSON,Col Aung Thu.,Shan State Government,
+991,17,1562,4, PERSON , Grade, Grade,
+992,17,1562,4, ORG , North - East Command, North - East Command,
+993,17,1562,4, ORG , General Staff, General Staff,
+994,17,1562,4, PERSON , Grade, Grade,
+995,17,1562,4,PERSON,Maj-Gen Mya Tun Oo,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+996,17,1562,4, ORG , Department Progress Border Areas National Races, Department Progress Border Areas National Races,
+997,17,1562,4, ORG , State Advocate General, State Advocate General,
+998,17,1562,4,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+999,17,1562,4,PERSON,Sao Khay Maung,SSPP/SSA,
+1000,17,1562,4, GPE , Sao Kyaw, Sao Kyaw,
+1001,17,1562,4,PERSON,Sao Htin Mein,SSPP/SSA,
+1002,17,1562,6,ORG,Tatmadaw,Tatmadaw,Tatmadaw
+1003,17,1562,6,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+1004,17,1562,7,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+1005,17,1562,7, GPE , Wanhai, Wanhai,
+1006,17,1562,8, GPE , Taunggyi, Taunggyi,
+1007,17,1562,8, GPE , Lashio, Lashio,
+1008,17,1562,8, GPE , Kholan, Kholan,
+1009,17,1562,12,PERSON,U Aung Thaung,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1010,17,1562,12,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+1011,17,1562,12,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+1012,17,1562,12,PERSON,General Sao Khay Tai,SSPP/SSA,
+1013,17,1562,14,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+1014,17,1562,14,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+1015,17,1562,14, GPE , Taunggyi, Taunggyi,
+1016,17,1562,15, ORG , Panglong, Panglong,
+1017,17,1562,16,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+1018,17,1562,19,PERSON,U Aung Thaung,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1019,17,1562,19,PERSON,U Thein Zaw,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1020,17,1562,19, ORG , Sky Net TV, Sky Net TV,
+1021,17,1562,19,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+1022,17,1562,19,PERSON,General Sao Khay Tai,SSPP/SSA,
+1023,17,1562,19,PERSON,Sao Khun Hsai,SSPP/SSA,
+1024,18,1563,0, ORG , UWSA Government, UWSA Government,
+1025,18,1563,0, ORG , Group, Group,
+1026,18,1563,0,PERSON,U Aung Thaung,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1027,18,1563,0, ORG , Peacemaking Group, Peacemaking Group,
+1028,18,1563,0, ORG , U Shauk Min Lyan, U Shauk Min Lyan,
+1029,18,1563,0, GPE , Pansang, Pansang,
+1030,18,1563,1, GPE , Lashio, Lashio,
+1031,18,1563,5, GPE , Republic Union Myanmar, Republic Union Myanmar,
+1032,18,1563,6, GPE , Republic Union Myanmar, Republic Union Myanmar,
+1033,18,1563,7, ORG , State, State,SSPP/SSA
+1034,18,1563,7, ORG , State, State,SSPP/SSA
+1035,19,1564,0,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+1036,19,1564,0,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+1037,19,1564,0,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+1038,19,1564,0, GPE , Rangoon, Rangoon,
+1039,19,1564,1,PERSON,U Aung Min,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1040,19,1564,1, GPE , Republic Union Burma, Republic Union Burma,
+1041,19,1564,1, GPE , Myanmar, Myanmar,Gov. of Myanmar
+1042,19,1564,1,PERSON,General Secretary Naw Zipporah Sein,KNU,KNU/KNLA
+1043,19,1564,1,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+1044,19,1564,17,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+1045,19,1564,17, GPE , Myanmar, Myanmar,Gov. of Myanmar
+1046,19,1564,17, GPE , Burma, Burma,ABSDF
+1047,19,1564,17, GPE , Myanmar, Myanmar,Gov. of Myanmar
+1048,20,1578,0, PERSON , Kalo Htoo Baw,DKBA-5,DKBA-5
+1049,20,1578,0, PERSON , Taungtha Township Pyithu Hluttaw Representative, Taungtha Township Pyithu Hluttaw Representative,
+1050,20,1578,0,PERSON,U Aung Thaung,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1051,20,1578,0, PERSON , Kalo Htoo Baw,DKBA-5,DKBA-5
+1052,20,1578,0,PERSON,U Saw Lah Pwe,DKBA-5,DKBA-5
+1053,20,1578,3, ORG , Kayin State Peace Making Group, Kayin State Peace Making Group,
+1054,20,1578,3, PERSON , Kalo Htoo Baw,DKBA-5,DKBA-5
+1055,20,1578,5, GPE , Karen State, Karen State,
+1056,20,1578,5, GPE , Republic Union Myanmar, Republic Union Myanmar,
+1057,20,1578,8, ORG , Non - disintegration, Non - disintegration,
+1058,20,1578,8, ORG , Union, Union,KNU/KNLA
+1059,20,1578,8, ORG , National Solidarity Perpetuation Sovereignty, National Solidarity Perpetuation Sovereignty,
+1060,20,1578,10, PERSON , Kalo Htoo Baw,DKBA-5,DKBA-5
+1061,20,1578,10, GPE , Sukali, Sukali,
+1062,21,1579,0,ORG,Pa-O National Liberation Organisation (PNLO),Pa-O National Liberation Organisation (PNLO),PNLO
+1063,21,1579,0,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1064,21,1579,0, ORG , National Liberation Organization Myanmar Government, National Liberation Organization Myanmar Government,
+1065,21,1579,4, GPE , Taunggyi, Taunggyi,
+1066,21,1579,4, ORG , Hsihseng, Hsihseng,
+1067,21,1579,4, ORG , Maukmai, Maukmai,
+1068,22,1580,0,ORG,Pa-O National Liberation Organisation (PNLO),Pa-O National Liberation Organisation (PNLO),PNLO
+1069,22,1580,0,ORG,Union Peacemaking Working Committee (UPWC),Union Peacemaking Working Committee (UPWC),UPWC
+1070,22,1580,0, GPE , Myanmar, Myanmar,Gov. of Myanmar
+1071,22,1580,0, GPE , Yangon, Yangon,
+1072,22,1580,1,ORG,Pa-O National Liberation Organisation (PNLO),Pa-O National Liberation Organisation (PNLO),PNLO
+1073,22,1580,2,ORG,Pa-O National Liberation Organisation (PNLO),Pa-O National Liberation Organisation (PNLO),PNLO
+1074,22,1580,6, ORG , Liaison Office Economic, Liaison Office Economic,
+1075,22,1580,7, GPE , Taunggyi, Taunggyi,
+1076,22,1580,8, GPE , Hsee, Hsee,
+1077,22,1580,8, ORG , Mauk Mae, Mauk Mae,
+1078,22,1580,8, GPE , Tha Htone, Tha Htone,
+1079,22,1580,10,ORG,Union Peacemaking Working Committee (UPWC),Union Peacemaking Working Committee (UPWC),UPWC
+1080,22,1580,10,ORG,Pa-O National Liberation Organisation (PNLO),Pa-O National Liberation Organisation (PNLO),PNLO
+1081,22,1580,11, ORG , Anti - Narcotics Development , Anti - Narcotics Development ,
+1082,22,1580,11,ORG,Pa-O National Liberation Organisation (PNLO),Pa-O National Liberation Organisation (PNLO),PNLO
+1083,22,1580,11, PERSON , Ka Du Gyi, Ka Du Gyi,
+1084,22,1580,11, PERSON , Mae Aww, Mae Aww,
+1085,22,1580,11,ORG,Pa-O National Liberation Organisation (PNLO),Pa-O National Liberation Organisation (PNLO),PNLO
+1086,22,1580,11,ORG,Pa-O National Liberation Organisation (PNLO),Pa-O National Liberation Organisation (PNLO),PNLO
+1087,22,1580,11, ORG , State, State,SSPP/SSA
+1088,22,1580,11, ORG , healthcare, healthcare,
+1089,22,1580,12,ORG,Pa-O National Liberation Organisation (PNLO),Pa-O National Liberation Organisation (PNLO),PNLO
+1090,22,1580,16,ORG,Pa-O National Liberation Organisation (PNLO),Pa-O National Liberation Organisation (PNLO),PNLO
+1091,22,1580,16,ORG,Union Peacemaking Working Committee (UPWC),Union Peacemaking Working Committee (UPWC),UPWC
+1092,22,1580,16, ORG , Remark, Remark,
+1093,22,1580,16,ORG,Pa-O National Liberation Organisation (PNLO),Pa-O National Liberation Organisation (PNLO),PNLO
+1094,22,1580,16,ORG,United Nationalities Federal Council (UNFC),United Nationalities Federal Council (UNFC),UNFC
+1095,22,1580,18,ORG,Pa-O National Liberation Organisation (PNLO),Pa-O National Liberation Organisation (PNLO),PNLO
+1096,22,1580,18,PERSON,U Khun Okkar,PNLO,PNLO
+1097,22,1580,18,PERSON,U Khun Myint Htun, U Khun Myint Htun,
+1098,22,1580,18,PERSON,U Khin Mg Soe,UPWC,UPWC
+1099,23,1581,0,ORG,Kachin Independence Organisation (KIO),Kachin Independence Organisation (KIO),KIO
+1100,23,1581,0, GPE , Myitkyina City, Myitkyina City,
+1101,23,1581,0, ORG , Kachin State, Kachin State,
+1102,23,1581,0, GPE , Myanmar, Myanmar,Gov. of Myanmar
+1103,23,1581,0,ORG,Kachin Independence Organisation (KIO),Kachin Independence Organisation (KIO),KIO
+1104,23,1581,2, ORG , Monitoring Committees, Monitoring Committees,
+1105,23,1581,5, GPE , Myitkyina, Myitkyina,
+1106,23,1581,5,ORG,Kachin Independence Organisation (KIO),Kachin Independence Organisation (KIO),KIO
+1107,23,1581,8, GPE , Myanmar, Myanmar,Gov. of Myanmar
+1108,24,1582,0, ORG , NDAA, NDAA,
+1109,24,1582,1, ORG , NDAA, NDAA,
+1110,24,1582,1, GPE , Rangoon, Rangoon,
+1111,24,1582,1, GPE , Taunggyi, Taunggyi,
+1112,24,1582,1, ORG , Tachilek, Tachilek,
+1113,24,1582,1, ORG , Mandalay, Mandalay,
+1114,24,1582,3, ORG , NDAA, NDAA,
+1115,24,1582,3, LOC , Eastern Shan, Eastern Shan,
+1116,24,1582,5, ORG , NDAA, NDAA,
+1117,24,1582,9, ORG , NDAA, NDAA,
+1118,24,1582,11, ORG , NDAA, NDAA,
+1119,24,1582,17, ORG , NDAA, NDAA,
+1120,24,1582,19, ORG , NGOS, NGOS,
+1121,24,1582,19,ORG,United Nations,United Nations,UN
+1122,24,1582,21, ORG , NDAA, NDAA,
+1123,24,1582,23, ORG , NDAA, NDAA,
+1124,24,1582,27, ORG , NDAA, NDAA,
+1125,24,1582,31, ORG , NDAA, NDAA,
+1126,24,1582,31, GPE , Republic Union Myanmar, Republic Union Myanmar,
+1127,24,1582,33, ORG , NDAA, NDAA,
+1128,24,1582,33, ORG , NDAA, NDAA,
+1129,24,1582,33, ORG , NDAA, NDAA,
+1130,24,1582,35, ORG , NDAA, NDAA,
+1131,24,1582,37, ORG , NDAA, NDAA,
+1132,24,1582,39, ORG , NDAA, NDAA,
+1133,25,1599,0, ORG , National Reconciliation , National Reconciliation ,
+1134,25,1599,0, ORG , Deed Commitment Peace National Reconciliation, Deed Commitment Peace National Reconciliation,
+1135,25,1599,0, GPE , Myanmar, Myanmar,Gov. of Myanmar
+1136,25,1599,3, ORG , Union, Union,KNU/KNLA
+1137,25,1599,3, ORG , Panglong, Panglong,
+1138,25,1599,3, ORG , Political Dialogue, Political Dialogue,
+1139,25,1599,5, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+1140,25,1599,10, ORG , Political Dialogue, Political Dialogue,
+1141,25,1599,10, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+1142,25,1599,10, ORG , General Elections, General Elections,
+1143,25,1599,10, ORG , Political Dialogue, Political Dialogue,
+1144,25,1599,13, ORG , Deed Commitment Peace National Reconciliation, Deed Commitment Peace National Reconciliation,
+1145,26,1603,0,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+1146,26,1603,1,ORG,United Nations Office on Drugs and Crime (UNODC),United Nations Office on Drugs and Crime (UNODC),UNODC
+1147,26,1603,1, PERSON , Mongnai, Mongnai,
+1148,26,1603,1, PERSON , Mongpan, Mongpan,
+1149,26,1603,2,ORG,United Nations Office on Drugs and Crime (UNODC),United Nations Office on Drugs and Crime (UNODC),UNODC
+1150,26,1603,5,ORG,United Nations Office on Drugs and Crime (UNODC),United Nations Office on Drugs and Crime (UNODC),UNODC
+1151,26,1603,6,ORG,United Nations Office on Drugs and Crime (UNODC),United Nations Office on Drugs and Crime (UNODC),UNODC
+1152,26,1603,8, ORG , CCDAC, CCDAC,
+1153,26,1603,8,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+1154,26,1603,9, ORG , CCDAC - UNODC, CCDAC - UNODC,
+1155,26,1603,9,ORG,United Nations Office on Drugs and Crime (UNODC),United Nations Office on Drugs and Crime (UNODC),UNODC
+1156,26,1603,9, ORG , UN Office, UN Office,
+1157,26,1603,9, ORG , Central Committee Drug Abuse Control, Central Committee Drug Abuse Control,
+1158,26,1603,9,ORG,United Nations Office on Drugs and Crime (UNODC),United Nations Office on Drugs and Crime (UNODC),UNODC
+1159,27,1841,3, ORG , Genuine, Genuine,
+1160,27,1841,4, ORG , Formation Union Armed Forces, Formation Union Armed Forces,
+1161,27,1841,8, ORG , Achieving, Achieving,
+1162,27,1841,12, ORG , Aims & Objectives, Aims & Objectives,
+1163,27,1841,16, ORG , Federal Union, Federal Union,
+1164,27,1841,21, GPE , Panlong, Panlong,
+1165,27,1841,21, PERSON , Pyidaungsu Accord, Pyidaungsu Accord,
+1166,27,1841,22, ORG , Nationalities, Nationalities,UNA
+1167,27,1841,23, PERSON , Pyidaungsu Accord, Pyidaungsu Accord,
+1168,27,1841,40, ORG , Illegal Association, Illegal Association,
+1169,27,1841,52, ORG , “ Common Agreement, “ Common Agreement,
+1170,27,1841,55,PERSON,U Twan Zaw,Arakan National Council,
+1171,27,1841,55,ORG,Arakan Army,Arakan Army,AA
+1172,27,1841,56,PERSON,U Tun Mrat Naing,Arakan Army,AA
+1173,27,1841,57,PERSON,Pu Zin Cun,CNF,CNF
+1174,27,1841,57,ORG,Arakan Army,Arakan Army,AA
+1175,27,1841,58,PERSON,Gen. Saw Mo Shay,DKBA,DKBA
+1176,27,1841,59,PERSON,Koon Abel Tweed,KNPP,KNPP
+1177,27,1841,59,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+1178,27,1841,62,PERSON,Col. Saw Kyaw Dah,KNU,KNU/KNLA
+1179,27,1841,62,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+1180,27,1841,62,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+1181,27,1841,63,PERSON,Kya Khunsa,Lahu Democratic Union,LDU
+1182,27,1841,64,ORG,Lahu Democratic Union,Lahu Democratic Union,LDU
+1183,28,2369,1, ORG , Union, Union,KNU/KNLA
+1184,28,2369,1, PERSON , Panglong, Panglong,
+1185,28,2369,1, GPE , Republic Union Myanmar, Republic Union Myanmar,
+1186,28,2369,1, ORG , Union, Union,KNU/KNLA
+1187,28,2369,1, PERSON , Century Panglong, Century Panglong,
+1188,28,2369,3,ORG,Union Level Joint Ceasefire Monitoring Committee (JMC-U),Union Level Joint Ceasefire Monitoring Committee (JMC-U),JMC-U
+1189,28,2369,3,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+1190,28,2369,5, ORG , Nationwide Ceasefire Agreement, Nationwide Ceasefire Agreement,
+1191,28,2369,6, PERSON , Century Panglong, Century Panglong,
+1192,28,2369,6, ORG , Nationwide Ceasefire Agreement Section 20, Nationwide Ceasefire Agreement Section 20,
+1193,28,2369,8,PERSON,Dr. Tin Myo Win,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1194,28,2369,8,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1195,28,2369,9,PERSON,Dr. May Win Myint,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1196,28,2369,9,ORG,Hluttaw,Hluttaw,Hluttaw
+1197,28,2369,10,ORG,Tatmadaw,Tatmadaw,Tatmadaw
+1198,28,2369,11, PERSON , Lian Hmung Sakhong, Lian Hmung Sakhong,
+1199,28,2369,11,ORG,Ethnic Armed Organizations (EAO),Ethnic Armed Organizations (EAO),EAO
+1200,28,2369,12,PERSON,U Thu Wai,Political Parties Group,
+1201,28,2369,12, ORG , Political Parties Group  Page, Political Parties Group  Page,
+1202,28,2369,12,PERSON,U Kyaw Win,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1203,28,2369,12,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1204,28,2369,12,ORG,Ethnic Armed Organizations (EAO),Political Parties Group,
+1205,28,2369,12, ORG , Political Parties Group  Union, Political Parties Group  Union,
+1206,28,2369,12, PERSON , III Addendum, III Addendum,
+1207,28,2369,13, GPE , Republic Union Myanmar, Republic Union Myanmar,
+1208,28,2369,13, ORG , Union, Union,KNU/KNLA
+1209,28,2369,13, ORG , Union, Union,KNU/KNLA
+1210,28,2369,13, ORG , Panglong, Panglong,
+1211,28,2369,23, GPE , Republic Union Myanmar, Republic Union Myanmar,
+1212,28,2369,25, ORG , NCA, NCA,
+1213,28,2369,27,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+1214,28,2369,27,ORG,Joint Monitoring Committee (JMC),Joint Monitoring Committee (JMC),JMC
+1215,28,2369,29, GPE , Republic Union Myanmar, Republic Union Myanmar,
+1216,28,2369,32, ORG , NCA, NCA,
+1217,28,2369,35,ORG,Hluttaw,Hluttaw,Hluttaw
+1218,28,2369,35,ORG,Tatmadaw,Tatmadaw,Tatmadaw
+1219,28,2369,35, ORG , NCA - S, NCA - S,
+1220,28,2369,36, ORG , NCA, NCA,
+1221,28,2369,37, ORG , NCA, NCA,
+1222,28,2369,39, ORG , NCA, NCA,
+1223,28,2369,41, ORG , NCA, NCA,
+1224,28,2369,41, ORG , NCA, NCA,
+1225,28,2369,41,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+1226,28,2369,43,ORG,Union Peace Dialogue Joint Committee (UPDJC),Union Peace Dialogue Joint Committee (UPDJC),UPDJC
+1227,28,2369,43, PERSON , III Addendum, III Addendum,
+1228,28,2369,43, ORG , State, State,SSPP/SSA
+1229,28,2369,43, ORG , Establishment Union, Establishment Union,
+1230,28,2369,44, ORG , Union, Union,KNU/KNLA
+1231,28,2369,45, ORG , Implementing Union, Implementing Union,
+1232,28,2369,47, ORG , NCA, NCA,
+1233,28,2369,47, PERSON , III Addendum, III Addendum,
+1234,28,2369,47, ORG , Union, Union,KNU/KNLA
+1235,28,2369,47, PERSON , Panglong, Panglong,
+1236,28,2369,47, GPE , Republic Union Myanmar, Republic Union Myanmar,
+1237,28,2369,47, ORG , Union, Union,KNU/KNLA
+1238,28,2369,51, ORG , Constitutional Tribunal, Constitutional Tribunal,
+1239,29,769,0, GPE , Lashio, Lashio,
+1240,29,769,4, GPE , Republic Union Myanmar, Republic Union Myanmar,
+1241,29,769,5, GPE , Republic Union Myanmar, Republic Union Myanmar,
+1242,29,769,6, ORG , State, State,SSPP/SSA
+1243,29,769,6, ORG , State, State,SSPP/SSA
+1244,29,769,6, ORG , State, State,SSPP/SSA
+1245,30,770,0,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+1246,30,770,0, GPE , Kengtung, Kengtung,
+1247,30,770,1, GPE , Special Region, Special Region,
+1248,30,770,2, GPE , Special Region, Special Region,
+1249,30,770,3, GPE , Special Region, Special Region,
+1250,30,770,4, GPE , Special Region, Special Region,
+1251,30,770,4, GPE , Republic Union Myanmar, Republic Union Myanmar,
+1252,30,770,4, GPE , Special Region, Special Region,
+1253,30,770,5, GPE , Republic Union Myanmar, Republic Union Myanmar,
+1254,30,770,6, ORG , State, State,SSPP/SSA
+1255,30,770,6, ORG , State, State,SSPP/SSA
+1256,30,770,6, GPE , Special Region, Special Region,
+1257,30,770,6, ORG , State, State,SSPP/SSA
+1258,31,771,0,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1259,31,771,0, ORG , Chinland Guardian, Chinland Guardian,
+1260,31,771,0, GPE , Myanmar, Myanmar,Gov. of Myanmar
+1261,31,771,0, ORG , Union Myanmar, Union Myanmar,
+1262,31,771,0, ORG , Ethnic Affairs, Ethnic Affairs,
+1263,31,771,0, ORG , Internal Peace Committee, Internal Peace Committee,
+1264,31,771,0, ORG , People ’s Parliament, People ’s Parliament,
+1265,31,771,0, ORG , National Parliament, National Parliament,
+1266,31,771,0, ORG , Union, Union,KNU/KNLA
+1267,31,771,0,PERSON,U Aung Min,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1268,31,771,0,PERSON,U Thein Sein,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1269,31,771,0,PERSON,Pu Zing Cung,CNF,CNF
+1270,31,771,0,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1271,31,771,0, ORG , Joint General, Joint General,
+1272,31,771,0,PERSON,Dr. Sui Khar,CNF,CNF
+1273,31,771,0, GPE , Thailand, Thailand,
+1274,31,771,0,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1275,31,771,0, ORG , Central Executive Committee ’s, Central Executive Committee ’s,
+1276,31,771,1,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1277,31,771,2,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1278,31,771,2,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1279,31,771,3,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1280,31,771,3,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1281,31,771,3, ORG , Liaison Office, Liaison Office,
+1282,31,771,3, GPE , Thantlang, Thantlang,
+1283,31,771,4, ORG , Liaison Offices, Liaison Offices,
+1284,31,771,4, GPE , Tedim, Tedim,
+1285,31,771,4, GPE , Matupi, Matupi,
+1286,31,771,5,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1287,31,771,5, GPE , Thantlang Township :, Thantlang Township :,
+1288,31,771,5, GPE , Tlangpi Village Tract, Tlangpi Village Tract,
+1289,31,771,5, GPE , Dawn Village Tract, Dawn Village Tract,
+1290,31,771,5, PERSON , Zang Tlang Village Tract, Zang Tlang Village Tract,
+1291,31,771,6, GPE , Tedim Township ’s, Tedim Township ’s,
+1292,31,771,6, PERSON , Bukphir Village, Bukphir Village,
+1293,31,771,6, ORG , Paletwa Township ’s Kung Pin, Paletwa Township ’s Kung Pin,
+1294,31,771,6, GPE , Para, Para,
+1295,31,771,6, GPE , Pathiantlang Village, Pathiantlang Village,
+1296,31,771,7,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1297,31,771,7,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1298,31,771,7,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1299,31,771,8,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1300,31,771,8,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1301,31,771,8,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1302,31,771,10,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1303,31,771,10,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1304,31,771,10,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1305,31,771,10,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1306,31,771,11,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1307,31,771,11,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1308,31,771,11, ORG , Non - Governmental Organizations, Non - Governmental Organizations,
+1309,31,771,11, ORG , Union Myanmar, Union Myanmar,
+1310,31,771,13,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1311,31,771,13,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1312,31,771,13,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1313,31,771,13, LOC , Special Economic Zone, Special Economic Zone,
+1314,31,771,13, ORG , Union Myanmar, Union Myanmar,
+1315,31,771,13, ORG , State, State,SSPP/SSA
+1316,31,771,14,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1317,31,771,14,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1318,31,771,14,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1319,31,771,14,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1320,31,771,14, LOC , Chin State, Chin State,
+1321,31,771,15,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1322,31,771,15,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1323,31,771,15, GPE , Chin State, Chin State,
+1324,31,771,16,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1325,31,771,16,ORG,Chin National Front (CNF),Chin National Front (CNF),CNF
+1326,31,771,16, PERSON , Railway, Railway,
+1327,31,771,16,PERSON,U Aung Min,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1328,31,771,16, ORG , Environment Forestry, Environment Forestry,
+1329,31,771,16,PERSON,U Win Htun,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1330,31,771,16,PERSON,U Hung Ngai,Chin State Government,
+1331,31,771,16, ORG , Peace Tranquillity Committee, Peace Tranquillity Committee,
+1332,32,773,0,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+1333,32,773,0,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+1334,32,773,0,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+1335,32,773,0, GPE , Taunggyi, Taunggyi,
+1336,32,773,1, ORG , Union, Union,KNU/KNLA
+1337,32,773,1, ORG , Panglong, Panglong,
+1338,32,773,2,ORG,Shan State Progress Party (SSPP)/Shan State Army (SSA),Shan State Progress Party (SSPP)/Shan State Army (SSA),SSPP/SSA
+1339,33,774,0, ORG , New Mon State Party, New Mon State Party,
+1340,33,774,0,ORG,New Mon State Party (NMSP),New Mon State Party (NMSP),NMSP
+1341,33,774,0,ORG,New Mon State Party (NMSP),New Mon State Party (NMSP),NMSP
+1342,33,774,2, ORG , Formation Union, Formation Union,
+1343,34,775,0, ORG , State, State,SSPP/SSA
+1344,34,775,0,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+1345,34,775,0,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+1346,34,775,0,ORG,Tatmadaw,Tatmadaw,Tatmadaw
+1347,34,775,0,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+1348,34,775,1,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+1349,34,775,1,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+1350,34,775,1, PERSON , Mela, Mela,
+1351,34,775,2, PERSON , Liaison, Liaison,
+1352,34,775,3, GPE , Phayathonzu, Phayathonzu,
+1353,34,775,3, PERSON , Kawkareik, Kawkareik,
+1354,34,775,3, GPE , Mawtaung, Mawtaung,
+1355,34,775,3, GPE , Kawthoung, Kawthoung,
+1356,34,775,5,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+1357,34,775,5,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+1358,34,775,6, ORG , State, State,SSPP/SSA
+1359,34,775,7,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+1360,34,775,7,ORG,Karen National Union (KNU)/Karen National Liberation Army (KNLA),Karen National Union (KNU)/Karen National Liberation Army (KNLA),KNU/KNLA
+1361,35,776,0, ORG , Rakhine State Government Peace - Making Group, Rakhine State Government Peace - Making Group,
+1362,35,776,0,ORG,Rakhine State Liberation Party (RSLP),Rakhine State Liberation Party (RSLP),RSLP
+1363,35,776,0, GPE , Sittway, Sittway,
+1364,35,776,0,ORG,Tatmadaw,Tatmadaw,Tatmadaw
+1365,35,776,0,ORG,Rakhine State Liberation Party (RSLP),Rakhine State Liberation Party (RSLP),RSLP
+1366,35,776,1,ORG,Rakhine State Liberation Party (RSLP),Rakhine State Liberation Party (RSLP),RSLP
+1367,35,776,1, PERSON , Kyauktaw , Kyauktaw ,
+1368,35,776,2,ORG,Rakhine State Liberation Party (RSLP),Rakhine State Liberation Party (RSLP),RSLP
+1369,35,776,3, ORG , Peace Making Group, Peace Making Group,
+1370,35,776,3,ORG,Government of the Republic of the Union of Myanmar,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1371,35,776,3,ORG,Rakhine State Liberation Party (RSLP),Rakhine State Liberation Party (RSLP),RSLP
+1372,35,776,4, ORG , Rakhine State Peace Discussion Group, Rakhine State Peace Discussion Group,
+1373,35,776,4, ORG , State Security, State Security,
+1374,35,776,4,PERSON,Htein Lin,Government of the Republic of the Union of Myanmar,Gov. of Myanmar
+1375,35,776,5,ORG,Rakhine State Liberation Party (RSLP),Rakhine State Liberation Party (RSLP),RSLP
+1376,35,776,5, ORG , Joint General, Joint General,
